@@ -3,31 +3,49 @@ const fs = require('fs');
 const csv = require('fast-csv');
 const EventEmitter = require('events');
 
-const MAX_CONCURRENT_TASKS = 1; //GOING TOO FAST
-const DATA_SIZE = 17810;
+const MAX_CONCURRENT_TASKS = 2; //GOING TOO FAST
+const DATA_SIZE = 5;
 const DELAY = 2000; //Delay for each manga in milisecond
-let index = 1;
+const WANTED_GENRE = 'Fantasy';
 
 
 class Manga {
-    constructor(title, description, background, genres, characters) {
+    constructor(title, authors, description, background, genres, characters, members, score) {
         this.title = title;
+        this.authors = authors;
+        this.members = members;
+        this.score = score;
         this.description = description;
         this.background = background;
         this.genres = genres;
         this.characters = characters;
+        
     }
 }
 
 EventEmitter.defaultMaxListeners = MAX_CONCURRENT_TASKS;
-const csvData = fs.createReadStream('WebScrapeTool/manga_dataset.csv');
+const csvData = fs.createReadStream('./manga_dataset.csv');
 const results = [];
 
 csv.parseStream(csvData, { headers: true })
     .on('data', (data) => {
-        results.push(data);
+        // Remove non-Manga entries
+        if (data['Type'] !== 'Manga')
+            return;
+        
+        // convert Members and Score to number
+        let {Members, Score, ...rest} = data;
+
+        results.push({
+            Members: Number.parseInt(Members),
+            Score: Number.parseFloat(Score),
+            ...rest
+        });
     })
     .on('end', async () => {
+        // Sort by Members
+        results.sort((a, b) => b.Members - a.Members);
+
         const browser = await puppeteer.launch({ headless: true });
         const scrapeTasks = results.slice(0, DATA_SIZE).map((entry) => {
             const title = entry['Title'];
@@ -37,6 +55,7 @@ csv.parseStream(csvData, { headers: true })
 
         const mangaDataArray = await runInParallel(scrapeTasks, MAX_CONCURRENT_TASKS);
 
+        // Write scraped data to JSON file
         const jsonFilePath = 'manga_data.json';
         writeJsonFile(jsonFilePath, mangaDataArray);
 
@@ -73,46 +92,80 @@ async function scrapeMangaData(browser, url, title) {
 
         await page.goto(url);
 
-        const description = await page.evaluate(() => {
-            const descriptionElement = document.querySelector('span[itemprop="description"]');
-            return descriptionElement ? descriptionElement.textContent.trim() : '';
-        });
-
-        const genres = await page.evaluate(() => {
-            const genreElements = document.querySelectorAll('.spaceit_pad [itemprop="genre"]');
-            const genres = [];
-
-            genreElements.forEach((element) => {
-                genres.push(element.textContent.trim());
-            });
-
-            return genres;
-        });
-
-        let background = '';
-        const elements = await page.$$('#content > table > tbody > tr > td:nth-child(2) > div.rightside.js-scrollfix-bottom-rel > table');
-        for (const element of elements) {
-            const textContent = await page.evaluate(el => el.textContent, element);
-            const match = textContent.match(/EditBackground([\s\S]*?)(?:\n\s*\n|$)/);
-
-            if (match) {
-                background = match[1].trim();
-                break;
-            }
-        }
-
-        await page.goto(url+'/characters');
-        // Get characters directly from the main manga page
-        const characters = await page.$$eval('h3.h3_character_name', elements => {
+        const genres = await page.$$eval('span[itemprop="genre"]', elements => {
             return elements.map(element => element.textContent.trim());
         });
 
-        const newManga = new Manga(title, description, background, genres, characters);
-        console.log(index + ': ' + title + ' finished');
-        index++;
+        // ignore if not wanted genre
+        if (!genres.includes(WANTED_GENRE)) {
+            console.log(title + 'skipped');
+            await page.close();
+            return null;
+        }
 
+        let description = await page.$eval('span[itemprop="description"]', element => element.textContent.trim());
 
-        // Add delay to prevent being indentify as bot
+        let background = await page.$eval('.rightside > table tr:nth-of-type(1) h2:nth-of-type(2)', elements => {
+            // next sibling
+            let pointer = elements.nextSibling;
+            let array = []
+            while (pointer) {
+                // if element is i => format it
+                if (pointer.tagName == 'I') {
+                    array.push("'"+pointer.textContent.trim()+"' ");
+                // if element is br => add new line
+                } else if (pointer.tagName == 'BR') {
+                    array.push('\n');
+                // if element is text node => add it directly
+                } else if (pointer.nodeType == 3 ) {
+                    let text = pointer.textContent.trim();
+                    if (text != '') {
+                        array.push(text);
+                    }
+                }
+                // move to next sibling
+                pointer = pointer.nextSibling;
+            }
+            return array.join('');
+        })
+
+        let authors = await page.$$eval('.information.studio.author a', elements => elements.map(element => element.textContent.trim()));
+        let score = await page.$eval('.score-label', element => Number.parseFloat(element.textContent.trim()));
+        let members = await page.$eval('.numbers.members', element => Number.parseInt(element.textContent.trim().match(/\d+/)[0] || 0));
+
+        // Get characters
+        await page.goto(url+'/characters');
+
+        let characters = await page.$$eval('#manga-character-container > table', elements => {
+            return elements.map(element => {
+                let spaceIt = Array.from(element.querySelectorAll('.spaceit_pad'));
+
+                if (spaceIt.length < 3) {
+                    return null;
+                }
+                
+                let name = spaceIt[0]?.textContent.trim();
+                let role = spaceIt[1]?.textContent.trim();
+                let match = spaceIt[2]?.textContent.trim().match(/\d+/) || 0;
+                let popularity = match ? Number.parseInt(match[0]) : 0;
+
+                // ignore unpopular characters
+                // if you can't even surpass 100 popularity
+                // I don't think computation time is worth it
+                if (popularity < 100) {
+                    return null;
+                }
+
+                return {name, role, popularity};
+            })
+        })
+        characters = characters.filter(character => character != null).sort((a, b) => b.popularity - a.popularity);
+
+        const newManga = new Manga(title, authors, description, background, genres, characters, members, score);
+        console.log(title + ' finished');
+        // index++;
+
+        // Add delay to prevent being identify as bot
         await new Promise(resolve => setTimeout(resolve, DELAY));
         // Close the page after scraping data
         await page.close();
