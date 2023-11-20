@@ -4,9 +4,9 @@ const csv = require('fast-csv');
 const EventEmitter = require('events');
 
 const MAX_CONCURRENT_TASKS = 1; //GOING TOO FAST
-const DATA_SIZE = 17808;
+const DATA_SIZE = 17810;
 const DELAY = 2000; //Delay for each manga in milisecond
-let index = 0;
+let index = 1;
 
 
 class Manga {
@@ -101,6 +101,7 @@ async function scrapeMangaData(browser, url, title) {
             }
         }
 
+        await page.goto(url+'/characters');
         // Get characters directly from the main manga page
         const characters = await page.$$eval('h3.h3_character_name', elements => {
             return elements.map(element => element.textContent.trim());
