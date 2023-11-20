@@ -20,7 +20,7 @@ class Manga {
 }
 
 EventEmitter.defaultMaxListeners = MAX_CONCURRENT_TASKS;
-const csvData = fs.createReadStream('manga_dataset.csv');
+const csvData = fs.createReadStream('WebScrapeTool/manga_dataset.csv');
 const results = [];
 
 csv.parseStream(csvData, { headers: true })
