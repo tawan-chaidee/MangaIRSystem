@@ -22,7 +22,7 @@ client.search({
               {
                 multi_match: {
                   query: query,
-                  fields: ["title^3", "author^2", "description", "alternativeTitle^2.5", "genres^2"],
+                  fields: ["title^3", "author^2", "description^0.5", "background^0.25", "alternativeTitle^2.5", "genres^2"],
                 }
               }
             ]
@@ -32,13 +32,14 @@ client.search({
           { script_score: { script: "_score * Math.log(doc['members'].value)" }}
         ],
         score_mode: "multiply"
-      }
-    }
+      },
+    },
+    size: 25,
   }
 }).then((res) => {
   res.hits.hits.forEach((hit) => {
     let source: any = hit._source
     let score = hit._score
-    console.log(source.title, source.alternativeTitle, score)
+    console.log(source.title, score)
   })
 })

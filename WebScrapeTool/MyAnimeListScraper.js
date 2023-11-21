@@ -5,16 +5,18 @@ const EventEmitter = require('events');
 const https = require('https');
 
 const MAX_CONCURRENT_TASKS = 1; //GOING TOO FAST
-const START_INDEX = 0;
-const DATA_SIZE = 1;
+const START_INDEX = 75;
+const DATA_SIZE = 100;
 const DELAY = 0; //Delay for each manga in milisecond
 const WANTED_GENRE = 'Fantasy';
 const JSON_FILE_PATH = 'manga_data.json';
 const JSON_FOLDER = './manga_data/';
+const IMAGE_FOLDER = './manga_images/';
 
 
 class Manga {
-    constructor(title, alternativeTitle, authors, description, background, genres, characters, members, score) {
+    constructor(id, title, alternativeTitle, authors, description, background, genres, characters, members, score) {
+        this.id = id;
         this.title = title;
         this.alternativeTitle = alternativeTitle
         this.authors = authors;
@@ -27,7 +29,8 @@ class Manga {
     }
 }
 
-EventEmitter.defaultMaxListeners = MAX_CONCURRENT_TASKS;
+// EventEmitter.defaultMaxListeners = MAX_CONCURRENT_TASKS;
+process.setMaxListeners(0);
 const csvData = fs.createReadStream('./WebScrapeTool/manga_dataset.csv');
 const results = [];
 
@@ -36,9 +39,9 @@ csv.parseStream(csvData, { headers: true })
         // Remove non-Manga entries
         if (data['Type'] !== 'Manga')
             return;
-        
+
         // convert Members and Score to number
-        let {Members, Score, ...rest} = data;
+        let { Members, Score, ...rest } = data;
 
         results.push({
             Members: parseInt(Members),
@@ -48,12 +51,12 @@ csv.parseStream(csvData, { headers: true })
     })
     .on('end', async () => {
         // Sort by Members
-        results.sort((a, b) => b.Members - a.Members);
+        results.sort((a, b) => b.Members - a.Members).map((entry, index) => entry['index'] = index);
         console.log(results)
 
         const browser = await puppeteer.launch({ headless: true });
-        const scrapeTasks = results.slice(START_INDEX, START_INDEX+DATA_SIZE).map((entry) => {
-            let index = results.indexOf(entry);
+        const scrapeTasks = results.slice(START_INDEX, START_INDEX + DATA_SIZE).map((entry) => {
+            let index = entry['index'];
             const title = entry['Title'];
             const url = entry['page_url'];
             return () => scrapeMangaData(browser, url, title, index);
@@ -110,7 +113,7 @@ async function scrapeMangaData(browser, url, title, index) {
 
         // ignore if not wanted genre
         if (!genres.includes(WANTED_GENRE)) {
-            console.log(title + ' skipped');
+            console.log(index + ': ' + title + ' skipped');
             await page.close();
             return null;
         }
@@ -124,12 +127,12 @@ async function scrapeMangaData(browser, url, title, index) {
             while (pointer) {
                 // if element is i => format it
                 if (pointer.tagName == 'I') {
-                    array.push("'"+pointer.textContent.trim()+"' ");
-                // if element is br => add new line
+                    array.push("'" + pointer.textContent.trim() + "' ");
+                    // if element is br => add new line
                 } else if (pointer.tagName == 'BR') {
                     array.push('\n');
-                // if element is text node => add it directly
-                } else if (pointer.nodeType == 3 ) {
+                    // if element is text node => add it directly
+                } else if (pointer.nodeType == 3) {
                     let text = pointer.textContent.trim();
                     if (text != '') {
                         array.push(text);
@@ -147,29 +150,38 @@ async function scrapeMangaData(browser, url, title, index) {
             let text = await element.evaluate(el => el.textContent, element);
             alternativeTitle.push(text.trim());
         }
-        
+
         let authors = await page.$$eval('.information.studio.author a', elements => elements.map(element => element.textContent.trim()));
         let score = await page.$eval('.score-label', element => parseFloat(element.textContent.trim()));
         let members = await page.$eval('.numbers.members', element => parseInt(element.textContent.trim().match(/\d+/)[0] || 0));
-        
+
         // download image
         let imageUrl = await page.$eval('.leftside img', element => element.src)
-        let imageLocation = JSON_FOLDER+'/'+index+'.jpg';
+        let imageLocation = IMAGE_FOLDER + '/' + index + '.jpg';
         let imageFile = fs.createWriteStream(imageLocation);
 
-        https.get(imageUrl, (response) => {
-            response.pipe(imageFile)
+        if (!fs.existsSync(imageLocation)) {
 
-            imageFile.on('finish', () => {
-                imageFile.close();
+            fs.mkdir(IMAGE_FOLDER, { recursive: true }, (err) => {
+                if (err) {
+                    console.error('Error creating image folder:', err);
+                }
             });
-        }).on('error',err => {
-            console.error('Error downloading image for', title, ':', err);
-            fs.unlink(imageLocation, (err) => {});
-        });
+
+            https.get(imageUrl, (response) => {
+                response.pipe(imageFile)
+
+                imageFile.on('finish', () => {
+                    imageFile.close();
+                });
+            }).on('error', err => {
+                console.error('Error downloading image for', title, ':', err);
+                fs.unlink(imageLocation, (err) => { });
+            });
+        }
 
         // Get characters
-        await page.goto(url+'/characters');
+        await page.goto(url + '/characters');
 
         let characters = await page.$$eval('#manga-character-container > table', elements => {
             return elements.map(element => {
@@ -178,7 +190,7 @@ async function scrapeMangaData(browser, url, title, index) {
                 if (spaceIt.length < 3) {
                     return null;
                 }
-                
+
                 let name = spaceIt[0]?.textContent.trim();
                 let role = spaceIt[1]?.textContent.trim();
                 let match = spaceIt[2]?.textContent.trim().match(/\d+/) || 0;
@@ -191,13 +203,13 @@ async function scrapeMangaData(browser, url, title, index) {
                     return null;
                 }
 
-                return {name, role, popularity};
+                return { name, role, popularity };
             })
         })
         characters = characters.filter(character => character != null).sort((a, b) => b.popularity - a.popularity);
 
-        const newManga = new Manga(title, alternativeTitle, authors, description, background, genres, characters, members, score);
-        console.log(title + ' finished');
+        const newManga = new Manga(index, title, alternativeTitle, authors, description, background, genres, characters, members, score);
+        console.log(index + ': ' + title + ' finished');
         // index++;
 
         // Add delay to prevent being identify as bot
@@ -226,7 +238,7 @@ function writeJsonFile(filePath, data) {
     });
 
     filePath = filePath.replace(/[\?%*:|"<>]/g, '-');
-    fs.writeFile(filePath, jsonString, {flag: "w", encoding: "utf-8"}, (err) => {
+    fs.writeFile(filePath, jsonString, { flag: "w", encoding: "utf-8" }, (err) => {
         if (err) {
             console.error('Error writing JSON file:', err);
         } else {

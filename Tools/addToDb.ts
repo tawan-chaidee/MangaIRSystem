@@ -43,6 +43,7 @@ async function main() {
       await client.index({
         index,
         document: data,
+        id: data.id,
       })
     }
   })
