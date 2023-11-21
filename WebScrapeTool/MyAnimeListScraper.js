@@ -2,10 +2,11 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const csv = require('fast-csv');
 const EventEmitter = require('events');
+const https = require('https');
 
 const MAX_CONCURRENT_TASKS = 1; //GOING TOO FAST
-const START_INDEX = 200;
-const DATA_SIZE = 100;
+const START_INDEX = 0;
+const DATA_SIZE = 1;
 const DELAY = 0; //Delay for each manga in milisecond
 const WANTED_GENRE = 'Fantasy';
 const JSON_FILE_PATH = 'manga_data.json';
@@ -23,7 +24,6 @@ class Manga {
         this.background = background;
         this.genres = genres;
         this.characters = characters;
-        
     }
 }
 
@@ -41,8 +41,8 @@ csv.parseStream(csvData, { headers: true })
         let {Members, Score, ...rest} = data;
 
         results.push({
-            Members: Number.parseInt(Members),
-            Score: Number.parseFloat(Score),
+            Members: parseInt(Members),
+            Score: parseFloat(Score),
             ...rest
         });
     })
@@ -149,8 +149,24 @@ async function scrapeMangaData(browser, url, title, index) {
         }
         
         let authors = await page.$$eval('.information.studio.author a', elements => elements.map(element => element.textContent.trim()));
-        let score = await page.$eval('.score-label', element => Number.parseFloat(element.textContent.trim()));
-        let members = await page.$eval('.numbers.members', element => Number.parseInt(element.textContent.trim().match(/\d+/)[0] || 0));
+        let score = await page.$eval('.score-label', element => parseFloat(element.textContent.trim()));
+        let members = await page.$eval('.numbers.members', element => parseInt(element.textContent.trim().match(/\d+/)[0] || 0));
+        
+        // download image
+        let imageUrl = await page.$eval('.leftside img', element => element.src)
+        let imageLocation = JSON_FOLDER+'/'+index+'.jpg';
+        let imageFile = fs.createWriteStream(imageLocation);
+
+        https.get(imageUrl, (response) => {
+            response.pipe(imageFile)
+
+            imageFile.on('finish', () => {
+                imageFile.close();
+            });
+        }).on('error',err => {
+            console.error('Error downloading image for', title, ':', err);
+            fs.unlink(imageLocation, (err) => {});
+        });
 
         // Get characters
         await page.goto(url+'/characters');
@@ -166,7 +182,7 @@ async function scrapeMangaData(browser, url, title, index) {
                 let name = spaceIt[0]?.textContent.trim();
                 let role = spaceIt[1]?.textContent.trim();
                 let match = spaceIt[2]?.textContent.trim().match(/\d+/) || 0;
-                let popularity = match ? Number.parseInt(match[0]) : 0;
+                let popularity = match ? parseInt(match[0]) : 0;
 
                 // ignore unpopular characters
                 // if you can't even surpass 100 popularity
@@ -217,4 +233,12 @@ function writeJsonFile(filePath, data) {
             // console.log('JSON file has been written successfully:', filePath);
         }
     });
+}
+
+function parseInt(string) {
+    return Number.parseInt(string.match(/(\d|,)+/)[0].replace(/,/g, ''));
+}
+
+function parseFloat(string) {
+    return Number.parseFloat(string.match(/(\d|,|.)+/)[0].replace(/,/g, ''));
 }
