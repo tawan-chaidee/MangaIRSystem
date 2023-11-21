@@ -4,6 +4,7 @@ const csv = require('fast-csv');
 const EventEmitter = require('events');
 
 const MAX_CONCURRENT_TASKS = 1; //GOING TOO FAST
+const START_INDEX = 200;
 const DATA_SIZE = 100;
 const DELAY = 0; //Delay for each manga in milisecond
 const WANTED_GENRE = 'Fantasy';
@@ -12,8 +13,9 @@ const JSON_FOLDER = './manga_data/';
 
 
 class Manga {
-    constructor(title, authors, description, background, genres, characters, members, score) {
+    constructor(title, alternativeTitle, authors, description, background, genres, characters, members, score) {
         this.title = title;
+        this.alternativeTitle = alternativeTitle
         this.authors = authors;
         this.members = members;
         this.score = score;
@@ -47,9 +49,11 @@ csv.parseStream(csvData, { headers: true })
     .on('end', async () => {
         // Sort by Members
         results.sort((a, b) => b.Members - a.Members);
+        console.log(results)
 
         const browser = await puppeteer.launch({ headless: true });
-        const scrapeTasks = results.slice(0, DATA_SIZE).map((entry, index) => {
+        const scrapeTasks = results.slice(START_INDEX, START_INDEX+DATA_SIZE).map((entry) => {
+            let index = results.indexOf(entry);
             const title = entry['Title'];
             const url = entry['page_url'];
             return () => scrapeMangaData(browser, url, title, index);
@@ -60,7 +64,7 @@ csv.parseStream(csvData, { headers: true })
         // Write scraped data to JSON file
         writeJsonFile(JSON_FILE_PATH, mangaDataArray);
 
-        console.log('Scraped data has been written to:', jsonFilePath);
+        console.log('Scraped data has been written to:', JSON_FILE_PATH);
         console.log('Total manga scraped:', mangaDataArray.length);
 
         // Close the browser after all tasks are completed
@@ -137,6 +141,13 @@ async function scrapeMangaData(browser, url, title, index) {
             return array.join('');
         })
 
+        let alternativeTitleElements = await page.$x("//h2[.='Alternative Titles']/following::div[@class='spaceit_pad' and following::h2[.='Information']]/text()");
+        let alternativeTitle = [];
+        for (let element of alternativeTitleElements) {
+            let text = await element.evaluate(el => el.textContent, element);
+            alternativeTitle.push(text.trim());
+        }
+        
         let authors = await page.$$eval('.information.studio.author a', elements => elements.map(element => element.textContent.trim()));
         let score = await page.$eval('.score-label', element => Number.parseFloat(element.textContent.trim()));
         let members = await page.$eval('.numbers.members', element => Number.parseInt(element.textContent.trim().match(/\d+/)[0] || 0));
@@ -169,7 +180,7 @@ async function scrapeMangaData(browser, url, title, index) {
         })
         characters = characters.filter(character => character != null).sort((a, b) => b.popularity - a.popularity);
 
-        const newManga = new Manga(title, authors, description, background, genres, characters, members, score);
+        const newManga = new Manga(title, alternativeTitle, authors, description, background, genres, characters, members, score);
         console.log(title + ' finished');
         // index++;
 
@@ -179,7 +190,8 @@ async function scrapeMangaData(browser, url, title, index) {
         await page.close();
 
         // save current progress
-        writeJsonFile('./manga_data/'+index+'.json', newManga);
+        // writeJsonFile('./manga_data/'+index+'.json', newManga);
+        writeJsonFile(`${JSON_FOLDER}/${index}-${title}.json`, newManga);
 
         return newManga;
     } catch (error) {
@@ -197,6 +209,7 @@ function writeJsonFile(filePath, data) {
         }
     });
 
+    filePath = filePath.replace(/[\?%*:|"<>]/g, '-');
     fs.writeFile(filePath, jsonString, {flag: "w", encoding: "utf-8"}, (err) => {
         if (err) {
             console.error('Error writing JSON file:', err);
