@@ -3,8 +3,7 @@ import fs from "fs"
 import path from "path"
 import 'dotenv/config'
 
-const appRoot = path.resolve(__dirname, "../")
-const mangaDataPath = appRoot + "/manga_data"
+const mangaDataPath = path.resolve(process.env.MANGA_DATA_PATH)
 
 const client = new Elastic.Client({
   node: process.env.ELASTICSEARCH_URL,
@@ -26,12 +25,14 @@ async function main() {
 
   // read data from folder
   fs.readdir(mangaDataPath, async (err, files) => {
+    console.log("Reading files from", mangaDataPath)
     if (err) {
       console.log(err)
       return
     }
 
     for (const file of files) {
+      console.log("Adding", file)
       const data = JSON.parse(fs.readFileSync(mangaDataPath+`/${file}`, "utf-8"))
       await client.index({
         index,

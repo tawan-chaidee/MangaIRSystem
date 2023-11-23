@@ -2,8 +2,6 @@ import Elastic from "@elastic/elasticsearch"
 import path from "path"
 import "dotenv/config"
 
-const appRoot = path.resolve(__dirname, "../../")
-
 const client = new Elastic.Client({
   node: process.env.ELASTICSEARCH_URL,
 })
@@ -23,16 +21,17 @@ client.search({
               {
                 multi_match: {
                   query: query,
-                  fields: ["title^3", "author^2", "description^0.5", "background^0.25", "alternativeTitle^2.5", "genres^2"],
+                  fields: ["title^2", "alternativeTitle^1.5", "authors^1.5", "description^1.2", "background^0.5", "genres^1.5"],
                 }
-              }
-            ]
+              }            ]
           }
         },
         functions: [
-          { script_score: { script: "_score * Math.log(doc['members'].value)" }}
+          { script_score: { script: "Math.log(doc['members'].value) * 2" }},
+          { script_score: { script: "Math.log(doc['score'].value)" }}
         ],
-        score_mode: "multiply"
+        score_mode: "multiply",
+        boost_mode: "sum",
       },
     },
     size: 25,

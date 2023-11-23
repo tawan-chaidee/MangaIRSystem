@@ -1,105 +1,1249 @@
 [
   {
-    "id": 0,
-    "title": "Berserk",
+    "id": 201,
+    "title": "Rosario to Vampire: Season II",
     "alternativeTitle": [
-      "Berserk: The Prototype",
-      "ベルセルク",
-      "Berserk"
+      "Rosario and Vampire: Season 2",
+      "ロザリオとバンパイア SeasonⅡ",
+      "Rosario+Vampire: Season II"
     ],
     "authors": [
-      "Miura, Kentarou",
-      "Studio Gaga"
+      "Ikeda, Akihisa"
     ],
-    "members": 663,
-    "score": 9.47,
-    "description": "Guts, a former mercenary now known as the \"Black Swordsman,\" is out for revenge. After a tumultuous childhood, he finally finds someone he respects and believes he can trust, only to have everything fall apart when this person takes away everything important to Guts for the purpose of fulfilling his own desires. Now marked for death, Guts becomes condemned to a fate in which he is relentlessly pursued by demonic beings.\n\nSetting out on a dreadful quest riddled with misfortune, Guts, armed with a massive sword and monstrous strength, will let nothing stop him, not even death itself, until he is finally able to take the head of the one who stripped him—and his loved one—of their humanity.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 14: Berserk: The Prototype",
-    "background": "'Berserk' won the Award for Excellence at the sixth installment of Tezuka Osamu Cultural Prize in 2002.\n\nThe series has over 50 million copies in print worldwide and has been published in English by Dark Horse since November 4, 2003. It is also published in Italy, Germany, Spain, France, Brazil, South Korea, Hong Kong, Taiwan, Thailand, Poland, México and Turkey.\n\nIn May 2021, the author Kentaro Miura suddenly died at the age of 54. Chapter 364 of'Berserk' was published posthumously on September 10, 2021. Miura would often share details about the series' story with his childhood friend and fellow mangaka Kouji Mori.'Berserk' resumed on June 24, 2022, with Studio Gaga handling the art and Kouji Mori's supervision.",
+    "description": "The story continues where the first season left off only months into the future. Yuokai Gakuen has been repaired and the new semester is underway. Tsukune and gang are back, and more powerful then ever. Anti-Thesis's true identity is revealed. With new adversaries looming on the horizon, and something much more sinister than the gang has ever faced before.\n\nTsukune is battling with the monster inside him. With the help of Moka, Mizore, Kurumu, Ruby, and Yukari, Tsukune trains to get his vampire blood under control and the strength to protect what he holds dear.\n\nThe new season focuses more on the girls, their past, and their families. New confrontations await them. New friends and allies will join them by their side. Together they will discover the secrets of Moka's rosary, and her lineage...\n\n(Source: girlsdeadmonster)",
+    "background": "'Rosario to Vampire: Season II' was published in English as'Rosario+Vampire: Season II' by Viz Media under the Shonen Jump Advanced imprint from April 6, 2010 to May 5, 2015. A complete box set (that includes the entire'Rosario to Vampire' series) was released on November 3. The series was also published in Italian by GP Manga from September 28, 2013 to September 5, 2015.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Supernatural",
+      "Ecchi",
+      "Harem",
+      "School",
+      "Vampire",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Shirayuki, Mizore",
+        "role": "Main",
+        "popularity": 3948
+      },
+      {
+        "name": "Akashiya, Moka",
+        "role": "Main",
+        "popularity": 3160
+      },
+      {
+        "name": "Kurono, Kurumu",
+        "role": "Main",
+        "popularity": 806
+      },
+      {
+        "name": "Aono, Tsukune",
+        "role": "Main",
+        "popularity": 709
+      },
+      {
+        "name": "Toujou, Ruby",
+        "role": "Main",
+        "popularity": 126
+      },
+      {
+        "name": "Shuzen, Kokoa",
+        "role": "Main",
+        "popularity": 108
+      }
+    ],
+    "members": 66135,
+    "score": 8.12
+  },
+  {
+    "id": 208,
+    "title": "Kage no Jitsuryokusha ni Naritakute!",
+    "alternativeTitle": [
+      "陰の実力者になりたくて!",
+      "The Eminence in Shadow"
+    ],
+    "authors": [
+      "Sakano, Anri",
+      "Aizawa, Daisuke"
+    ],
+    "description": "Great heroes and diabolical villains are the types of characters that people long to be—but not Cid Kagenou. He longs to become the true mastermind behind it all, pulling the strings, and having his machinations drive the entire story. In his previous life in modern-day Japan, he was not able to achieve his goals. But now, reborn into a world of magic, he will show the true eminence of shadow!\n\nAs Cid pretends to be just another average mob character, he recruits members to his (fake) organization Shadow Garden, aiming to take down the mysterious cult who lurks in the shadows. With plenty of ad-libs, Cid leads his (fake) organization against the foul (yet surprisingly real) Cult of Diablos.\n\n[Written by MAL Rewrite]",
+    "background": "'Kage no Jitsuryokusha ni Naritakute!' has been published in English as'The Eminence in Shadow' by Yen Press since November 23, 2021.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Isekai",
+      "Reincarnation"
+    ],
+    "characters": [
+      {
+        "name": "Kagenou, Cid",
+        "role": "Main",
+        "popularity": 6371
+      },
+      {
+        "name": "Delta",
+        "role": "Supporting",
+        "popularity": 1039
+      },
+      {
+        "name": "Alpha",
+        "role": "Supporting",
+        "popularity": 532
+      },
+      {
+        "name": "Beta",
+        "role": "Main",
+        "popularity": 318
+      },
+      {
+        "name": "Kagenou, Claire",
+        "role": "Main",
+        "popularity": 296
+      },
+      {
+        "name": "Midgar, Alexia",
+        "role": "Supporting",
+        "popularity": 284
+      },
+      {
+        "name": "Epsilon",
+        "role": "Supporting",
+        "popularity": 181
+      },
+      {
+        "name": "Gamma",
+        "role": "Supporting",
+        "popularity": 157
+      },
+      {
+        "name": "Zeta",
+        "role": "Supporting",
+        "popularity": 102
+      },
+      {
+        "name": "Eta",
+        "role": "Supporting",
+        "popularity": 101
+      }
+    ],
+    "members": 67899,
+    "score": 8.28
+  },
+  {
+    "id": 211,
+    "title": "InuYasha",
+    "alternativeTitle": [
+      "Inu-Yasha, Inu Yasha",
+      "犬夜叉",
+      "InuYasha"
+    ],
+    "authors": [
+      "Takahashi, Rumiko"
+    ],
+    "description": "Kagome Higurashi's ordinary life comes to an abrupt halt when a demon drags her deep into a well, transporting her five hundred years into the past. In this era, Kagome quickly learns two things: demons walk amongst humans and she has unknowingly brought a dangerous object from her world—a marble-sized sphere known as the Shikon Jewel. This unusual orb brings tremendous power to any demon who has it in their possession, and Kagome is an easy target for anyone determined enough to steal it.\n\nWhile in a fight with a demon, a hasty attempt to fend it off causes Kagome to accidentally shatter the jewel, sending countless pieces of it all over feudal Japan. She soon learns the grave consequences of her actions when she must work with the half-demon Inuyasha to collect all the pieces of the jewel before they fall into the wrong hands.\n\n[Written by MAL Rewrite]",
+    "background": "'InuYasha' was awarded the 47th Shogakukan Manga Award for best shounen manga in 2001.\n\nThe series was published in English by VIZ Media as'Inu-Yasha: A Feudal Fairy Tale' from July 6, 1998 to January 11, 2011, it was relabeled as'InuYasha' from volume 12 onwards, the first 37 volumes were in left-to-right format but all later volumes were printed in traditional Japanese format. It was republished in 3-in-1 omnibuses under the Shonen Sunday VIZBIG imprint from November 10, 2009 to February 11, 2014. It was also published in Spain by Glénat España, and partially published in Argentina by LARP Editores.",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Supernatural",
+      "Historical",
+      "Mythology",
+      "Time Travel",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Inuyasha",
+        "role": "Main",
+        "popularity": 7134
+      },
+      {
+        "name": "Sesshoumaru",
+        "role": "Supporting",
+        "popularity": 6950
+      },
+      {
+        "name": "Higurashi, Kagome",
+        "role": "Main",
+        "popularity": 2704
+      },
+      {
+        "name": "Sango",
+        "role": "Main",
+        "popularity": 1354
+      },
+      {
+        "name": "Kikyou",
+        "role": "Main",
+        "popularity": 1130
+      },
+      {
+        "name": "Miroku",
+        "role": "Main",
+        "popularity": 775
+      },
+      {
+        "name": "Shippou",
+        "role": "Main",
+        "popularity": 414
+      },
+      {
+        "name": "Kouga",
+        "role": "Supporting",
+        "popularity": 413
+      },
+      {
+        "name": "Kagura",
+        "role": "Supporting",
+        "popularity": 318
+      },
+      {
+        "name": "Naraku",
+        "role": "Supporting",
+        "popularity": 301
+      },
+      {
+        "name": "Rin",
+        "role": "Supporting",
+        "popularity": 285
+      },
+      {
+        "name": "Kirara",
+        "role": "Supporting",
+        "popularity": 239
+      },
+      {
+        "name": "Bankotsu",
+        "role": "Supporting",
+        "popularity": 121
+      }
+    ],
+    "members": 64376,
+    "score": 7.86
+  },
+  {
+    "id": 213,
+    "title": "Eden no Ori",
+    "alternativeTitle": [
+      "エデンの檻",
+      "Cage of Eden"
+    ],
+    "authors": [
+      "Yamada, Yoshinobu"
+    ],
+    "description": "Just a few hours ago, Akira Sengoku was having fun with his classmates on their flight back to Japan from a school trip in Guam. Now, he finds himself all alone in a jungle after the plane mysteriously crashed. While searching for survivors, his surroundings become increasingly suspicious as he stumbles across various animal species he has never seen before. Finally, he manages to find two survivors—his classmate Shirou Mariya and cabin attendant Kanako Oomori—being attacked by a two-meter tall bird!\n\nAfter barely managing to escape with their lives, Shirou uses his computer to pinpoint their exact location and shed some light on the strange creatures that they have encountered. What he discovers is beyond anything they expected—they have crashed on an island in the Pacific that should not exist, inhabited by animals that supposedly went extinct millions of years ago.\n\nEden no Ori tells the story of Akira and the other survivors' struggles on an island all too eager to see them disappear. With predators lurking around every corner, Akira and his friends must use all their wits to survive and unravel the mysteries of the island's origin.\n\n[Written by MAL Rewrite]",
+    "background": "'Eden no Ori' was published in English as'Cage of Eden' by Kodansha Comics USA from August 23, 2011 to May 16, 2017. It has also been published in Italian by GP Manga since January 16, 2011.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Ecchi",
+      "Shounen"
+    ],
+    "characters": [],
+    "members": 63244,
+    "score": 7.65
+  },
+  {
+    "id": 217,
+    "title": "Cardcaptor Sakura",
+    "alternativeTitle": [
+      "Cardcaptor Sakura: Master of the Clow, CCS",
+      "カードキャプターさくら",
+      "Cardcaptor Sakura"
+    ],
+    "authors": [
+      "CLAMP"
+    ],
+    "description": "\"Herein lie the Clow Cards—if their seal is broken, disaster shall befall this world...\"\n\nSakura Kinomoto is an energetic and sweet 10-year-old girl attending Tomoeda Elementary School. One day not long after entering the fourth grade, Sakura finds a mysterious book titled \"The Clow\" hidden within her father's bookshelves. Upon opening it, a small, winged creature with an Osakan accent comes out of the book and introduces itself as Keroberos, the Creature of the Seal who guards magical cards known as the Clow Cards and keeps them from escaping the book.\n\nUnfortunately for the plushy guardian, it seems that the Clow Cards have already escaped—and now Sakura is tasked with capturing them before the cards unleash their powers and cause havoc all over Tomoeda! With the support of the tiny guardian who she nicknames \"Kero\" and her best friend Tomoyo Daidouji, Sakura must wield a magical bird-shaped key and use her new powers as the Cardcaptor to maintain peace and ensure that everything is alright.\n\n[Written by MAL Rewrite]",
+    "background": "'Cardcaptor Sakura' won the 32nd Seiun Award for Best Manga in 2001. It received a 70-episode anime adaptation and two animated films, several video games and artbooks.\n\nThe series was published in English by Tokyopop from March 1, 2001 to August 5, 2003 and in 3-in-1 omnibus format by Dark Horse Comics from October 20, 2010 to September 19, 2012. The official English release by Tokyopop split this into two six-volume series, the second of which is titled'Cardcaptor Sakura: Master of the Clow' . However, it is one twelve-volume series in Japan. It has also been published in Chinese by Every Glory Publishing, in Spanish by Ediciones Glénat (Spain), Editorial Ivrea (Argentina), and Editorial Toukan (Mexico), in French by Pika Édition, in Italian by Star Comics, in German by Egmont Manga & Anime, and in Portuguese by Editora JBC.",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Mahou Shoujo",
+      "Shoujo"
+    ],
+    "characters": [
+      {
+        "name": "Kinomoto, Sakura",
+        "role": "Main",
+        "popularity": 5586
+      },
+      {
+        "name": "Li, Shaoran",
+        "role": "Main",
+        "popularity": 2283
+      },
+      {
+        "name": "Daidouji, Tomoyo",
+        "role": "Main",
+        "popularity": 1689
+      },
+      {
+        "name": "Keroberos",
+        "role": "Main",
+        "popularity": 1049
+      },
+      {
+        "name": "Tsukishiro, Yukito",
+        "role": "Supporting",
+        "popularity": 673
+      },
+      {
+        "name": "Yue",
+        "role": "Supporting",
+        "popularity": 647
+      },
+      {
+        "name": "Kinomoto, Touya",
+        "role": "Supporting",
+        "popularity": 620
+      },
+      {
+        "name": "Hiiragizawa, Eriol",
+        "role": "Supporting",
+        "popularity": 131
+      }
+    ],
+    "members": 62318,
+    "score": 8.37
+  },
+  {
+    "id": 223,
+    "title": "Vanitas no Karte",
+    "alternativeTitle": [
+      "Vanitas no Carte, Vanitas no Shuki, Memoir of Vanitas",
+      "ヴァニタスの手記〈カルテ〉",
+      "The Case Study of Vanitas"
+    ],
+    "authors": [
+      "Mochizuki, Jun"
+    ],
+    "description": "There once lived a vampire known as Vanitas, hated by his own kind for being born under a full blue moon, as most arise on the night of a crimson one. Afraid and alone, he created the \"Book of Vanitas,\" a cursed grimoire that would one day take his vengeance on all vampires; this is how the story goes, at least.\n\nVanitas no Karte follows Noé Archiviste, a young man who is traveling aboard an airship in 19th century Paris with one goal in mind: to find the Book of Vanitas. A sudden vampire attack leads him to meet the enigmatic Vanitas, a doctor who specializes in vampires and, much to Noé's surprise, an entirely ordinary human. The mysterious doctor has inherited both the name and the infamous text from the Vanitas of legend, using the grimoire to heal his patients. But behind his kind demeanor lies something a bit more sinister...\n\n[Written by MAL Rewrite]",
+    "background": "'Vanitas no Karte' is simultaneously published in English as'The Case Study of Vanitas' by Yen Press on the same day as the Japanese release. It has also been published digitally by Square Enix through Manga UP! Physical release began on December 20, 2016. The series has also been published in Polish by Waneko since December 5, 2016.",
+    "genres": [
+      "Fantasy",
+      "Supernatural",
+      "Historical",
+      "Vampire",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Vanitas",
+        "role": "Main",
+        "popularity": 5890
+      },
+      {
+        "name": "Archiviste, Noé",
+        "role": "Main",
+        "popularity": 2312
+      },
+      {
+        "name": "Jeanne",
+        "role": "Supporting",
+        "popularity": 1744
+      },
+      {
+        "name": "de Sade, Dominique",
+        "role": "Supporting",
+        "popularity": 603
+      },
+      {
+        "name": "d'Apchier, Chloé",
+        "role": "Supporting",
+        "popularity": 184
+      },
+      {
+        "name": "Fortis, Roland",
+        "role": "Supporting",
+        "popularity": 182
+      },
+      {
+        "name": "Murr",
+        "role": "Supporting",
+        "popularity": 147
+      }
+    ],
+    "members": 61882,
+    "score": 8.49
+  },
+  {
+    "id": 241,
+    "title": "Kumo desu ga, Nani ka?",
+    "alternativeTitle": [
+      "So I'm a spider, what about it?",
+      "蜘蛛ですが、なにか？",
+      "So I'm a Spider, So What?"
+    ],
+    "authors": [
+      "Kakashi, Asahiro",
+      "Baba, Okina"
+    ],
+    "description": "When a mysterious explosion killed an entire class full of high school students, the souls of everyone in class was transported into a fantasy world and reincarnated. While some students were reincarnated as princes or prodigies, others were not as blessed.\n\nOur heroine, who was the lowest in the class, discovered that she was reincarnated as a spider!? Now at the bottom of the food chain, she needs to adapts to the current situation with willpower in order to live! Stuck in a dangerous labyrinth filled with monsters, it's eat or be eaten!\n\nThis is the story of a spider doing whatever she can in order to survive!\n\n(Source: MU)",
+    "background": "'Kumo desu ga, Nani ka?' has been published in English as'So I'm a Spider, So What?' by Yen Press since December 19, 2017.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Isekai",
+      "Reincarnation"
+    ],
+    "characters": [
+      {
+        "name": "Kumoko",
+        "role": "Main",
+        "popularity": 2600
+      },
+      {
+        "name": "Feirune",
+        "role": "Supporting",
+        "popularity": 554
+      },
+      {
+        "name": "Shiraori",
+        "role": "Supporting",
+        "popularity": 488
+      },
+      {
+        "name": "Ariel",
+        "role": "Supporting",
+        "popularity": 353
+      }
+    ],
+    "members": 57292,
+    "score": 7.81
+  },
+  {
+    "id": 246,
+    "title": "Kaze no Tani no Nausicaä",
+    "alternativeTitle": [
+      "Kaze no Tani no Nausicaa",
+      "風の谷のナウシカ",
+      "Nausicaä of the Valley of the Wind",
+      "Nausicaä aus dem Tal der Winde",
+      "Nausicaä del valle del viento",
+      "Nausicaä de la vallée du vent"
+    ],
+    "authors": [
+      "Miyazaki, Hayao"
+    ],
+    "description": "Humanity, once a technologically advanced and thriving civilization, has been pushed to the brink of extinction following a cataclysmic war known as the \"Seven Days of Fire.\" The remnants of the human race now live in scattered kingdoms to avoid the unrelenting spread of the \"Sea of Corruption,\" a colossal forest infested with dangerous mutant insects and fungi that produce poisonous spores.\n\nNausicaä, sole heir to the throne of the agricultural kingdom Valley of the Wind, is thrust into a war after an ally kingdom, the imperialist Torumekia, invades the Dorok Empire. Forced to fight alongside the Torumekian military and their cunning princess Kushana, Nausicaä witnesses firsthand the horrors of war and its effect on both humanity and the environment. With her uncanny charisma and gentle nature, Nausicaä may be the only for hope for humanity as the ongoing war and the Sea of Corruption hasten the extinction of mankind.\n\nSet against the backdrop of a devastated world, Kaze no Tani no Nausicaä depicts the aftermath of human folly and the immortal power of nature.\n\n[Written by MAL Rewrite]",
+    "background": "VIZ Media has published'Kaze no Tani no Nausicaä' in English as'Nausicaä of the Valley of the Wind' in five different formats since 1988. The two most recent releases pertain closest to the original format: A 7 volume release under the Ghibli Library imprint from February 11 to September 7, 2004 and a complete box set with two hardcover omnibus volumes published on November 6, 2012. (For more details, see thesection)\n\nThe series was also published in Spanish as'Nausicaä del Valle del Viento' by Planeta DeAgostini Cómics from May to October 2001 and republished in November 2013 in two omnibus volumes box set.",
     "genres": [
       "Action",
       "Adventure",
       "Award Winning",
-      "Drama",
       "Fantasy",
-      "Horror",
-      "Supernatural",
-      "Gore",
-      "Military",
-      "Mythology",
-      "Psychological",
+      "Supernatural"
+    ],
+    "characters": [
+      {
+        "name": "Nausicaä",
+        "role": "Main",
+        "popularity": 2868
+      },
+      {
+        "name": "Kushana",
+        "role": "Main",
+        "popularity": 189
+      }
+    ],
+    "members": 56542,
+    "score": 8.82
+  },
+  {
+    "id": 248,
+    "title": "Übel Blatt",
+    "alternativeTitle": [
+      "Evil Blade",
+      "Übel Blatt ～ユーベルブラット～",
+      "Ubel Blatt"
+    ],
+    "authors": [
+      "Shiono, Etorouji"
+    ],
+    "description": "When Wischtech threatened to invade the fiefs of Szaalanden, the Emperor dispatched fourteen youths. Of these, the Seven Heroes halted the invasion to herald a time of prosperity while the four Lances of Betrayal were supposedly defeated.\n\nTwo decades later, the Lances of Betrayal have reappeared and formed a bandit militia near the frontier fief Gormbark. A man with the black sword and a scar over his left eye slays an entire troop of that militia. He is identified as a boy, Kóinzell, and becomes as much an object of fear as of hope even as his own past, motivations, and purpose are a mystery to those he meets in his travel.\n\n(Source: MU)",
+    "background": "'Übel Blatt' was serialized in Young Gangan magazine until the 22nd, 2009 issue, after which it took a short hiatus and restarted in Big Gangan magazine in 2011.\n\nThe series was published in English by Yen Press as 2-in-1 omnibus volumes from October 28, 2014 to December 24, 2019; in Spanish by Norma Editorial since May 14, 2014; in German by KAZÉ Manga since October 8, 2014; and in Italian by Edizioni BD under the J-POP imprint since September 30, 2008.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Ecchi",
       "Seinen"
     ],
     "characters": [
       {
-        "name": "Guts",
+        "name": "Koinzell",
         "role": "Main",
-        "popularity": 79070
-      },
-      {
-        "name": "Griffith",
-        "role": "Main",
-        "popularity": 14675
-      },
-      {
-        "name": "Casca",
-        "role": "Main",
-        "popularity": 4098
-      },
-      {
-        "name": "The Skull Knight",
-        "role": "Supporting",
-        "popularity": 1850
-      },
-      {
-        "name": "Puck",
-        "role": "Main",
-        "popularity": 1657
-      },
-      {
-        "name": "Schierke",
-        "role": "Main",
-        "popularity": 1492
-      },
-      {
-        "name": "Judeau",
-        "role": "Supporting",
-        "popularity": 1449
-      },
-      {
-        "name": "de Vandimion, Farnese",
-        "role": "Main",
-        "popularity": 919
-      },
-      {
-        "name": "Serpico",
-        "role": "Main",
-        "popularity": 873
-      },
-      {
-        "name": "Nosferatu, Zodd",
-        "role": "Supporting",
-        "popularity": 376
-      },
-      {
-        "name": "Isidro",
-        "role": "Main",
-        "popularity": 277
-      },
-      {
-        "name": "Donovan",
-        "role": "Supporting",
-        "popularity": 249
-      },
-      {
-        "name": "Pippin",
-        "role": "Supporting",
-        "popularity": 141
-      },
-      {
-        "name": "Rickert",
-        "role": "Supporting",
-        "popularity": 124
+        "popularity": 347
       }
-    ]
+    ],
+    "members": 55064,
+    "score": 7.64
+  },
+  {
+    "id": 249,
+    "title": "Dungeon Meshi",
+    "alternativeTitle": [
+      "Dungeon Food",
+      "ダンジョン飯",
+      "Delicious in Dungeon",
+      "Tragones y mazmorras"
+    ],
+    "authors": [
+      "Kui, Ryoko"
+    ],
+    "description": "After the Golden Kingdom is sunk underground by an insane magician, its king emerges, promising all of his treasure to any who defeat the magician, before crumbling to dust. Guilds are spurred on by this promise, traversing the labyrinthine dungeon in search of the magician. Laios, the leader of one such guild, encounters a dragon that wipes out his party and devours his sister Falin. Despite having lost the entirety of their supplies and belongings, Laios along with Marcille, an elven healer, and Chilchuck, a halfling thief, immediately reenter the dungeon, determined to save Falin. \n\nTime being of the essence, Laios suggests the taboo of eating the monsters of the dungeon as a means of gathering supplies. Upon the preparation of their first meal in the dungeon, they are stopped by an onlooking dwarf named Senshi. An enthusiast of monster cooking, he helps them prepare their monster ingredients for safe consumption. After learning of Laios' circumstances, Senshi expresses his desire to cook a dragon and joins their guild, thus beginning their food-filled foray into the dungeon together.\n\n[Written by MAL Rewrite]",
+    "background": "'Dungeon Meshi' ranked first in the 2016 Kono Manga ga Sugoi! for the Male Readers division.\n\nThe series has been published in English as'Delicious in Dungeon' by Yen Press since May 23, 2017. It has also been published in Italian by J-Pop since May 2017 and in Spanish by Milky Way Ediciones since February 2017.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Gourmet",
+      "Seinen"
+    ],
+    "characters": [
+      {
+        "name": "Donato, Marcille",
+        "role": "Main",
+        "popularity": 333
+      },
+      {
+        "name": "Thorden, Laios",
+        "role": "Main",
+        "popularity": 218
+      },
+      {
+        "name": "Senshi",
+        "role": "Main",
+        "popularity": 140
+      }
+    ],
+    "members": 57977,
+    "score": 8.46
+  },
+  {
+    "id": 255,
+    "title": "Mairimashita! Iruma-kun",
+    "alternativeTitle": [
+      "魔入りました!入間くん",
+      "Welcome to Demon School! Iruma-kun"
+    ],
+    "authors": [
+      "Nishi, Osamu"
+    ],
+    "description": "Fourteen-year-old Iruma Suzuki has the worst luck possible! Incapable of saying no to anyone, he has always performed whatever life-threatening jobs his greedy and lazy parents requested. His life takes an unexpected turn when they form a contract with Sullivan, a high-ranking demon, at the cost of his soul. Afraid and confused, Iruma is surprised that all Sullivan wants is to act as his grandfather.\n\nSullivan takes care of Iruma and decides to enroll him in the demon school Babyls. Iruma's greatest challenge is hiding his status as a human, so keeping a low profile among his peers is the only option. However, Iruma will soon discover that he is no ordinary human, and the demons might also be more than what meets the eye.\n\n[Written by MAL Rewrite]",
+    "background": "'Mairimashita! Iruma-kun' has been published in English as'Welcome to Demon School! Iruma-kun' by Kodansha USA under the Vertical Comics imprint since May 2, 2023.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Isekai",
+      "Mythology",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Suzuki, Iruma",
+        "role": "Main",
+        "popularity": 1794
+      },
+      {
+        "name": "Azazel, Amelie",
+        "role": "Supporting",
+        "popularity": 1750
+      },
+      {
+        "name": "Valac, Clara",
+        "role": "Main",
+        "popularity": 1394
+      },
+      {
+        "name": "Asmodeus, Alice",
+        "role": "Main",
+        "popularity": 470
+      },
+      {
+        "name": "Opera",
+        "role": "Supporting",
+        "popularity": 426
+      },
+      {
+        "name": "Naberius, Kalego",
+        "role": "Supporting",
+        "popularity": 231
+      },
+      {
+        "name": "Sullivan",
+        "role": "Supporting",
+        "popularity": 218
+      },
+      {
+        "name": "Balam, Shichirou",
+        "role": "Supporting",
+        "popularity": 133
+      }
+    ],
+    "members": 54828,
+    "score": 8.34
+  },
+  {
+    "id": 256,
+    "title": "Fairy Tail Zerø",
+    "alternativeTitle": [
+      "Fairy Tail Gaiden",
+      "FAIRY TAIL ZERØ",
+      "Fairy Tail Zero"
+    ],
+    "authors": [
+      "Mashima, Hiro"
+    ],
+    "description": "Long before she would found Fairy Tail, first master Mavis Vermillion is left under the care of the Red Lizard guild. Abused and belittled at every opportunity, she is forced to complete difficult chores. Despite this horrific treatment, Mavis refuses to cry, for if she did, she would not be able to meet the fairies. However, her life of servitude comes to an abrupt end when the Blue Skull guild raids her home, leaving only Mavis and the guild master's daughter Zera alive.\n\nFor many years, Mavis and Zera live alone, taking care of each other. But this all changes when a band of treasure hunters come to the island in search of the Tenrou Jade—a precious gem that is sacred to the island. With the arrival of new faces, her life begins to change again. Mavis has never stopped wishing to meet the fairies, and now she may finally have the chance to find them.\n\n[Written by MAL Rewrite]",
+    "background": "'Fairy Tail Zerø' was published in English by Kodansha Comics USA on July 12, 2016. It is set to release in Spanish by Norma Editorial on October 29, 2016.",
+    "genres": [
+      "Fantasy",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Zeref",
+        "role": "Supporting",
+        "popularity": 1945
+      },
+      {
+        "name": "Vermillion, Mavis",
+        "role": "Main",
+        "popularity": 1484
+      }
+    ],
+    "members": 52749,
+    "score": 7.88
+  },
+  {
+    "id": 258,
+    "title": "Bishoujo Senshi Sailor Moon",
+    "alternativeTitle": [
+      "Pretty Soldier Sailor Moon, Pretty Guardian Sailor Moon",
+      "美少女戦士セーラームーン",
+      "Sailor Moon"
+    ],
+    "authors": [
+      "Takeuchi, Naoko"
+    ],
+    "description": "\"In the name of the moon, I shall punish you!\"\n\nUsagi Tsukino is a cheerful 14-year-old who attends Juuban Municipal Junior High School. She prefers eating and playing video games to studying, which results in her notably poor grades. She also gets easily upset, whether by baseless insults or reasonable reprimands. It is very unlikely that she could be known as anything but a bad influence and a crybaby, but that begins to change when she meets a black cat.\n\nGiven a special brooch from the black cat named Luna, Usagi can use it to transform into a guardian of justice named Sailor Moon! She is now tasked to protect the Earth from all that is evil and to find both a missing princess and a sacred jewel known as the Mystical Silver Crystal. Whether she likes it or not, Usagi's beautiful transformation marks the start of meeting the mysterious Tuxedo Mask, fighting alongside new comrades, and learning to take responsibility in this acclaimed magical girl classic.\n\n[Written by MAL Rewrite]",
+    "background": "'Bishoujo Senshi Sailor Moon' received the 1993 Kodansha Manga Award in the shoujo manga category. It has received wide critical acclaim, being credited with redefining the magical girl genre.\n\nIt was adapted to multiple anime series, two series of stage musicals, as well as a 49-episode live-action series from October 4, 2003 to September 25, 2004. A twelve-volume shinsouban (renewal edition) was published in Japan from September 22, 2003 to September 22, 2004, including two volumes containing short stories. This new edition had new cover art and title logo, as well as corrections in some panels.\n\nThe series was published in English by Mixx (later Tokyopop) as a serial in two magazines, MixxZine and Smile, beginning in 1997. The series was later published in eighteen volumes, from December 1, 1998 to September 18, 2001. Tokyopop's license expired in May 2005 and this edition went out of print. It was later republished by Kodansha Comics USA from September 13, 2011 to November 26, 2013, based on the Japanese shinsouban reprint. Kodansha re-released the series from September 11, 2018 to October 20, 2020; this edition was based on the 20th anniversary kanzenban reprint. These editions included new color pages, updated translations, better quality paper, and special holographic covers. The series was also published in Polish by Japonica Polonica Fantastica.",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Mahou Shoujo",
+      "Shoujo"
+    ],
+    "characters": [
+      {
+        "name": "Tsukino, Usagi",
+        "role": "Main",
+        "popularity": 5341
+      },
+      {
+        "name": "Hino, Rei",
+        "role": "Main",
+        "popularity": 2049
+      },
+      {
+        "name": "Tomoe, Hotaru",
+        "role": "Main",
+        "popularity": 1568
+      },
+      {
+        "name": "Aino, Minako",
+        "role": "Main",
+        "popularity": 1563
+      },
+      {
+        "name": "Kino, Makoto",
+        "role": "Main",
+        "popularity": 1563
+      },
+      {
+        "name": "Tenou, Haruka",
+        "role": "Main",
+        "popularity": 1455
+      },
+      {
+        "name": "Mizuno, Ami",
+        "role": "Main",
+        "popularity": 1289
+      },
+      {
+        "name": "Chiba, Mamoru",
+        "role": "Main",
+        "popularity": 1043
+      },
+      {
+        "name": "Kaiou, Michiru",
+        "role": "Main",
+        "popularity": 967
+      },
+      {
+        "name": "Chibiusa",
+        "role": "Main",
+        "popularity": 719
+      },
+      {
+        "name": "Meiou, Setsuna",
+        "role": "Main",
+        "popularity": 574
+      },
+      {
+        "name": "Luna",
+        "role": "Supporting",
+        "popularity": 462
+      },
+      {
+        "name": "Seiya, Kou",
+        "role": "Supporting",
+        "popularity": 358
+      },
+      {
+        "name": "Artemis",
+        "role": "Supporting",
+        "popularity": 107
+      }
+    ],
+    "members": 52973,
+    "score": 8.2
+  },
+  {
+    "id": 259,
+    "title": "Arifureta Shokugyou de Sekai Saikyou",
+    "alternativeTitle": [
+      "From Common Job Class to the Strongest in the World",
+      "ありふれた職業で世界最強",
+      "Arifureta: From Commonplace to World's Strongest"
+    ],
+    "authors": [
+      "Shirakome, Ryou",
+      "RoGa"
+    ],
+    "description": "After a magical circle suddenly appears at school, Hajime Nagumo and his classmates find themselves transported inside a church where they are welcomed as honored guests. Thrust into the RPG-like world of Tortus, each student shows great promise in both strength and never-before-seen classes—everyone besides Hajime. Given the class \"Synergist,\" which boasts borderline average stats on top of being weak in combat, Hajime is soon considered to be useless by the rest of his class.  \n\nWorking towards strengthening themselves, the students descend into a dungeon, but a mishap causes the entire class to be plunged into danger. Cornered by a large demon, they are trapped on a bridge looming over an abyss, the only way out being in front of them. In an effort to save his class, Hajime declares himself as bait, hoping his sacrifice will grant a chance of escape for the others. Though he intends to escape as well, a stray fireball flies in his direction, sending him flying off the bridge and down into the depths of the dungeon. Miraculously surviving, Hajime now begins his quest of survival in an attempt to reach the surface.\n\n[Written by MAL Rewrite]",
+    "background": "'Arifureta Shokugyou de Sekai Saikyou' has been published in English as'Arifureta: From Commonplace to World's Strongest' by Seven Seas Entertainment since March 13, 2018.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Isekai"
+    ],
+    "characters": [
+      {
+        "name": "Nagumo, Hajime",
+        "role": "Main",
+        "popularity": 2839
+      },
+      {
+        "name": "Shirasaki, Kaori",
+        "role": "Main",
+        "popularity": 2838
+      },
+      {
+        "name": "Yue",
+        "role": "Main",
+        "popularity": 2130
+      },
+      {
+        "name": "Clarence, Tio",
+        "role": "Main",
+        "popularity": 307
+      },
+      {
+        "name": "Haulia, Shea",
+        "role": "Main",
+        "popularity": 307
+      },
+      {
+        "name": "Myuu",
+        "role": "Supporting",
+        "popularity": 204
+      },
+      {
+        "name": "Yaegashi, Shizuku",
+        "role": "Supporting",
+        "popularity": 120
+      }
+    ],
+    "members": 52527,
+    "score": 7.21
+  },
+  {
+    "id": 264,
+    "title": "Devilman",
+    "alternativeTitle": [
+      "Devilman: The Classic Collection",
+      "デビルマン",
+      "Devilman"
+    ],
+    "authors": [
+      "Nagai, Go"
+    ],
+    "description": "Soft-hearted Akira Fudou has always been somewhat of a pushover. When he reunites with his childhood friend, Ryou Asuka, in a fateful encounter, Ryou reveals to him the terrifying reality of his father's research: demons exist and are planning to claim possession of the earth once again.\n\nEager to help his friend save humanity, Akira agrees to attend Black Sabbath, a party filled with depravity and corruption, to attempt to merge with a demon. A near-death encounter causes him to unify with Amon, a demon feared amongst even his own kind. Together they form Devilman, a combination of Amon's strength and Akira's pure heart.\n\nAfter uniting with Amon, Akira begins to fight against the demons with his newfound power, desperate to stop the downfall of all human civilization.\n\n[Written by MAL Rewrite]",
+    "background": "'Devilman' has been published in English by Seven Seas Entertainment as omnibus volumes from May 22, 2018 to November 13, 2018.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Sci-Fi",
+      "Supernatural",
+      "Mythology",
+      "Psychological",
+      "Super Power",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Asuka, Ryou",
+        "role": "Main",
+        "popularity": 2673
+      },
+      {
+        "name": "Fudou, Akira",
+        "role": "Main",
+        "popularity": 2621
+      },
+      {
+        "name": "Devilman",
+        "role": "Main",
+        "popularity": 477
+      },
+      {
+        "name": "Satan",
+        "role": "Supporting",
+        "popularity": 300
+      },
+      {
+        "name": "Makimura, Miki",
+        "role": "Supporting",
+        "popularity": 199
+      }
+    ],
+    "members": 52471,
+    "score": 8.04
+  },
+  {
+    "id": 266,
+    "title": "Mato Seihei no Slave",
+    "alternativeTitle": [
+      "Slave of the Magic Capital's Elite Troops",
+      "魔都精兵のスレイブ",
+      "Chained Soldier"
+    ],
+    "authors": [
+      "Takemura, Youhei",
+      "Takahiro"
+    ],
+    "description": "After his high school graduation, Yuuki Wakura realizes it has been five years since his sister's disappearance during a \"Mato disaster.\" Throughout Japan, mysterious entrances have opened to a dimension called \"Mato\"—a demonic metropolis filled with disastrous monsters known as the \"Shuuki\" that threaten the safety of humans. However, a new hope arose, as the discovery of a Mato fruit that grants supernatural abilities exclusively to women allowed them to fight against the Shuuki. Due to this, a new matriarchal government was formed, establishing a female organization called the Anti-Demon Corps, which caused men to fall to the bottom of society.\n\nWhen Yuuki suddenly finds himself in Mato, he is unable to escape on his own. But just as he anticipates a gruesome end by the Shuuki, a girl in a militia outfit appears and protects him. As the chief of the Seventh Unit of the Anti-Demon Corps, Kyouka Uzen is ambitious yet devalued by her own peers due to her power being deemed unusual. Now in a life-or-death situation, Kyouka takes the opportunity to find out the true potential of her superpower by using Yuuki: in order to defeat the Shuuki, he has to become her slave.\n\n[Written by MAL Rewrite]",
+    "background": "'Mato Seihei no Slave' has been published in English as'Chained Soldier' by Yen Press since August 16, 2022.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Ecchi",
+      "Harem",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Izumo, Tenka",
+        "role": "Supporting",
+        "popularity": 449
+      },
+      {
+        "name": "Uzen, Kyouka",
+        "role": "Main",
+        "popularity": 325
+      },
+      {
+        "name": "Yamashiro, Ren",
+        "role": "Supporting",
+        "popularity": 143
+      }
+    ],
+    "members": 60365,
+    "score": 7.62
+  },
+  {
+    "id": 269,
+    "title": "UQ Holder!",
+    "alternativeTitle": [
+      "Yuukyuu Holder, Eternal Holder, UQ Holder!: Mahou Sensei Negima! 2",
+      "UQ HOLDER!",
+      "UQ Holder!"
+    ],
+    "authors": [
+      "Akamatsu, Ken"
+    ],
+    "description": "Twelve-year-old Touta Konoe has spent his whole life in a rural town. He dreams of one day going to the capital, where there is a tower that reaches into space. To fulfill his dream, he has been tasked to defeat his teacher and caretaker, Yukihime, who will then permit him to go to the capital.\n\nTouta's life turns upside down when a bounty hunter arrives to claim a prize on Yukihime's head. In a desperate attempt to save both his mentor and friends, Touta follows Yukihime's instruction to drink her blood, turning him into an immortal monster capable of defeating the bounty hunter.\n\nYukihime reveals herself to be Evangeline Athanasia Katherine McDowell, a centuries-old vampire. With her identity now exposed, she and Touta flee to the capital and embark on an exciting adventure that will change both of their lives forever.\n\n[Written by MAL Rewrite]",
+    "background": "'UQ Holder!' was published in English by Kodansha Comics USA from March 18, 2014 to March 21, 2023, and in Brazilian Portuguese by Jbc since April 2016.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "McDowell, Evangeline Athanasia Katherine",
+        "role": "Main",
+        "popularity": 813
+      },
+      {
+        "name": "Springfield, Negi",
+        "role": "Supporting",
+        "popularity": 625
+      },
+      {
+        "name": "Miyazaki, Nodoka",
+        "role": "Supporting",
+        "popularity": 574
+      },
+      {
+        "name": "Sakurazaki, Setsuna",
+        "role": "Supporting",
+        "popularity": 364
+      },
+      {
+        "name": "Kagurazaka, Asuna",
+        "role": "Supporting",
+        "popularity": 342
+      },
+      {
+        "name": "Ayase, Yue",
+        "role": "Supporting",
+        "popularity": 263
+      },
+      {
+        "name": "Rakan, Jack",
+        "role": "Supporting",
+        "popularity": 157
+      },
+      {
+        "name": "Hasegawa, Chisame",
+        "role": "Supporting",
+        "popularity": 131
+      },
+      {
+        "name": "Konoe, Touta",
+        "role": "Main",
+        "popularity": 122
+      }
+    ],
+    "members": 50694,
+    "score": 7.47
+  },
+  {
+    "id": 270,
+    "title": "Re:Monster",
+    "alternativeTitle": [
+      "Reincarnated: Monster",
+      "Re:Monster",
+      "Re:Monster"
+    ],
+    "authors": [
+      "Kobayakawa, Haruyoshi",
+      "Kanekiru, Kogitsune"
+    ],
+    "description": "Tomokui Kanata has been re-incarnated in the weakest goblin, named Goburou, after having undergone an unfortunate death. However Goburou has retained his previous life's memories, an unusual evolution, as well as becoming strong enough to gain status boosts from eating.\n\nIn this alternate world of survival of the fittest, events unfold with competent subordinates and comrades, delightful case of the tail-wagging dog...",
+    "background": "'Re:Monster' has been published in English by Seven Seas Entertainment since November 8, 2016. It is also published digitally by AlphaPolis through Alpha Manga.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Isekai",
+      "Reincarnation"
+    ],
+    "characters": [
+      {
+        "name": "Rou",
+        "role": "Main",
+        "popularity": 178
+      }
+    ],
+    "members": 51081,
+    "score": 7.37
+  },
+  {
+    "id": 274,
+    "title": "Rave",
+    "alternativeTitle": [
+      "Rave: The Groove Adventure",
+      "RAVE",
+      "Rave Master"
+    ],
+    "authors": [
+      "Mashima, Hiro"
+    ],
+    "description": "Fifty years ago, the wielders of the sacred Rave stones fought against an onslaught caused by demon stones called Dark Bring. This war resulted in an explosion known as \"Overdrive\"—a blast so powerful that it sent the Dark Bring into a deep slumber and scattered the pieces of Rave across the world.\n\nIn the present, Haru Glory lives a peaceful life on Garage Island until one day, he catches the creature Plue while fishing. Plue is later recognized by Shiba Roses, an old man who happens to be the original Rave Master. Shiba explains that the Dark Bring has resurfaced, and that to stop it, assembling the scattered parts of Rave is of utmost urgency. However, before Shiba can leave on this mission, he is attacked by a soldier from the evil organization Demon Card, forcing him to transfer the power of Rave to Haru. With the fate of humankind resting on his shoulders, the new Rave Master begins his quest to find the scattered Rave fragments.\n\n[Written by MAL Rewrite]",
+    "background": "'Rave' was published in English by Tokyopop as'Rave Master' for 32 volumes from February 11, 2003 to February 10, 2009, until their license with Kodansha expired. Del Rey later gained the license and published the final three volumes in a single omnibus on May 24, 2011. Kodansha Comics USA digitally published the entire series in single volumes on October 3, 2017. It was also published in Spanish by Norma Editorial from February 2004 to February 2010.",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Glory, Haru",
+        "role": "Main",
+        "popularity": 309
+      },
+      {
+        "name": "Plue",
+        "role": "Main",
+        "popularity": 285
+      },
+      {
+        "name": "Sieghart",
+        "role": "Supporting",
+        "popularity": 186
+      },
+      {
+        "name": "Elie",
+        "role": "Main",
+        "popularity": 158
+      },
+      {
+        "name": "Musica, Hamrio",
+        "role": "Main",
+        "popularity": 112
+      }
+    ],
+    "members": 49520,
+    "score": 7.85
+  },
+  {
+    "id": 285,
+    "title": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
+    "alternativeTitle": [
+      "Naruto Side Story: The Seventh Hokage and the Scarlet Spring Month",
+      "NARUTO外伝 七代目火影と緋色の花つ月",
+      "Naruto: The Seventh Hokage and the Scarlet Spring"
+    ],
+    "authors": [
+      "Kishimoto, Masashi"
+    ],
+    "description": "The sun has set on Naruto Uzumaki's youth and is rising on the children of the next generation. One of these kids is Sarada Uchiha, daughter of Naruto's best friends Sasuke Uchiha and Sakura Haruno. Sharing a strong likeness with her father, Sarada has always wondered why she doesn't have any of her mother's features. When she discovers a photograph featuring Sasuke's old comrade Karin, Sarada is shocked to discover that she bears more of a resemblance to this strange woman than she does to her mother.\n\nWhen Sasuke returns to the village with news of a massive impending threat, Naruto obeys his duty as the Seventh Hokage and accompanies his old friend on an investigative mission. Unbeknownst to them both, Sarada and her friend Chouchou Akimichi pursue them, intent on solving the mystery of Sarada's parentage.\n\n[Written by MAL Rewrite]",
+    "background": "'Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki' was published in English as'Naruto: The Seventh Hokage and the Scarlet Spring' by VIZ Media under the Shonen Jump imprint on January 5, 2016; in Polish by J.P Fantastica on March 18, 2016; and in Brazilian Portuguese by Panini Comics/Planet Manga in October 2016.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Uzumaki, Naruto",
+        "role": "Main",
+        "popularity": 83195
+      },
+      {
+        "name": "Hatake, Kakashi",
+        "role": "Supporting",
+        "popularity": 47117
+      },
+      {
+        "name": "Uchiha, Sasuke",
+        "role": "Main",
+        "popularity": 28657
+      },
+      {
+        "name": "Nara, Shikamaru",
+        "role": "Supporting",
+        "popularity": 17577
+      },
+      {
+        "name": "Haruno, Sakura",
+        "role": "Supporting",
+        "popularity": 5314
+      },
+      {
+        "name": "Orochimaru",
+        "role": "Supporting",
+        "popularity": 2505
+      },
+      {
+        "name": "Uzumaki, Boruto",
+        "role": "Supporting",
+        "popularity": 1801
+      },
+      {
+        "name": "Uchiha, Sarada",
+        "role": "Main",
+        "popularity": 1201
+      },
+      {
+        "name": "Mitsuki",
+        "role": "Supporting",
+        "popularity": 971
+      },
+      {
+        "name": "Sai",
+        "role": "Supporting",
+        "popularity": 970
+      },
+      {
+        "name": "Kurama",
+        "role": "Supporting",
+        "popularity": 917
+      },
+      {
+        "name": "Yamanaka, Ino",
+        "role": "Supporting",
+        "popularity": 577
+      },
+      {
+        "name": "Aburame, Shino",
+        "role": "Supporting",
+        "popularity": 513
+      },
+      {
+        "name": "Yakushi, Kabuto",
+        "role": "Supporting",
+        "popularity": 397
+      },
+      {
+        "name": "Hoozuki, Suigetsu",
+        "role": "Supporting",
+        "popularity": 395
+      },
+      {
+        "name": "Yamato",
+        "role": "Supporting",
+        "popularity": 313
+      },
+      {
+        "name": "Akimichi, Chouji",
+        "role": "Supporting",
+        "popularity": 171
+      },
+      {
+        "name": "Karin",
+        "role": "Supporting",
+        "popularity": 149
+      }
+    ],
+    "members": 48226,
+    "score": 7.16
+  },
+  {
+    "id": 287,
+    "title": "Black Cat",
+    "alternativeTitle": [
+      "Stray Cat",
+      "BLACK CAT",
+      "Black Cat"
+    ],
+    "authors": [
+      "Yabuki, Kentarou"
+    ],
+    "description": "Train Heartnet is an amicable bounty hunter—known as a \"Sweeper\"—with a talent for sharpshooting. Working alongside his cool-headed partner Sven Vollfied, they hunt down wanted criminals. Unfortunately, however, despite their efforts, the dynamic duo always seems to be short on money, which forces them to accept a job from the beautiful Rinslet Walker, a sly thief for hire, and a mysterious girl named Eve.\n\nHowever, the motley crew soon discovers a terrible plot to revolutionize the world, and the mastermind is someone Train knows and loathes with a passion. As the plan is set into motion, it is soon made clear that behind the carefree sharpshooter's smiling face lies a tragic past and an insatiable desire for revenge.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 8: Stray Cat (pilot)",
+    "background": "'Black Cat' was published in English by VIZ Media under the Shonen Jump imprint from March 7, 2006 to May 5, 2009 and in Italian by Star Comics from February 3, 2004 to April 2, 2007.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Heartnet, Train",
+        "role": "Main",
+        "popularity": 2002
+      },
+      {
+        "name": "Eve",
+        "role": "Main",
+        "popularity": 430
+      },
+      {
+        "name": "Vollfied, Sven",
+        "role": "Main",
+        "popularity": 372
+      },
+      {
+        "name": "Minatsuki, Saya",
+        "role": "Supporting",
+        "popularity": 140
+      },
+      {
+        "name": "Diskenth, Creed",
+        "role": "Supporting",
+        "popularity": 126
+      }
+    ],
+    "members": 47894,
+    "score": 7.79
+  },
+  {
+    "id": 289,
+    "title": "Sousei no Onmyouji",
+    "alternativeTitle": [
+      "Sousei no Onmyouji: Adashino Benio-hen",
+      "双星の陰陽師",
+      "Twin Star Exorcists"
+    ],
+    "authors": [
+      "Sukeno, Yoshiaki"
+    ],
+    "description": "For centuries, terrifying creatures—known as \"Kegare\"—from the parallel realm Magano have wreaked havoc throughout Japan. The brave men and women resisting their onslaught are secretive exorcists whose one and only goal is to eradicate all the Kegare. \n\nIn the present day, 14-year-old Rokuro Enmadou is a talented and powerful exorcist. However, a tragic event in the past caused him to resent exorcists and give up his dream of becoming the strongest. In stark contrast to him, Benio Adashino is a beautiful and prodigious exorcist of the same age who carries the hopes and dreams of all people. \n\nThese two teenagers, despite their differences, are the prophesied \"Twin Star Exorcists\": the two people destined to give birth to the Miko—the exorcist who will vanquish the Kegare and cleanse the world of all impurities. But as the adolescents are both far from maturity, let alone adulthood, only hardships and trials await the unlikely heroes. \n\n[Written by MAL Rewrite]",
+    "background": "'Sousei no Onmyouji' has been published in English as'Twin Star Exorcists' by VIZ Media under the Shonen Jump imprint since July 7, 2015 and in Spanish by Norma Editorial since October 29, 2016.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Adashino, Benio",
+        "role": "Main",
+        "popularity": 751
+      },
+      {
+        "name": "Enmadou, Rokuro",
+        "role": "Main",
+        "popularity": 730
+      },
+      {
+        "name": "Otomi, Mayura",
+        "role": "Supporting",
+        "popularity": 425
+      },
+      {
+        "name": "Amawaka, Seigen",
+        "role": "Supporting",
+        "popularity": 241
+      },
+      {
+        "name": "Ikaruga, Shimon",
+        "role": "Supporting",
+        "popularity": 154
+      }
+    ],
+    "members": 48379,
+    "score": 7.89
   }
 ]
