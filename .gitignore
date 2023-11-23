@@ -1,4 +1,4 @@
 node_modules
-manga_data/*
-manga_images/*
+tools/manga_data*/*
+tools/manga_images*/*
 dest

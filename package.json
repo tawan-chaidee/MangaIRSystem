@@ -9,12 +9,11 @@
     "add-to-elastic": "tsc && node ./dest/Tools/addToDb.js",
     "search-test": "tsc && node ./dest/Tools/searchTest.js"
   },
+  "workspaces": ["frontend","tools"],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@elastic/elasticsearch": "^8.10.0",
-    "fast-csv": "^4.3.6",
-    "puppeteer": "^21.5.1",
     "typescript": "^5.3.2"
   }
 }

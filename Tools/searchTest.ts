@@ -1,10 +1,11 @@
 import Elastic from "@elastic/elasticsearch"
 import path from "path"
+import "dotenv/config"
 
 const appRoot = path.resolve(__dirname, "../../")
 
 const client = new Elastic.Client({
-  node: "http://localhost:9200",
+  node: process.env.ELASTICSEARCH_URL,
 })
 
 const index = "test-index"

@@ -1,30 +1,23 @@
 import Elastic from "@elastic/elasticsearch"
 import fs from "fs"
 import path from "path"
+import 'dotenv/config'
 
-const appRoot = path.resolve(__dirname, "../../")
+const appRoot = path.resolve(__dirname, "../")
+const mangaDataPath = appRoot + "/manga_data"
 
 const client = new Elastic.Client({
-  node: "http://localhost:9200",
+  node: process.env.ELASTICSEARCH_URL,
 })
 
 const index = "test-index"
 
 async function main() {
-  // // create index if not exists
-  // const indexExists = await client.indices.exists({ index })
-  // if (!indexExists) {
-  //   await client.indices.create({ index })
-  //   console.log("Index created")
-  // } else {
-  //   console.log("Index already exists, skipping creation")
-  // }
-
-  // clean index if exists
+  // clean index if it already exists
   const indexExists = await client.indices.exists({ index })
   if (indexExists) {
     await client.indices.delete({ index })
-    console.log("Index deleted")
+    console.log("Index already exists: deleted")
   }
 
   // create index
@@ -32,14 +25,14 @@ async function main() {
   console.log("Index created")
 
   // read data from folder
-  fs.readdir(appRoot + "/manga_data", async (err, files) => {
+  fs.readdir(mangaDataPath, async (err, files) => {
     if (err) {
       console.log(err)
       return
     }
 
     for (const file of files) {
-      const data = JSON.parse(fs.readFileSync(appRoot + `/manga_data/${file}`, "utf-8"))
+      const data = JSON.parse(fs.readFileSync(mangaDataPath+`/${file}`, "utf-8"))
       await client.index({
         index,
         document: data,
@@ -49,7 +42,7 @@ async function main() {
   })
 }
 
-main().then(() => console.log("Finished"))
+main().then(() => console.log("Finished")).catch()
 
 
 const addToDb = async (id: string, data: any) => {

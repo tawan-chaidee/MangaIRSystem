@@ -1,0 +1,20 @@
+{
+  "name": "manga_ir_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MyAnimeListScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scraper": "tsc && node dest/manga_scraper.js",
+    "updateDb": "tsc && node dest/addToDb.js",
+    "searchTest": "tsc && node dest/searchTest.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fast-csv": "^4.3.6",
+    "puppeteer": "^21.5.1",
+    "typescript": "^5.3.2"
+  }
+}

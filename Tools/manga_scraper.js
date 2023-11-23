@@ -3,16 +3,17 @@ const fs = require('fs');
 const csv = require('fast-csv');
 const EventEmitter = require('events');
 const https = require('https');
+const dotenv = require('dotenv');
+dotenv.config();
 
 const MAX_CONCURRENT_TASKS = 1; //GOING TOO FAST
-const START_INDEX = 75;
-const DATA_SIZE = 100;
+const START_INDEX = 0;
+const DATA_SIZE = 1;
 const DELAY = 0; //Delay for each manga in milisecond
 const WANTED_GENRE = 'Fantasy';
 const JSON_FILE_PATH = 'manga_data.json';
-const JSON_FOLDER = './manga_data/';
-const IMAGE_FOLDER = './manga_images/';
-
+// const JSON_FOLDER = './manga_data/';
+// const IMAGE_FOLDER = './manga_images/';
 
 class Manga {
     constructor(id, title, alternativeTitle, authors, description, background, genres, characters, members, score) {
@@ -31,7 +32,7 @@ class Manga {
 
 // EventEmitter.defaultMaxListeners = MAX_CONCURRENT_TASKS;
 process.setMaxListeners(0);
-const csvData = fs.createReadStream('./WebScrapeTool/manga_dataset.csv');
+const csvData = fs.createReadStream('./manga_dataset.csv');
 const results = [];
 
 csv.parseStream(csvData, { headers: true })
@@ -157,12 +158,12 @@ async function scrapeMangaData(browser, url, title, index) {
 
         // download image
         let imageUrl = await page.$eval('.leftside img', element => element.src)
-        let imageLocation = IMAGE_FOLDER + '/' + index + '.jpg';
+        let imageLocation = process.env.MANGA_IMAGES_PATH + '/' + index + '.jpg';
         let imageFile = fs.createWriteStream(imageLocation);
 
         if (!fs.existsSync(imageLocation)) {
 
-            fs.mkdir(IMAGE_FOLDER, { recursive: true }, (err) => {
+            fs.mkdir(process.env.MANGA_IMAGES_PATH, { recursive: true }, (err) => {
                 if (err) {
                     console.error('Error creating image folder:', err);
                 }
@@ -219,7 +220,7 @@ async function scrapeMangaData(browser, url, title, index) {
 
         // save current progress
         // writeJsonFile('./manga_data/'+index+'.json', newManga);
-        writeJsonFile(`${JSON_FOLDER}/${index}-${title}.json`, newManga);
+        writeJsonFile(`${process.env.MANGA_DATA_PATH}/${index}-${title}.json`, newManga);
 
         return newManga;
     } catch (error) {
@@ -231,7 +232,7 @@ async function scrapeMangaData(browser, url, title, index) {
 function writeJsonFile(filePath, data) {
     const jsonString = JSON.stringify(data, null, 2);
 
-    fs.mkdir(JSON_FOLDER, { recursive: true }, (err) => {
+    fs.mkdir(process.env.MANGA_DATA_PATH, { recursive: true }, (err) => {
         if (err) {
             console.error('Error creating JSON folder:', err);
         }
