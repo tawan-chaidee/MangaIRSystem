@@ -6,9 +6,9 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "scraper": "tsc && node dest/manga_scraper.js",
-    "updateDb": "tsc && node dest/addToDb.js",
-    "searchTest": "tsc && node dest/searchTest.js"
+    "scraper": "tsc && node dist/manga_scraper.js",
+    "updateDb": "tsc && node dist/addToDb.js",
+    "searchTest": "tsc && node dist/searchTest.js"
   },
   "author": "",
   "license": "ISC",

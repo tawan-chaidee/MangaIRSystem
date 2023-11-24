@@ -1,1087 +1,876 @@
 [
   {
-    "id": 201,
-    "title": "Rosario to Vampire: Season II",
+    "id": 0,
+    "title": "Berserk",
     "alternativeTitle": [
-      "Rosario and Vampire: Season 2",
-      "ロザリオとバンパイア SeasonⅡ",
-      "Rosario+Vampire: Season II"
+      "Berserk: The Prototype",
+      "ベルセルク",
+      "Berserk"
     ],
     "authors": [
-      "Ikeda, Akihisa"
+      "Miura, Kentarou",
+      "Studio Gaga"
     ],
-    "description": "The story continues where the first season left off only months into the future. Yuokai Gakuen has been repaired and the new semester is underway. Tsukune and gang are back, and more powerful then ever. Anti-Thesis's true identity is revealed. With new adversaries looming on the horizon, and something much more sinister than the gang has ever faced before.\n\nTsukune is battling with the monster inside him. With the help of Moka, Mizore, Kurumu, Ruby, and Yukari, Tsukune trains to get his vampire blood under control and the strength to protect what he holds dear.\n\nThe new season focuses more on the girls, their past, and their families. New confrontations await them. New friends and allies will join them by their side. Together they will discover the secrets of Moka's rosary, and her lineage...\n\n(Source: girlsdeadmonster)",
-    "background": "'Rosario to Vampire: Season II' was published in English as'Rosario+Vampire: Season II' by Viz Media under the Shonen Jump Advanced imprint from April 6, 2010 to May 5, 2015. A complete box set (that includes the entire'Rosario to Vampire' series) was released on November 3. The series was also published in Italian by GP Manga from September 28, 2013 to September 5, 2015.",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Fantasy",
-      "Romance",
-      "Supernatural",
-      "Ecchi",
-      "Harem",
-      "School",
-      "Vampire",
-      "Shounen"
-    ],
-    "characters": [
-      {
-        "name": "Shirayuki, Mizore",
-        "role": "Main",
-        "popularity": 3948
-      },
-      {
-        "name": "Akashiya, Moka",
-        "role": "Main",
-        "popularity": 3160
-      },
-      {
-        "name": "Kurono, Kurumu",
-        "role": "Main",
-        "popularity": 806
-      },
-      {
-        "name": "Aono, Tsukune",
-        "role": "Main",
-        "popularity": 709
-      },
-      {
-        "name": "Toujou, Ruby",
-        "role": "Main",
-        "popularity": 126
-      },
-      {
-        "name": "Shuzen, Kokoa",
-        "role": "Main",
-        "popularity": 108
-      }
-    ],
-    "members": 66135,
-    "score": 8.12
-  },
-  {
-    "id": 208,
-    "title": "Kage no Jitsuryokusha ni Naritakute!",
-    "alternativeTitle": [
-      "陰の実力者になりたくて!",
-      "The Eminence in Shadow"
-    ],
-    "authors": [
-      "Sakano, Anri",
-      "Aizawa, Daisuke"
-    ],
-    "description": "Great heroes and diabolical villains are the types of characters that people long to be—but not Cid Kagenou. He longs to become the true mastermind behind it all, pulling the strings, and having his machinations drive the entire story. In his previous life in modern-day Japan, he was not able to achieve his goals. But now, reborn into a world of magic, he will show the true eminence of shadow!\n\nAs Cid pretends to be just another average mob character, he recruits members to his (fake) organization Shadow Garden, aiming to take down the mysterious cult who lurks in the shadows. With plenty of ad-libs, Cid leads his (fake) organization against the foul (yet surprisingly real) Cult of Diablos.\n\n[Written by MAL Rewrite]",
-    "background": "'Kage no Jitsuryokusha ni Naritakute!' has been published in English as'The Eminence in Shadow' by Yen Press since November 23, 2021.",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Fantasy",
-      "Isekai",
-      "Reincarnation"
-    ],
-    "characters": [
-      {
-        "name": "Kagenou, Cid",
-        "role": "Main",
-        "popularity": 6371
-      },
-      {
-        "name": "Delta",
-        "role": "Supporting",
-        "popularity": 1039
-      },
-      {
-        "name": "Alpha",
-        "role": "Supporting",
-        "popularity": 532
-      },
-      {
-        "name": "Beta",
-        "role": "Main",
-        "popularity": 318
-      },
-      {
-        "name": "Kagenou, Claire",
-        "role": "Main",
-        "popularity": 296
-      },
-      {
-        "name": "Midgar, Alexia",
-        "role": "Supporting",
-        "popularity": 284
-      },
-      {
-        "name": "Epsilon",
-        "role": "Supporting",
-        "popularity": 181
-      },
-      {
-        "name": "Gamma",
-        "role": "Supporting",
-        "popularity": 157
-      },
-      {
-        "name": "Zeta",
-        "role": "Supporting",
-        "popularity": 102
-      },
-      {
-        "name": "Eta",
-        "role": "Supporting",
-        "popularity": 101
-      }
-    ],
-    "members": 67899,
-    "score": 8.28
-  },
-  {
-    "id": 211,
-    "title": "InuYasha",
-    "alternativeTitle": [
-      "Inu-Yasha, Inu Yasha",
-      "犬夜叉",
-      "InuYasha"
-    ],
-    "authors": [
-      "Takahashi, Rumiko"
-    ],
-    "description": "Kagome Higurashi's ordinary life comes to an abrupt halt when a demon drags her deep into a well, transporting her five hundred years into the past. In this era, Kagome quickly learns two things: demons walk amongst humans and she has unknowingly brought a dangerous object from her world—a marble-sized sphere known as the Shikon Jewel. This unusual orb brings tremendous power to any demon who has it in their possession, and Kagome is an easy target for anyone determined enough to steal it.\n\nWhile in a fight with a demon, a hasty attempt to fend it off causes Kagome to accidentally shatter the jewel, sending countless pieces of it all over feudal Japan. She soon learns the grave consequences of her actions when she must work with the half-demon Inuyasha to collect all the pieces of the jewel before they fall into the wrong hands.\n\n[Written by MAL Rewrite]",
-    "background": "'InuYasha' was awarded the 47th Shogakukan Manga Award for best shounen manga in 2001.\n\nThe series was published in English by VIZ Media as'Inu-Yasha: A Feudal Fairy Tale' from July 6, 1998 to January 11, 2011, it was relabeled as'InuYasha' from volume 12 onwards, the first 37 volumes were in left-to-right format but all later volumes were printed in traditional Japanese format. It was republished in 3-in-1 omnibuses under the Shonen Sunday VIZBIG imprint from November 10, 2009 to February 11, 2014. It was also published in Spain by Glénat España, and partially published in Argentina by LARP Editores.",
-    "genres": [
-      "Adventure",
-      "Award Winning",
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Romance",
-      "Supernatural",
-      "Historical",
-      "Mythology",
-      "Time Travel",
-      "Shounen"
-    ],
-    "characters": [
-      {
-        "name": "Inuyasha",
-        "role": "Main",
-        "popularity": 7134
-      },
-      {
-        "name": "Sesshoumaru",
-        "role": "Supporting",
-        "popularity": 6950
-      },
-      {
-        "name": "Higurashi, Kagome",
-        "role": "Main",
-        "popularity": 2704
-      },
-      {
-        "name": "Sango",
-        "role": "Main",
-        "popularity": 1354
-      },
-      {
-        "name": "Kikyou",
-        "role": "Main",
-        "popularity": 1130
-      },
-      {
-        "name": "Miroku",
-        "role": "Main",
-        "popularity": 775
-      },
-      {
-        "name": "Shippou",
-        "role": "Main",
-        "popularity": 414
-      },
-      {
-        "name": "Kouga",
-        "role": "Supporting",
-        "popularity": 413
-      },
-      {
-        "name": "Kagura",
-        "role": "Supporting",
-        "popularity": 318
-      },
-      {
-        "name": "Naraku",
-        "role": "Supporting",
-        "popularity": 301
-      },
-      {
-        "name": "Rin",
-        "role": "Supporting",
-        "popularity": 285
-      },
-      {
-        "name": "Kirara",
-        "role": "Supporting",
-        "popularity": 239
-      },
-      {
-        "name": "Bankotsu",
-        "role": "Supporting",
-        "popularity": 121
-      }
-    ],
-    "members": 64376,
-    "score": 7.86
-  },
-  {
-    "id": 213,
-    "title": "Eden no Ori",
-    "alternativeTitle": [
-      "エデンの檻",
-      "Cage of Eden"
-    ],
-    "authors": [
-      "Yamada, Yoshinobu"
-    ],
-    "description": "Just a few hours ago, Akira Sengoku was having fun with his classmates on their flight back to Japan from a school trip in Guam. Now, he finds himself all alone in a jungle after the plane mysteriously crashed. While searching for survivors, his surroundings become increasingly suspicious as he stumbles across various animal species he has never seen before. Finally, he manages to find two survivors—his classmate Shirou Mariya and cabin attendant Kanako Oomori—being attacked by a two-meter tall bird!\n\nAfter barely managing to escape with their lives, Shirou uses his computer to pinpoint their exact location and shed some light on the strange creatures that they have encountered. What he discovers is beyond anything they expected—they have crashed on an island in the Pacific that should not exist, inhabited by animals that supposedly went extinct millions of years ago.\n\nEden no Ori tells the story of Akira and the other survivors' struggles on an island all too eager to see them disappear. With predators lurking around every corner, Akira and his friends must use all their wits to survive and unravel the mysteries of the island's origin.\n\n[Written by MAL Rewrite]",
-    "background": "'Eden no Ori' was published in English as'Cage of Eden' by Kodansha Comics USA from August 23, 2011 to May 16, 2017. It has also been published in Italian by GP Manga since January 16, 2011.",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Ecchi",
-      "Shounen"
-    ],
-    "characters": [],
-    "members": 63244,
-    "score": 7.65
-  },
-  {
-    "id": 217,
-    "title": "Cardcaptor Sakura",
-    "alternativeTitle": [
-      "Cardcaptor Sakura: Master of the Clow, CCS",
-      "カードキャプターさくら",
-      "Cardcaptor Sakura"
-    ],
-    "authors": [
-      "CLAMP"
-    ],
-    "description": "\"Herein lie the Clow Cards—if their seal is broken, disaster shall befall this world...\"\n\nSakura Kinomoto is an energetic and sweet 10-year-old girl attending Tomoeda Elementary School. One day not long after entering the fourth grade, Sakura finds a mysterious book titled \"The Clow\" hidden within her father's bookshelves. Upon opening it, a small, winged creature with an Osakan accent comes out of the book and introduces itself as Keroberos, the Creature of the Seal who guards magical cards known as the Clow Cards and keeps them from escaping the book.\n\nUnfortunately for the plushy guardian, it seems that the Clow Cards have already escaped—and now Sakura is tasked with capturing them before the cards unleash their powers and cause havoc all over Tomoeda! With the support of the tiny guardian who she nicknames \"Kero\" and her best friend Tomoyo Daidouji, Sakura must wield a magical bird-shaped key and use her new powers as the Cardcaptor to maintain peace and ensure that everything is alright.\n\n[Written by MAL Rewrite]",
-    "background": "'Cardcaptor Sakura' won the 32nd Seiun Award for Best Manga in 2001. It received a 70-episode anime adaptation and two animated films, several video games and artbooks.\n\nThe series was published in English by Tokyopop from March 1, 2001 to August 5, 2003 and in 3-in-1 omnibus format by Dark Horse Comics from October 20, 2010 to September 19, 2012. The official English release by Tokyopop split this into two six-volume series, the second of which is titled'Cardcaptor Sakura: Master of the Clow' . However, it is one twelve-volume series in Japan. It has also been published in Chinese by Every Glory Publishing, in Spanish by Ediciones Glénat (Spain), Editorial Ivrea (Argentina), and Editorial Toukan (Mexico), in French by Pika Édition, in Italian by Star Comics, in German by Egmont Manga & Anime, and in Portuguese by Editora JBC.",
-    "genres": [
-      "Adventure",
-      "Award Winning",
-      "Comedy",
-      "Fantasy",
-      "Romance",
-      "Mahou Shoujo",
-      "Shoujo"
-    ],
-    "characters": [
-      {
-        "name": "Kinomoto, Sakura",
-        "role": "Main",
-        "popularity": 5586
-      },
-      {
-        "name": "Li, Shaoran",
-        "role": "Main",
-        "popularity": 2283
-      },
-      {
-        "name": "Daidouji, Tomoyo",
-        "role": "Main",
-        "popularity": 1689
-      },
-      {
-        "name": "Keroberos",
-        "role": "Main",
-        "popularity": 1049
-      },
-      {
-        "name": "Tsukishiro, Yukito",
-        "role": "Supporting",
-        "popularity": 673
-      },
-      {
-        "name": "Yue",
-        "role": "Supporting",
-        "popularity": 647
-      },
-      {
-        "name": "Kinomoto, Touya",
-        "role": "Supporting",
-        "popularity": 620
-      },
-      {
-        "name": "Hiiragizawa, Eriol",
-        "role": "Supporting",
-        "popularity": 131
-      }
-    ],
-    "members": 62318,
-    "score": 8.37
-  },
-  {
-    "id": 223,
-    "title": "Vanitas no Karte",
-    "alternativeTitle": [
-      "Vanitas no Carte, Vanitas no Shuki, Memoir of Vanitas",
-      "ヴァニタスの手記〈カルテ〉",
-      "The Case Study of Vanitas"
-    ],
-    "authors": [
-      "Mochizuki, Jun"
-    ],
-    "description": "There once lived a vampire known as Vanitas, hated by his own kind for being born under a full blue moon, as most arise on the night of a crimson one. Afraid and alone, he created the \"Book of Vanitas,\" a cursed grimoire that would one day take his vengeance on all vampires; this is how the story goes, at least.\n\nVanitas no Karte follows Noé Archiviste, a young man who is traveling aboard an airship in 19th century Paris with one goal in mind: to find the Book of Vanitas. A sudden vampire attack leads him to meet the enigmatic Vanitas, a doctor who specializes in vampires and, much to Noé's surprise, an entirely ordinary human. The mysterious doctor has inherited both the name and the infamous text from the Vanitas of legend, using the grimoire to heal his patients. But behind his kind demeanor lies something a bit more sinister...\n\n[Written by MAL Rewrite]",
-    "background": "'Vanitas no Karte' is simultaneously published in English as'The Case Study of Vanitas' by Yen Press on the same day as the Japanese release. It has also been published digitally by Square Enix through Manga UP! Physical release began on December 20, 2016. The series has also been published in Polish by Waneko since December 5, 2016.",
-    "genres": [
-      "Fantasy",
-      "Supernatural",
-      "Historical",
-      "Vampire",
-      "Shounen"
-    ],
-    "characters": [
-      {
-        "name": "Vanitas",
-        "role": "Main",
-        "popularity": 5890
-      },
-      {
-        "name": "Archiviste, Noé",
-        "role": "Main",
-        "popularity": 2312
-      },
-      {
-        "name": "Jeanne",
-        "role": "Supporting",
-        "popularity": 1744
-      },
-      {
-        "name": "de Sade, Dominique",
-        "role": "Supporting",
-        "popularity": 603
-      },
-      {
-        "name": "d'Apchier, Chloé",
-        "role": "Supporting",
-        "popularity": 184
-      },
-      {
-        "name": "Fortis, Roland",
-        "role": "Supporting",
-        "popularity": 182
-      },
-      {
-        "name": "Murr",
-        "role": "Supporting",
-        "popularity": 147
-      }
-    ],
-    "members": 61882,
-    "score": 8.49
-  },
-  {
-    "id": 241,
-    "title": "Kumo desu ga, Nani ka?",
-    "alternativeTitle": [
-      "So I'm a spider, what about it?",
-      "蜘蛛ですが、なにか？",
-      "So I'm a Spider, So What?"
-    ],
-    "authors": [
-      "Kakashi, Asahiro",
-      "Baba, Okina"
-    ],
-    "description": "When a mysterious explosion killed an entire class full of high school students, the souls of everyone in class was transported into a fantasy world and reincarnated. While some students were reincarnated as princes or prodigies, others were not as blessed.\n\nOur heroine, who was the lowest in the class, discovered that she was reincarnated as a spider!? Now at the bottom of the food chain, she needs to adapts to the current situation with willpower in order to live! Stuck in a dangerous labyrinth filled with monsters, it's eat or be eaten!\n\nThis is the story of a spider doing whatever she can in order to survive!\n\n(Source: MU)",
-    "background": "'Kumo desu ga, Nani ka?' has been published in English as'So I'm a Spider, So What?' by Yen Press since December 19, 2017.",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Isekai",
-      "Reincarnation"
-    ],
-    "characters": [
-      {
-        "name": "Kumoko",
-        "role": "Main",
-        "popularity": 2600
-      },
-      {
-        "name": "Feirune",
-        "role": "Supporting",
-        "popularity": 554
-      },
-      {
-        "name": "Shiraori",
-        "role": "Supporting",
-        "popularity": 488
-      },
-      {
-        "name": "Ariel",
-        "role": "Supporting",
-        "popularity": 353
-      }
-    ],
-    "members": 57292,
-    "score": 7.81
-  },
-  {
-    "id": 246,
-    "title": "Kaze no Tani no Nausicaä",
-    "alternativeTitle": [
-      "Kaze no Tani no Nausicaa",
-      "風の谷のナウシカ",
-      "Nausicaä of the Valley of the Wind",
-      "Nausicaä aus dem Tal der Winde",
-      "Nausicaä del valle del viento",
-      "Nausicaä de la vallée du vent"
-    ],
-    "authors": [
-      "Miyazaki, Hayao"
-    ],
-    "description": "Humanity, once a technologically advanced and thriving civilization, has been pushed to the brink of extinction following a cataclysmic war known as the \"Seven Days of Fire.\" The remnants of the human race now live in scattered kingdoms to avoid the unrelenting spread of the \"Sea of Corruption,\" a colossal forest infested with dangerous mutant insects and fungi that produce poisonous spores.\n\nNausicaä, sole heir to the throne of the agricultural kingdom Valley of the Wind, is thrust into a war after an ally kingdom, the imperialist Torumekia, invades the Dorok Empire. Forced to fight alongside the Torumekian military and their cunning princess Kushana, Nausicaä witnesses firsthand the horrors of war and its effect on both humanity and the environment. With her uncanny charisma and gentle nature, Nausicaä may be the only for hope for humanity as the ongoing war and the Sea of Corruption hasten the extinction of mankind.\n\nSet against the backdrop of a devastated world, Kaze no Tani no Nausicaä depicts the aftermath of human folly and the immortal power of nature.\n\n[Written by MAL Rewrite]",
-    "background": "VIZ Media has published'Kaze no Tani no Nausicaä' in English as'Nausicaä of the Valley of the Wind' in five different formats since 1988. The two most recent releases pertain closest to the original format: A 7 volume release under the Ghibli Library imprint from February 11 to September 7, 2004 and a complete box set with two hardcover omnibus volumes published on November 6, 2012. (For more details, see thesection)\n\nThe series was also published in Spanish as'Nausicaä del Valle del Viento' by Planeta DeAgostini Cómics from May to October 2001 and republished in November 2013 in two omnibus volumes box set.",
+    "description": "Guts, a former mercenary now known as the \"Black Swordsman,\" is out for revenge. After a tumultuous childhood, he finally finds someone he respects and believes he can trust, only to have everything fall apart when this person takes away everything important to Guts for the purpose of fulfilling his own desires. Now marked for death, Guts becomes condemned to a fate in which he is relentlessly pursued by demonic beings.\n\nSetting out on a dreadful quest riddled with misfortune, Guts, armed with a massive sword and monstrous strength, will let nothing stop him, not even death itself, until he is finally able to take the head of the one who stripped him—and his loved one—of their humanity.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 14: Berserk: The Prototype",
+    "background": "'Berserk' won the Award for Excellence at the sixth installment of Tezuka Osamu Cultural Prize in 2002.\n\nThe series has over 50 million copies in print worldwide and has been published in English by Dark Horse since November 4, 2003. It is also published in Italy, Germany, Spain, France, Brazil, South Korea, Hong Kong, Taiwan, Thailand, Poland, México and Turkey.\n\nIn May 2021, the author Kentaro Miura suddenly died at the age of 54. Chapter 364 of'Berserk' was published posthumously on September 10, 2021. Miura would often share details about the series' story with his childhood friend and fellow mangaka Kouji Mori.'Berserk' resumed on June 24, 2022, with Studio Gaga handling the art and Kouji Mori's supervision.",
     "genres": [
       "Action",
       "Adventure",
       "Award Winning",
-      "Fantasy",
-      "Supernatural"
-    ],
-    "characters": [
-      {
-        "name": "Nausicaä",
-        "role": "Main",
-        "popularity": 2868
-      },
-      {
-        "name": "Kushana",
-        "role": "Main",
-        "popularity": 189
-      }
-    ],
-    "members": 56542,
-    "score": 8.82
-  },
-  {
-    "id": 248,
-    "title": "Übel Blatt",
-    "alternativeTitle": [
-      "Evil Blade",
-      "Übel Blatt ～ユーベルブラット～",
-      "Ubel Blatt"
-    ],
-    "authors": [
-      "Shiono, Etorouji"
-    ],
-    "description": "When Wischtech threatened to invade the fiefs of Szaalanden, the Emperor dispatched fourteen youths. Of these, the Seven Heroes halted the invasion to herald a time of prosperity while the four Lances of Betrayal were supposedly defeated.\n\nTwo decades later, the Lances of Betrayal have reappeared and formed a bandit militia near the frontier fief Gormbark. A man with the black sword and a scar over his left eye slays an entire troop of that militia. He is identified as a boy, Kóinzell, and becomes as much an object of fear as of hope even as his own past, motivations, and purpose are a mystery to those he meets in his travel.\n\n(Source: MU)",
-    "background": "'Übel Blatt' was serialized in Young Gangan magazine until the 22nd, 2009 issue, after which it took a short hiatus and restarted in Big Gangan magazine in 2011.\n\nThe series was published in English by Yen Press as 2-in-1 omnibus volumes from October 28, 2014 to December 24, 2019; in Spanish by Norma Editorial since May 14, 2014; in German by KAZÉ Manga since October 8, 2014; and in Italian by Edizioni BD under the J-POP imprint since September 30, 2008.",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Ecchi",
-      "Seinen"
-    ],
-    "characters": [
-      {
-        "name": "Koinzell",
-        "role": "Main",
-        "popularity": 347
-      }
-    ],
-    "members": 55064,
-    "score": 7.64
-  },
-  {
-    "id": 249,
-    "title": "Dungeon Meshi",
-    "alternativeTitle": [
-      "Dungeon Food",
-      "ダンジョン飯",
-      "Delicious in Dungeon",
-      "Tragones y mazmorras"
-    ],
-    "authors": [
-      "Kui, Ryoko"
-    ],
-    "description": "After the Golden Kingdom is sunk underground by an insane magician, its king emerges, promising all of his treasure to any who defeat the magician, before crumbling to dust. Guilds are spurred on by this promise, traversing the labyrinthine dungeon in search of the magician. Laios, the leader of one such guild, encounters a dragon that wipes out his party and devours his sister Falin. Despite having lost the entirety of their supplies and belongings, Laios along with Marcille, an elven healer, and Chilchuck, a halfling thief, immediately reenter the dungeon, determined to save Falin. \n\nTime being of the essence, Laios suggests the taboo of eating the monsters of the dungeon as a means of gathering supplies. Upon the preparation of their first meal in the dungeon, they are stopped by an onlooking dwarf named Senshi. An enthusiast of monster cooking, he helps them prepare their monster ingredients for safe consumption. After learning of Laios' circumstances, Senshi expresses his desire to cook a dragon and joins their guild, thus beginning their food-filled foray into the dungeon together.\n\n[Written by MAL Rewrite]",
-    "background": "'Dungeon Meshi' ranked first in the 2016 Kono Manga ga Sugoi! for the Male Readers division.\n\nThe series has been published in English as'Delicious in Dungeon' by Yen Press since May 23, 2017. It has also been published in Italian by J-Pop since May 2017 and in Spanish by Milky Way Ediciones since February 2017.",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Gourmet",
-      "Seinen"
-    ],
-    "characters": [
-      {
-        "name": "Donato, Marcille",
-        "role": "Main",
-        "popularity": 333
-      },
-      {
-        "name": "Thorden, Laios",
-        "role": "Main",
-        "popularity": 218
-      },
-      {
-        "name": "Senshi",
-        "role": "Main",
-        "popularity": 140
-      }
-    ],
-    "members": 57977,
-    "score": 8.46
-  },
-  {
-    "id": 255,
-    "title": "Mairimashita! Iruma-kun",
-    "alternativeTitle": [
-      "魔入りました!入間くん",
-      "Welcome to Demon School! Iruma-kun"
-    ],
-    "authors": [
-      "Nishi, Osamu"
-    ],
-    "description": "Fourteen-year-old Iruma Suzuki has the worst luck possible! Incapable of saying no to anyone, he has always performed whatever life-threatening jobs his greedy and lazy parents requested. His life takes an unexpected turn when they form a contract with Sullivan, a high-ranking demon, at the cost of his soul. Afraid and confused, Iruma is surprised that all Sullivan wants is to act as his grandfather.\n\nSullivan takes care of Iruma and decides to enroll him in the demon school Babyls. Iruma's greatest challenge is hiding his status as a human, so keeping a low profile among his peers is the only option. However, Iruma will soon discover that he is no ordinary human, and the demons might also be more than what meets the eye.\n\n[Written by MAL Rewrite]",
-    "background": "'Mairimashita! Iruma-kun' has been published in English as'Welcome to Demon School! Iruma-kun' by Kodansha USA under the Vertical Comics imprint since May 2, 2023.",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Isekai",
-      "Mythology",
-      "Shounen"
-    ],
-    "characters": [
-      {
-        "name": "Suzuki, Iruma",
-        "role": "Main",
-        "popularity": 1794
-      },
-      {
-        "name": "Azazel, Amelie",
-        "role": "Supporting",
-        "popularity": 1750
-      },
-      {
-        "name": "Valac, Clara",
-        "role": "Main",
-        "popularity": 1394
-      },
-      {
-        "name": "Asmodeus, Alice",
-        "role": "Main",
-        "popularity": 470
-      },
-      {
-        "name": "Opera",
-        "role": "Supporting",
-        "popularity": 426
-      },
-      {
-        "name": "Naberius, Kalego",
-        "role": "Supporting",
-        "popularity": 231
-      },
-      {
-        "name": "Sullivan",
-        "role": "Supporting",
-        "popularity": 218
-      },
-      {
-        "name": "Balam, Shichirou",
-        "role": "Supporting",
-        "popularity": 133
-      }
-    ],
-    "members": 54828,
-    "score": 8.34
-  },
-  {
-    "id": 256,
-    "title": "Fairy Tail Zerø",
-    "alternativeTitle": [
-      "Fairy Tail Gaiden",
-      "FAIRY TAIL ZERØ",
-      "Fairy Tail Zero"
-    ],
-    "authors": [
-      "Mashima, Hiro"
-    ],
-    "description": "Long before she would found Fairy Tail, first master Mavis Vermillion is left under the care of the Red Lizard guild. Abused and belittled at every opportunity, she is forced to complete difficult chores. Despite this horrific treatment, Mavis refuses to cry, for if she did, she would not be able to meet the fairies. However, her life of servitude comes to an abrupt end when the Blue Skull guild raids her home, leaving only Mavis and the guild master's daughter Zera alive.\n\nFor many years, Mavis and Zera live alone, taking care of each other. But this all changes when a band of treasure hunters come to the island in search of the Tenrou Jade—a precious gem that is sacred to the island. With the arrival of new faces, her life begins to change again. Mavis has never stopped wishing to meet the fairies, and now she may finally have the chance to find them.\n\n[Written by MAL Rewrite]",
-    "background": "'Fairy Tail Zerø' was published in English by Kodansha Comics USA on July 12, 2016. It is set to release in Spanish by Norma Editorial on October 29, 2016.",
-    "genres": [
-      "Fantasy",
-      "Shounen"
-    ],
-    "characters": [
-      {
-        "name": "Zeref",
-        "role": "Supporting",
-        "popularity": 1945
-      },
-      {
-        "name": "Vermillion, Mavis",
-        "role": "Main",
-        "popularity": 1484
-      }
-    ],
-    "members": 52749,
-    "score": 7.88
-  },
-  {
-    "id": 258,
-    "title": "Bishoujo Senshi Sailor Moon",
-    "alternativeTitle": [
-      "Pretty Soldier Sailor Moon, Pretty Guardian Sailor Moon",
-      "美少女戦士セーラームーン",
-      "Sailor Moon"
-    ],
-    "authors": [
-      "Takeuchi, Naoko"
-    ],
-    "description": "\"In the name of the moon, I shall punish you!\"\n\nUsagi Tsukino is a cheerful 14-year-old who attends Juuban Municipal Junior High School. She prefers eating and playing video games to studying, which results in her notably poor grades. She also gets easily upset, whether by baseless insults or reasonable reprimands. It is very unlikely that she could be known as anything but a bad influence and a crybaby, but that begins to change when she meets a black cat.\n\nGiven a special brooch from the black cat named Luna, Usagi can use it to transform into a guardian of justice named Sailor Moon! She is now tasked to protect the Earth from all that is evil and to find both a missing princess and a sacred jewel known as the Mystical Silver Crystal. Whether she likes it or not, Usagi's beautiful transformation marks the start of meeting the mysterious Tuxedo Mask, fighting alongside new comrades, and learning to take responsibility in this acclaimed magical girl classic.\n\n[Written by MAL Rewrite]",
-    "background": "'Bishoujo Senshi Sailor Moon' received the 1993 Kodansha Manga Award in the shoujo manga category. It has received wide critical acclaim, being credited with redefining the magical girl genre.\n\nIt was adapted to multiple anime series, two series of stage musicals, as well as a 49-episode live-action series from October 4, 2003 to September 25, 2004. A twelve-volume shinsouban (renewal edition) was published in Japan from September 22, 2003 to September 22, 2004, including two volumes containing short stories. This new edition had new cover art and title logo, as well as corrections in some panels.\n\nThe series was published in English by Mixx (later Tokyopop) as a serial in two magazines, MixxZine and Smile, beginning in 1997. The series was later published in eighteen volumes, from December 1, 1998 to September 18, 2001. Tokyopop's license expired in May 2005 and this edition went out of print. It was later republished by Kodansha Comics USA from September 13, 2011 to November 26, 2013, based on the Japanese shinsouban reprint. Kodansha re-released the series from September 11, 2018 to October 20, 2020; this edition was based on the 20th anniversary kanzenban reprint. These editions included new color pages, updated translations, better quality paper, and special holographic covers. The series was also published in Polish by Japonica Polonica Fantastica.",
-    "genres": [
-      "Award Winning",
-      "Drama",
-      "Fantasy",
-      "Romance",
-      "Mahou Shoujo",
-      "Shoujo"
-    ],
-    "characters": [
-      {
-        "name": "Tsukino, Usagi",
-        "role": "Main",
-        "popularity": 5341
-      },
-      {
-        "name": "Hino, Rei",
-        "role": "Main",
-        "popularity": 2049
-      },
-      {
-        "name": "Tomoe, Hotaru",
-        "role": "Main",
-        "popularity": 1568
-      },
-      {
-        "name": "Aino, Minako",
-        "role": "Main",
-        "popularity": 1563
-      },
-      {
-        "name": "Kino, Makoto",
-        "role": "Main",
-        "popularity": 1563
-      },
-      {
-        "name": "Tenou, Haruka",
-        "role": "Main",
-        "popularity": 1455
-      },
-      {
-        "name": "Mizuno, Ami",
-        "role": "Main",
-        "popularity": 1289
-      },
-      {
-        "name": "Chiba, Mamoru",
-        "role": "Main",
-        "popularity": 1043
-      },
-      {
-        "name": "Kaiou, Michiru",
-        "role": "Main",
-        "popularity": 967
-      },
-      {
-        "name": "Chibiusa",
-        "role": "Main",
-        "popularity": 719
-      },
-      {
-        "name": "Meiou, Setsuna",
-        "role": "Main",
-        "popularity": 574
-      },
-      {
-        "name": "Luna",
-        "role": "Supporting",
-        "popularity": 462
-      },
-      {
-        "name": "Seiya, Kou",
-        "role": "Supporting",
-        "popularity": 358
-      },
-      {
-        "name": "Artemis",
-        "role": "Supporting",
-        "popularity": 107
-      }
-    ],
-    "members": 52973,
-    "score": 8.2
-  },
-  {
-    "id": 259,
-    "title": "Arifureta Shokugyou de Sekai Saikyou",
-    "alternativeTitle": [
-      "From Common Job Class to the Strongest in the World",
-      "ありふれた職業で世界最強",
-      "Arifureta: From Commonplace to World's Strongest"
-    ],
-    "authors": [
-      "Shirakome, Ryou",
-      "RoGa"
-    ],
-    "description": "After a magical circle suddenly appears at school, Hajime Nagumo and his classmates find themselves transported inside a church where they are welcomed as honored guests. Thrust into the RPG-like world of Tortus, each student shows great promise in both strength and never-before-seen classes—everyone besides Hajime. Given the class \"Synergist,\" which boasts borderline average stats on top of being weak in combat, Hajime is soon considered to be useless by the rest of his class.  \n\nWorking towards strengthening themselves, the students descend into a dungeon, but a mishap causes the entire class to be plunged into danger. Cornered by a large demon, they are trapped on a bridge looming over an abyss, the only way out being in front of them. In an effort to save his class, Hajime declares himself as bait, hoping his sacrifice will grant a chance of escape for the others. Though he intends to escape as well, a stray fireball flies in his direction, sending him flying off the bridge and down into the depths of the dungeon. Miraculously surviving, Hajime now begins his quest of survival in an attempt to reach the surface.\n\n[Written by MAL Rewrite]",
-    "background": "'Arifureta Shokugyou de Sekai Saikyou' has been published in English as'Arifureta: From Commonplace to World's Strongest' by Seven Seas Entertainment since March 13, 2018.",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Isekai"
-    ],
-    "characters": [
-      {
-        "name": "Nagumo, Hajime",
-        "role": "Main",
-        "popularity": 2839
-      },
-      {
-        "name": "Shirasaki, Kaori",
-        "role": "Main",
-        "popularity": 2838
-      },
-      {
-        "name": "Yue",
-        "role": "Main",
-        "popularity": 2130
-      },
-      {
-        "name": "Clarence, Tio",
-        "role": "Main",
-        "popularity": 307
-      },
-      {
-        "name": "Haulia, Shea",
-        "role": "Main",
-        "popularity": 307
-      },
-      {
-        "name": "Myuu",
-        "role": "Supporting",
-        "popularity": 204
-      },
-      {
-        "name": "Yaegashi, Shizuku",
-        "role": "Supporting",
-        "popularity": 120
-      }
-    ],
-    "members": 52527,
-    "score": 7.21
-  },
-  {
-    "id": 264,
-    "title": "Devilman",
-    "alternativeTitle": [
-      "Devilman: The Classic Collection",
-      "デビルマン",
-      "Devilman"
-    ],
-    "authors": [
-      "Nagai, Go"
-    ],
-    "description": "Soft-hearted Akira Fudou has always been somewhat of a pushover. When he reunites with his childhood friend, Ryou Asuka, in a fateful encounter, Ryou reveals to him the terrifying reality of his father's research: demons exist and are planning to claim possession of the earth once again.\n\nEager to help his friend save humanity, Akira agrees to attend Black Sabbath, a party filled with depravity and corruption, to attempt to merge with a demon. A near-death encounter causes him to unify with Amon, a demon feared amongst even his own kind. Together they form Devilman, a combination of Amon's strength and Akira's pure heart.\n\nAfter uniting with Amon, Akira begins to fight against the demons with his newfound power, desperate to stop the downfall of all human civilization.\n\n[Written by MAL Rewrite]",
-    "background": "'Devilman' has been published in English by Seven Seas Entertainment as omnibus volumes from May 22, 2018 to November 13, 2018.",
-    "genres": [
-      "Action",
-      "Adventure",
       "Drama",
       "Fantasy",
       "Horror",
-      "Sci-Fi",
       "Supernatural",
+      "Gore",
+      "Military",
       "Mythology",
       "Psychological",
-      "Super Power",
-      "Shounen"
+      "Seinen"
     ],
     "characters": [
       {
-        "name": "Asuka, Ryou",
+        "name": "Guts",
         "role": "Main",
-        "popularity": 2673
+        "popularity": 79081
       },
       {
-        "name": "Fudou, Akira",
+        "name": "Griffith",
         "role": "Main",
-        "popularity": 2621
+        "popularity": 14676
       },
       {
-        "name": "Devilman",
+        "name": "Casca",
         "role": "Main",
-        "popularity": 477
+        "popularity": 4095
       },
       {
-        "name": "Satan",
+        "name": "The Skull Knight",
         "role": "Supporting",
-        "popularity": 300
+        "popularity": 1850
       },
       {
-        "name": "Makimura, Miki",
+        "name": "Puck",
+        "role": "Main",
+        "popularity": 1656
+      },
+      {
+        "name": "Schierke",
+        "role": "Main",
+        "popularity": 1495
+      },
+      {
+        "name": "Judeau",
         "role": "Supporting",
-        "popularity": 199
+        "popularity": 1449
+      },
+      {
+        "name": "de Vandimion, Farnese",
+        "role": "Main",
+        "popularity": 920
+      },
+      {
+        "name": "Serpico",
+        "role": "Main",
+        "popularity": 876
+      },
+      {
+        "name": "Nosferatu, Zodd",
+        "role": "Supporting",
+        "popularity": 377
+      },
+      {
+        "name": "Isidro",
+        "role": "Main",
+        "popularity": 277
+      },
+      {
+        "name": "Donovan",
+        "role": "Supporting",
+        "popularity": 249
+      },
+      {
+        "name": "Pippin",
+        "role": "Supporting",
+        "popularity": 141
+      },
+      {
+        "name": "Rickert",
+        "role": "Supporting",
+        "popularity": 124
       }
     ],
-    "members": 52471,
-    "score": 8.04
+    "members": 663675,
+    "score": 9.47,
+    "url": "https://myanimelist.net/manga/2/Berserk"
   },
   {
-    "id": 266,
-    "title": "Mato Seihei no Slave",
+    "id": 2,
+    "title": "One Piece",
     "alternativeTitle": [
-      "Slave of the Magic Capital's Elite Troops",
-      "魔都精兵のスレイブ",
-      "Chained Soldier"
+      "ONE PIECE",
+      "One Piece"
     ],
     "authors": [
-      "Takemura, Youhei",
-      "Takahiro"
+      "Oda, Eiichiro"
     ],
-    "description": "After his high school graduation, Yuuki Wakura realizes it has been five years since his sister's disappearance during a \"Mato disaster.\" Throughout Japan, mysterious entrances have opened to a dimension called \"Mato\"—a demonic metropolis filled with disastrous monsters known as the \"Shuuki\" that threaten the safety of humans. However, a new hope arose, as the discovery of a Mato fruit that grants supernatural abilities exclusively to women allowed them to fight against the Shuuki. Due to this, a new matriarchal government was formed, establishing a female organization called the Anti-Demon Corps, which caused men to fall to the bottom of society.\n\nWhen Yuuki suddenly finds himself in Mato, he is unable to escape on his own. But just as he anticipates a gruesome end by the Shuuki, a girl in a militia outfit appears and protects him. As the chief of the Seventh Unit of the Anti-Demon Corps, Kyouka Uzen is ambitious yet devalued by her own peers due to her power being deemed unusual. Now in a life-or-death situation, Kyouka takes the opportunity to find out the true potential of her superpower by using Yuuki: in order to defeat the Shuuki, he has to become her slave.\n\n[Written by MAL Rewrite]",
-    "background": "'Mato Seihei no Slave' has been published in English as'Chained Soldier' by Yen Press since August 16, 2022.",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Ecchi",
-      "Harem",
-      "Shounen"
-    ],
-    "characters": [
-      {
-        "name": "Izumo, Tenka",
-        "role": "Supporting",
-        "popularity": 449
-      },
-      {
-        "name": "Uzen, Kyouka",
-        "role": "Main",
-        "popularity": 325
-      },
-      {
-        "name": "Yamashiro, Ren",
-        "role": "Supporting",
-        "popularity": 143
-      }
-    ],
-    "members": 60365,
-    "score": 7.62
-  },
-  {
-    "id": 269,
-    "title": "UQ Holder!",
-    "alternativeTitle": [
-      "Yuukyuu Holder, Eternal Holder, UQ Holder!: Mahou Sensei Negima! 2",
-      "UQ HOLDER!",
-      "UQ Holder!"
-    ],
-    "authors": [
-      "Akamatsu, Ken"
-    ],
-    "description": "Twelve-year-old Touta Konoe has spent his whole life in a rural town. He dreams of one day going to the capital, where there is a tower that reaches into space. To fulfill his dream, he has been tasked to defeat his teacher and caretaker, Yukihime, who will then permit him to go to the capital.\n\nTouta's life turns upside down when a bounty hunter arrives to claim a prize on Yukihime's head. In a desperate attempt to save both his mentor and friends, Touta follows Yukihime's instruction to drink her blood, turning him into an immortal monster capable of defeating the bounty hunter.\n\nYukihime reveals herself to be Evangeline Athanasia Katherine McDowell, a centuries-old vampire. With her identity now exposed, she and Touta flee to the capital and embark on an exciting adventure that will change both of their lives forever.\n\n[Written by MAL Rewrite]",
-    "background": "'UQ Holder!' was published in English by Kodansha Comics USA from March 18, 2014 to March 21, 2023, and in Brazilian Portuguese by Jbc since April 2016.",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Sci-Fi",
-      "Shounen"
-    ],
-    "characters": [
-      {
-        "name": "McDowell, Evangeline Athanasia Katherine",
-        "role": "Main",
-        "popularity": 813
-      },
-      {
-        "name": "Springfield, Negi",
-        "role": "Supporting",
-        "popularity": 625
-      },
-      {
-        "name": "Miyazaki, Nodoka",
-        "role": "Supporting",
-        "popularity": 574
-      },
-      {
-        "name": "Sakurazaki, Setsuna",
-        "role": "Supporting",
-        "popularity": 364
-      },
-      {
-        "name": "Kagurazaka, Asuna",
-        "role": "Supporting",
-        "popularity": 342
-      },
-      {
-        "name": "Ayase, Yue",
-        "role": "Supporting",
-        "popularity": 263
-      },
-      {
-        "name": "Rakan, Jack",
-        "role": "Supporting",
-        "popularity": 157
-      },
-      {
-        "name": "Hasegawa, Chisame",
-        "role": "Supporting",
-        "popularity": 131
-      },
-      {
-        "name": "Konoe, Touta",
-        "role": "Main",
-        "popularity": 122
-      }
-    ],
-    "members": 50694,
-    "score": 7.47
-  },
-  {
-    "id": 270,
-    "title": "Re:Monster",
-    "alternativeTitle": [
-      "Reincarnated: Monster",
-      "Re:Monster",
-      "Re:Monster"
-    ],
-    "authors": [
-      "Kobayakawa, Haruyoshi",
-      "Kanekiru, Kogitsune"
-    ],
-    "description": "Tomokui Kanata has been re-incarnated in the weakest goblin, named Goburou, after having undergone an unfortunate death. However Goburou has retained his previous life's memories, an unusual evolution, as well as becoming strong enough to gain status boosts from eating.\n\nIn this alternate world of survival of the fittest, events unfold with competent subordinates and comrades, delightful case of the tail-wagging dog...",
-    "background": "'Re:Monster' has been published in English by Seven Seas Entertainment since November 8, 2016. It is also published digitally by AlphaPolis through Alpha Manga.",
+    "description": "Gol D. Roger, a man referred to as the \"King of the Pirates,\" is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the King of the Pirates is executed and the Great Age of Pirates begins.\n\nTwenty-two years later, a young man by the name of Monkey D. Luffy is ready to embark on his own adventure, searching for One Piece and striving to become the new King of the Pirates. Armed with just a straw hat, a small boat, and an elastic body, he sets out on a fantastic journey to gather his own crew and a worthy ship that will take them across the Grand Line to claim the greatest status on the high seas.\n\n[Written by MAL Rewrite]",
+    "background": "'One Piece' is the highest selling manga series of all time, with over 500 million copies in circulation as of 2022. Volume 67 of the series currently holds the record for highest first print run of any manga (including books) of all time in Japan, with 4.05 million in 2012. The series was a finalist for the Tezuka Osamu Cultural Prize three times in a row from 2000 to 2002. In 2012, it won the 41st Japan Cartoonists Association Award Grand Prize, alongside Kimuchi Yokoyama's'Neko Darake' .\n\nVIZ Media has published'One Piece' in English under the Shonen Jump imprint since January 2, 2003 and in 3-in-1 omnibus editions since December 1, 2009. VIZ Media released three boxed sets for the manga; the first including the first 23 volumes released on November 5, 2013, the second including volumes 24-46 released on November 4, 2014, and the third including volumes 47-70 released on October 4, 2016. The series has also been published in numerous amounts of languages worldwide including; Korean, Malay, Indonesian, Chinese, Thai, Vietnamese, German, French, Italian, Spanish, Portuguese, Swedish, Danish, Norwegian, Finnish, Polish, Turkish, and Russian.\n\nThe manga has been adapted into a live-action TV series on Netflix since August 31, 2023.",
     "genres": [
       "Action",
       "Adventure",
       "Fantasy",
-      "Isekai",
-      "Reincarnation"
-    ],
-    "characters": [
-      {
-        "name": "Rou",
-        "role": "Main",
-        "popularity": 178
-      }
-    ],
-    "members": 51081,
-    "score": 7.37
-  },
-  {
-    "id": 274,
-    "title": "Rave",
-    "alternativeTitle": [
-      "Rave: The Groove Adventure",
-      "RAVE",
-      "Rave Master"
-    ],
-    "authors": [
-      "Mashima, Hiro"
-    ],
-    "description": "Fifty years ago, the wielders of the sacred Rave stones fought against an onslaught caused by demon stones called Dark Bring. This war resulted in an explosion known as \"Overdrive\"—a blast so powerful that it sent the Dark Bring into a deep slumber and scattered the pieces of Rave across the world.\n\nIn the present, Haru Glory lives a peaceful life on Garage Island until one day, he catches the creature Plue while fishing. Plue is later recognized by Shiba Roses, an old man who happens to be the original Rave Master. Shiba explains that the Dark Bring has resurfaced, and that to stop it, assembling the scattered parts of Rave is of utmost urgency. However, before Shiba can leave on this mission, he is attacked by a soldier from the evil organization Demon Card, forcing him to transfer the power of Rave to Haru. With the fate of humankind resting on his shoulders, the new Rave Master begins his quest to find the scattered Rave fragments.\n\n[Written by MAL Rewrite]",
-    "background": "'Rave' was published in English by Tokyopop as'Rave Master' for 32 volumes from February 11, 2003 to February 10, 2009, until their license with Kodansha expired. Del Rey later gained the license and published the final three volumes in a single omnibus on May 24, 2011. Kodansha Comics USA digitally published the entire series in single volumes on October 3, 2017. It was also published in Spanish by Norma Editorial from February 2004 to February 2010.",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
       "Shounen"
     ],
     "characters": [
       {
-        "name": "Glory, Haru",
+        "name": "Monkey D., Luffy",
         "role": "Main",
-        "popularity": 309
+        "popularity": 135277
       },
       {
-        "name": "Plue",
+        "name": "Roronoa, Zoro",
         "role": "Main",
-        "popularity": 285
+        "popularity": 107643
       },
       {
-        "name": "Sieghart",
+        "name": "Sanji",
+        "role": "Main",
+        "popularity": 30621
+      },
+      {
+        "name": "Nico, Robin",
+        "role": "Main",
+        "popularity": 20471
+      },
+      {
+        "name": "Trafalgar, Law",
         "role": "Supporting",
-        "popularity": 186
+        "popularity": 20296
       },
       {
-        "name": "Elie",
+        "name": "Tony Tony, Chopper",
         "role": "Main",
+        "popularity": 15588
+      },
+      {
+        "name": "Nami",
+        "role": "Main",
+        "popularity": 15327
+      },
+      {
+        "name": "Usopp",
+        "role": "Main",
+        "popularity": 14300
+      },
+      {
+        "name": "Portgas D., Ace",
+        "role": "Supporting",
+        "popularity": 10897
+      },
+      {
+        "name": "Brook",
+        "role": "Main",
+        "popularity": 10477
+      },
+      {
+        "name": "Charlotte, Katakuri",
+        "role": "Supporting",
+        "popularity": 6707
+      },
+      {
+        "name": "Franky",
+        "role": "Main",
+        "popularity": 6239
+      },
+      {
+        "name": "Shanks",
+        "role": "Supporting",
+        "popularity": 6086
+      },
+      {
+        "name": "Edward, Newgate",
+        "role": "Supporting",
+        "popularity": 4259
+      },
+      {
+        "name": "Donquixote, Doflamingo",
+        "role": "Supporting",
+        "popularity": 4217
+      },
+      {
+        "name": "Jinbe",
+        "role": "Main",
+        "popularity": 3993
+      },
+      {
+        "name": "Boa, Hancock",
+        "role": "Supporting",
+        "popularity": 3526
+      },
+      {
+        "name": "Donquixote, Rosinante",
+        "role": "Supporting",
+        "popularity": 3023
+      },
+      {
+        "name": "Yamato",
+        "role": "Supporting",
+        "popularity": 2017
+      },
+      {
+        "name": "Dracule, Mihawk",
+        "role": "Supporting",
+        "popularity": 1718
+      },
+      {
+        "name": "Bentham",
+        "role": "Supporting",
+        "popularity": 1652
+      },
+      {
+        "name": "Sabo",
+        "role": "Supporting",
+        "popularity": 1620
+      },
+      {
+        "name": "Carrot",
+        "role": "Supporting",
+        "popularity": 1546
+      },
+      {
+        "name": "Buggy",
+        "role": "Supporting",
+        "popularity": 1181
+      },
+      {
+        "name": "Kozuki, Oden",
+        "role": "Supporting",
+        "popularity": 1179
+      },
+      {
+        "name": "Crocodile",
+        "role": "Supporting",
+        "popularity": 1174
+      },
+      {
+        "name": "Perona",
+        "role": "Supporting",
+        "popularity": 1152
+      },
+      {
+        "name": "Marco",
+        "role": "Supporting",
+        "popularity": 815
+      },
+      {
+        "name": "Silvers, Rayleigh",
+        "role": "Supporting",
+        "popularity": 782
+      },
+      {
+        "name": "Marshall D., Teach",
+        "role": "Supporting",
+        "popularity": 698
+      },
+      {
+        "name": "Bartolomeo",
+        "role": "Supporting",
+        "popularity": 686
+      },
+      {
+        "name": "Kuzan",
+        "role": "Supporting",
+        "popularity": 685
+      },
+      {
+        "name": "Monkey D., Garp",
+        "role": "Supporting",
+        "popularity": 659
+      },
+      {
+        "name": "Gol D., Roger",
+        "role": "Supporting",
+        "popularity": 655
+      },
+      {
+        "name": "Borsalino",
+        "role": "Supporting",
+        "popularity": 594
+      },
+      {
+        "name": "Eustass, Kid",
+        "role": "Supporting",
+        "popularity": 550
+      },
+      {
+        "name": "Smoker",
+        "role": "Supporting",
+        "popularity": 536
+      },
+      {
+        "name": "Enel",
+        "role": "Supporting",
+        "popularity": 465
+      },
+      {
+        "name": "Nefertari, Vivi",
+        "role": "Supporting",
+        "popularity": 457
+      },
+      {
+        "name": "Uta",
+        "role": "Supporting",
+        "popularity": 444
+      },
+      {
+        "name": "Isshou",
+        "role": "Supporting",
+        "popularity": 313
+      },
+      {
+        "name": "Sakazuki",
+        "role": "Supporting",
+        "popularity": 291
+      },
+      {
+        "name": "Monkey D., Dragon",
+        "role": "Supporting",
+        "popularity": 274
+      },
+      {
+        "name": "Bartholomew, Kuma",
+        "role": "Supporting",
+        "popularity": 273
+      },
+      {
+        "name": "Kaidou",
+        "role": "Supporting",
+        "popularity": 265
+      },
+      {
+        "name": "Senor Pink",
+        "role": "Supporting",
+        "popularity": 213
+      },
+      {
+        "name": "Rob, Lucci",
+        "role": "Supporting",
+        "popularity": 211
+      },
+      {
+        "name": "Vinsmoke, Reiju",
+        "role": "Supporting",
+        "popularity": 208
+      },
+      {
+        "name": "Jewelry, Bonney",
+        "role": "Supporting",
+        "popularity": 196
+      },
+      {
+        "name": "Bepo",
+        "role": "Supporting",
+        "popularity": 169
+      },
+      {
+        "name": "Hiluluk",
+        "role": "Supporting",
         "popularity": 158
       },
       {
-        "name": "Musica, Hamrio",
-        "role": "Main",
-        "popularity": 112
+        "name": "Karoo",
+        "role": "Supporting",
+        "popularity": 152
+      },
+      {
+        "name": "Koby",
+        "role": "Supporting",
+        "popularity": 147
+      },
+      {
+        "name": "Clown, Caesar",
+        "role": "Supporting",
+        "popularity": 143
+      },
+      {
+        "name": "Emporio, Ivankov",
+        "role": "Supporting",
+        "popularity": 136
+      },
+      {
+        "name": "Ulti",
+        "role": "Supporting",
+        "popularity": 130
+      },
+      {
+        "name": "Charlotte, Linlin",
+        "role": "Supporting",
+        "popularity": 120
+      },
+      {
+        "name": "Monet",
+        "role": "Supporting",
+        "popularity": 114
+      },
+      {
+        "name": "Tashigi",
+        "role": "Supporting",
+        "popularity": 113
+      },
+      {
+        "name": "Shirahoshi",
+        "role": "Supporting",
+        "popularity": 106
       }
     ],
-    "members": 49520,
-    "score": 7.85
+    "members": 598002,
+    "score": 9.22,
+    "url": "https://myanimelist.net/manga/13/One_Piece"
   },
   {
-    "id": 285,
-    "title": "Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki",
+    "id": 4,
+    "title": "Tokyo Ghoul",
     "alternativeTitle": [
-      "Naruto Side Story: The Seventh Hokage and the Scarlet Spring Month",
-      "NARUTO外伝 七代目火影と緋色の花つ月",
-      "Naruto: The Seventh Hokage and the Scarlet Spring"
+      "Toukyou Kushu",
+      "東京喰種トーキョーグール",
+      "Tokyo Ghoul"
+    ],
+    "authors": [
+      "Ishida, Sui"
+    ],
+    "description": "Lurking within the shadows of Tokyo are frightening beings known as \"ghouls,\" who satisfy their hunger by feeding on humans once night falls. An organization known as the Commission of Counter Ghoul (CCG) has been established in response to the constant attacks on citizens and as a means of purging these creatures. However, the problem lies in identifying ghouls as they disguise themselves as humans, living amongst the masses so that hunting prey will be easier. Ken Kaneki, an unsuspecting university freshman, finds himself caught in a world between humans and ghouls when his date turns out to be a ghoul after his flesh.\n\nBarely surviving this encounter after being taken to a hospital, he discovers that he has turned into a half-ghoul as a result of the surgery he received. Unable to satisfy his intense craving for human meat through conventional means, Kaneki is taken in by friendly ghouls who run a coffee shop in order to help him with his transition. As he begins what he thinks will be a peaceful new life, little does he know that he is about to find himself at the center of a war between his new comrades and the forces of the CCG, and that his new existence has caught the attention of ghouls all over Tokyo.\n\n[Written by MAL Rewrite]",
+    "background": "'Tokyo Ghoul' ranked 12th in the 2015 Kono Manga ga Sugoi! magazine in the male readers category. The manga was the 27th best-selling manga series in Japan in 2013 with 1,666,348 estimated sales; 4th in 2014 with 6,946,203 copies sold; and 13th in 2015 with an estimated sales of 3,576,177 copies sold. An artbook titled'Tokyo Ghoul [zakki]' was released on October 17, 2014.\n\nThe series was published in English by VIZ Media under the VIZ Signature imprint from June 16, 2015 to August 15, 2017, and in Spanish by Norma Editorial from March 20, 2015 to June 23, 2016. It has also been published in German by KAZÉ Manga since May 2, 2014; in Polish by Waneko since April 15, 2015; in Brazilian Portuguese by Panini Comics and Planet Manga since July 2015; in Czech by CREW since August 31, 2016; and in Spanish by Ivrea Argentina since December 12, 2016.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror",
+      "Gore",
+      "Psychological",
+      "Seinen"
+    ],
+    "characters": [
+      {
+        "name": "Kaneki, Ken",
+        "role": "Main",
+        "popularity": 50617
+      },
+      {
+        "name": "Suzuya, Juuzou",
+        "role": "Supporting",
+        "popularity": 13516
+      },
+      {
+        "name": "Kirishima, Touka",
+        "role": "Main",
+        "popularity": 11373
+      },
+      {
+        "name": "Uta",
+        "role": "Supporting",
+        "popularity": 3306
+      },
+      {
+        "name": "Tsukiyama, Shuu",
+        "role": "Supporting",
+        "popularity": 2550
+      },
+      {
+        "name": "Nagachika, Hideyoshi",
+        "role": "Supporting",
+        "popularity": 2526
+      },
+      {
+        "name": "Eto",
+        "role": "Supporting",
+        "popularity": 1437
+      },
+      {
+        "name": "Arima, Kishou",
+        "role": "Supporting",
+        "popularity": 1234
+      },
+      {
+        "name": "Kamishiro, Rize",
+        "role": "Supporting",
+        "popularity": 1234
+      },
+      {
+        "name": "Kirishima, Ayato",
+        "role": "Supporting",
+        "popularity": 1200
+      },
+      {
+        "name": "Furuta, Nimura",
+        "role": "Supporting",
+        "popularity": 725
+      },
+      {
+        "name": "Amon, Koutarou",
+        "role": "Supporting",
+        "popularity": 492
+      },
+      {
+        "name": "Fueguchi, Hinami",
+        "role": "Supporting",
+        "popularity": 419
+      },
+      {
+        "name": "Takizawa, Seidou",
+        "role": "Supporting",
+        "popularity": 359
+      },
+      {
+        "name": "Nishio, Nishiki",
+        "role": "Supporting",
+        "popularity": 314
+      },
+      {
+        "name": "Yomo, Renji",
+        "role": "Supporting",
+        "popularity": 312
+      },
+      {
+        "name": "Takatsuki, Sen",
+        "role": "Supporting",
+        "popularity": 241
+      },
+      {
+        "name": "Yoshimura",
+        "role": "Supporting",
+        "popularity": 211
+      },
+      {
+        "name": "Mado, Akira",
+        "role": "Supporting",
+        "popularity": 209
+      },
+      {
+        "name": "Mado, Kureo",
+        "role": "Supporting",
+        "popularity": 177
+      },
+      {
+        "name": "Noro",
+        "role": "Supporting",
+        "popularity": 121
+      },
+      {
+        "name": "Oomori, Yakumo",
+        "role": "Supporting",
+        "popularity": 108
+      },
+      {
+        "name": "Naki",
+        "role": "Supporting",
+        "popularity": 100
+      }
+    ],
+    "members": 489548,
+    "score": 8.52,
+    "url": "https://myanimelist.net/manga/33327/Tokyo_Ghoul"
+  },
+  {
+    "id": 7,
+    "title": "Kimetsu no Yaiba",
+    "alternativeTitle": [
+      "Blade of Demon Destruction",
+      "鬼滅の刃",
+      "Demon Slayer: Kimetsu no Yaiba",
+      "Demon Slayer - Kimetsu no Yaiba",
+      "Guardianes de la noche",
+      "Demon Slayer"
+    ],
+    "authors": [
+      "Gotouge, Koyoharu"
+    ],
+    "description": "Tanjirou Kamado lives with his impoverished family on a remote mountain. As the oldest sibling, he took upon the responsibility of ensuring his family's livelihood after the death of his father. On a cold winter day, he goes down to the local village in order to sell some charcoal. As dusk falls, he is forced to spend the night in the house of a curious man who cautions him of strange creatures that roam the night: malevolent demons who crave human flesh.\n\nWhen he finally makes his way home, Tanjirou's worst nightmare comes true. His entire family has been brutally slaughtered with the sole exception of his sister Nezuko, who has turned into a flesh-eating demon. Engulfed in hatred and despair, Tanjirou desperately tries to stop Nezuko from attacking other people, setting out on a journey to avenge his family and find a way to turn his beloved sister back into a human.\n\n[Written by MAL Rewrite]",
+    "background": "As a part of the JUMP START initiative, the first three chapters of'Kimetsu no Yaiba' were published in English in VIZ Media's digital Weekly Shonen Jump on the same day as the Japanese release. It was published in English as'Demon Slayer: Kimetsu no Yaiba' by VIZ Media under its Shonen Jump imprint from July 3, 2018 to August 3, 2021.\n\n'Kimetsu no Yaiba' won the Special Prize at the 25th Tezuka Osamu Cultural Prize awards in 2021.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Historical",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Kamado, Tanjirou",
+        "role": "Main",
+        "popularity": 24798
+      },
+      {
+        "name": "Agatsuma, Zenitsu",
+        "role": "Main",
+        "popularity": 16586
+      },
+      {
+        "name": "Kamado, Nezuko",
+        "role": "Main",
+        "popularity": 15133
+      },
+      {
+        "name": "Hashibira, Inosuke",
+        "role": "Main",
+        "popularity": 14845
+      },
+      {
+        "name": "Rengoku, Kyoujurou",
+        "role": "Supporting",
+        "popularity": 13725
+      },
+      {
+        "name": "Kochou, Shinobu",
+        "role": "Supporting",
+        "popularity": 12183
+      },
+      {
+        "name": "Tomioka, Giyuu",
+        "role": "Supporting",
+        "popularity": 11410
+      },
+      {
+        "name": "Tsuyuri, Kanao",
+        "role": "Supporting",
+        "popularity": 6025
+      },
+      {
+        "name": "Uzui, Tengen",
+        "role": "Supporting",
+        "popularity": 5205
+      },
+      {
+        "name": "Kanroji, Mitsuri",
+        "role": "Supporting",
+        "popularity": 3825
+      },
+      {
+        "name": "Tokitou, Muichirou",
+        "role": "Supporting",
+        "popularity": 3177
+      },
+      {
+        "name": "Akaza",
+        "role": "Supporting",
+        "popularity": 2127
+      },
+      {
+        "name": "Shinazugawa, Sanemi",
+        "role": "Supporting",
+        "popularity": 1137
+      },
+      {
+        "name": "Iguro, Obanai",
+        "role": "Supporting",
+        "popularity": 1133
+      },
+      {
+        "name": "Douma",
+        "role": "Supporting",
+        "popularity": 916
+      },
+      {
+        "name": "Tsugikuni, Yoriichi",
+        "role": "Supporting",
+        "popularity": 902
+      },
+      {
+        "name": "Kokushibou",
+        "role": "Supporting",
+        "popularity": 849
+      },
+      {
+        "name": "Sabito",
+        "role": "Supporting",
+        "popularity": 738
+      },
+      {
+        "name": "Shinazugawa, Genya",
+        "role": "Supporting",
+        "popularity": 702
+      },
+      {
+        "name": "Kibutsuji, Muzan",
+        "role": "Supporting",
+        "popularity": 678
+      },
+      {
+        "name": "Himejima, Gyoumei",
+        "role": "Supporting",
+        "popularity": 458
+      },
+      {
+        "name": "Daki",
+        "role": "Supporting",
+        "popularity": 361
+      },
+      {
+        "name": "Gyuutarou",
+        "role": "Supporting",
+        "popularity": 361
+      },
+      {
+        "name": "Enmu",
+        "role": "Supporting",
+        "popularity": 286
+      },
+      {
+        "name": "Rui",
+        "role": "Supporting",
+        "popularity": 268
+      },
+      {
+        "name": "Haganezuka, Hotaru",
+        "role": "Supporting",
+        "popularity": 193
+      },
+      {
+        "name": "Tamayo",
+        "role": "Supporting",
+        "popularity": 170
+      },
+      {
+        "name": "Kochou, Kanae",
+        "role": "Supporting",
+        "popularity": 152
+      },
+      {
+        "name": "Urokodaki, Sakonji",
+        "role": "Supporting",
+        "popularity": 117
+      },
+      {
+        "name": "Suma",
+        "role": "Supporting",
+        "popularity": 108
+      }
+    ],
+    "members": 424902,
+    "score": 8.21,
+    "url": "https://myanimelist.net/manga/96792/Kimetsu_no_Yaiba"
+  },
+  {
+    "id": 9,
+    "title": "Naruto",
+    "alternativeTitle": [
+      "NARUTO―ナルト―",
+      "Naruto"
     ],
     "authors": [
       "Kishimoto, Masashi"
     ],
-    "description": "The sun has set on Naruto Uzumaki's youth and is rising on the children of the next generation. One of these kids is Sarada Uchiha, daughter of Naruto's best friends Sasuke Uchiha and Sakura Haruno. Sharing a strong likeness with her father, Sarada has always wondered why she doesn't have any of her mother's features. When she discovers a photograph featuring Sasuke's old comrade Karin, Sarada is shocked to discover that she bears more of a resemblance to this strange woman than she does to her mother.\n\nWhen Sasuke returns to the village with news of a massive impending threat, Naruto obeys his duty as the Seventh Hokage and accompanies his old friend on an investigative mission. Unbeknownst to them both, Sarada and her friend Chouchou Akimichi pursue them, intent on solving the mystery of Sarada's parentage.\n\n[Written by MAL Rewrite]",
-    "background": "'Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki' was published in English as'Naruto: The Seventh Hokage and the Scarlet Spring' by VIZ Media under the Shonen Jump imprint on January 5, 2016; in Polish by J.P Fantastica on March 18, 2016; and in Brazilian Portuguese by Panini Comics/Planet Manga in October 2016.",
+    "description": "Whenever Naruto Uzumaki proclaims that he will someday become the Hokage—a title bestowed upon the best ninja in the Village Hidden in the Leaves—no one takes him seriously. Since birth, Naruto has been shunned and ridiculed by his fellow villagers. But their contempt isn't because Naruto is loud-mouthed, mischievous, or because of his ineptitude in the ninja arts, but because there is a demon inside him. Prior to Naruto's birth, the powerful and deadly Nine-Tailed Fox attacked the village. In order to stop the rampage, the Fourth Hokage sacrificed his life to seal the demon inside the body of the newborn Naruto.\n\nAnd so when he is assigned to Team 7—along with his new teammates Sasuke Uchiha and Sakura Haruno, under the mentorship of veteran ninja Kakashi Hatake—Naruto is forced to work together with other people for the first time in his life. Through undergoing vigorous training and taking on challenging missions, Naruto must learn what it means to work in a team and carve his own route toward becoming a full-fledged ninja recognized by his village.\n\n[Written by MAL Rewrite]",
+    "background": "'Naruto' has sold over 250 million copies worldwide as of 2020, making it the 4th highest grossing manga series of all time. It was nominated for the 19th Tezuka Osamu Cultural Prize in 2014, and in the same year Masashi Kishimoto was awarded Rookie of the Year in the media fine arts category by Japan's Agency for Cultural Affairs.\n\nNumerous databooks, artbooks, novels, and fanbooks on the series have been released. Eight summary volumes featuring unaltered color pages, larger dimensions, and exclusive interviews, covering the first part of the series were released between November 7, 2008 and April 10, 2009.\n\nThe series was published in English by VIZ Media under the Shonen Jump imprint from August 16, 2003 to October 6, 2015. In the last four months of 2007, the campaign titled \"Naruto Nation\" was launched, in which three volumes were published each month so that US releases would be closer to Japan's, the same practice was done in February through April of 2009 this time titled \"Generation Ninja.\" A 3-in-1 omnibus edition was also published from May 3, 2011 to October 2, 2018. A box set containing volumes 1-27 was released on August 6, 2008, another one containing volumes 28-48 on July 7, 2015, and the final box set with volumes 49-72 on January 5, 2016. It was also published in Brazilian Portuguese by Panini Comics/Planet Manga from May 2007 to June 2015, and again as'Naruto Gold' edition since July 2015.",
     "genres": [
       "Action",
       "Adventure",
       "Fantasy",
+      "Martial Arts",
       "Shounen"
     ],
     "characters": [
       {
         "name": "Uzumaki, Naruto",
         "role": "Main",
-        "popularity": 83195
+        "popularity": 83197
+      },
+      {
+        "name": "Uchiha, Itachi",
+        "role": "Supporting",
+        "popularity": 64496
       },
       {
         "name": "Hatake, Kakashi",
-        "role": "Supporting",
+        "role": "Main",
         "popularity": 47117
       },
       {
         "name": "Uchiha, Sasuke",
         "role": "Main",
-        "popularity": 28657
+        "popularity": 28660
       },
       {
         "name": "Nara, Shikamaru",
         "role": "Supporting",
-        "popularity": 17577
+        "popularity": 17576
+      },
+      {
+        "name": "Jiraiya",
+        "role": "Supporting",
+        "popularity": 14044
+      },
+      {
+        "name": "Gaara",
+        "role": "Supporting",
+        "popularity": 12891
+      },
+      {
+        "name": "Hyuuga, Hinata",
+        "role": "Supporting",
+        "popularity": 12727
+      },
+      {
+        "name": "Uchiha, Madara",
+        "role": "Supporting",
+        "popularity": 12601
+      },
+      {
+        "name": "Namikaze, Minato",
+        "role": "Supporting",
+        "popularity": 10914
+      },
+      {
+        "name": "Pain",
+        "role": "Supporting",
+        "popularity": 8993
+      },
+      {
+        "name": "Uchiha, Obito",
+        "role": "Supporting",
+        "popularity": 7880
+      },
+      {
+        "name": "Lee, Rock",
+        "role": "Supporting",
+        "popularity": 6051
       },
       {
         "name": "Haruno, Sakura",
+        "role": "Main",
+        "popularity": 5313
+      },
+      {
+        "name": "Hyuuga, Neji",
         "role": "Supporting",
-        "popularity": 5314
+        "popularity": 3775
+      },
+      {
+        "name": "Deidara",
+        "role": "Supporting",
+        "popularity": 3623
       },
       {
         "name": "Orochimaru",
         "role": "Supporting",
-        "popularity": 2505
+        "popularity": 2504
+      },
+      {
+        "name": "Might, Guy",
+        "role": "Supporting",
+        "popularity": 2143
+      },
+      {
+        "name": "Tobi",
+        "role": "Supporting",
+        "popularity": 2077
+      },
+      {
+        "name": "Sasori",
+        "role": "Supporting",
+        "popularity": 2021
+      },
+      {
+        "name": "Tsunade",
+        "role": "Supporting",
+        "popularity": 1990
       },
       {
         "name": "Uzumaki, Boruto",
@@ -1089,14 +878,44 @@
         "popularity": 1801
       },
       {
+        "name": "Uchiha, Shisui",
+        "role": "Supporting",
+        "popularity": 1750
+      },
+      {
+        "name": "Hidan",
+        "role": "Supporting",
+        "popularity": 1515
+      },
+      {
+        "name": "Temari",
+        "role": "Supporting",
+        "popularity": 1269
+      },
+      {
         "name": "Uchiha, Sarada",
-        "role": "Main",
+        "role": "Supporting",
         "popularity": 1201
       },
       {
-        "name": "Mitsuki",
+        "name": "Konan",
         "role": "Supporting",
-        "popularity": 971
+        "popularity": 1069
+      },
+      {
+        "name": "Inuzuka, Kiba",
+        "role": "Supporting",
+        "popularity": 1028
+      },
+      {
+        "name": "Uzumaki, Kushina",
+        "role": "Supporting",
+        "popularity": 1013
+      },
+      {
+        "name": "Momochi, Zabuza",
+        "role": "Supporting",
+        "popularity": 1007
       },
       {
         "name": "Sai",
@@ -1109,6 +928,36 @@
         "popularity": 917
       },
       {
+        "name": "Senju, Tobirama",
+        "role": "Supporting",
+        "popularity": 852
+      },
+      {
+        "name": "Haku",
+        "role": "Supporting",
+        "popularity": 850
+      },
+      {
+        "name": "Senju, Hashirama",
+        "role": "Supporting",
+        "popularity": 823
+      },
+      {
+        "name": "Hoshigaki, Kisame",
+        "role": "Supporting",
+        "popularity": 801
+      },
+      {
+        "name": "Killer Bee",
+        "role": "Supporting",
+        "popularity": 749
+      },
+      {
+        "name": "Tenten",
+        "role": "Supporting",
+        "popularity": 585
+      },
+      {
         "name": "Yamanaka, Ino",
         "role": "Supporting",
         "popularity": 577
@@ -1117,6 +966,11 @@
         "name": "Aburame, Shino",
         "role": "Supporting",
         "popularity": 513
+      },
+      {
+        "name": "Kimimaro",
+        "role": "Supporting",
+        "popularity": 481
       },
       {
         "name": "Yakushi, Kabuto",
@@ -1129,9 +983,59 @@
         "popularity": 395
       },
       {
+        "name": "Kakuzu",
+        "role": "Supporting",
+        "popularity": 384
+      },
+      {
+        "name": "Uzumaki, Himawari",
+        "role": "Supporting",
+        "popularity": 348
+      },
+      {
+        "name": "Sarutobi, Asuma",
+        "role": "Supporting",
+        "popularity": 324
+      },
+      {
+        "name": "Umino, Iruka",
+        "role": "Supporting",
+        "popularity": 319
+      },
+      {
         "name": "Yamato",
         "role": "Supporting",
         "popularity": 313
+      },
+      {
+        "name": "Sarutobi, Konohamaru",
+        "role": "Supporting",
+        "popularity": 249
+      },
+      {
+        "name": "Akamaru",
+        "role": "Supporting",
+        "popularity": 216
+      },
+      {
+        "name": "Kankurou",
+        "role": "Supporting",
+        "popularity": 212
+      },
+      {
+        "name": "Teuchi",
+        "role": "Supporting",
+        "popularity": 184
+      },
+      {
+        "name": "Mitarashi, Anko",
+        "role": "Supporting",
+        "popularity": 177
+      },
+      {
+        "name": "Nohara, Rin",
+        "role": "Supporting",
+        "popularity": 175
       },
       {
         "name": "Akimichi, Chouji",
@@ -1139,77 +1043,1295 @@
         "popularity": 171
       },
       {
+        "name": "Hyuuga, Hanabi",
+        "role": "Supporting",
+        "popularity": 153
+      },
+      {
+        "name": "Yahiko",
+        "role": "Supporting",
+        "popularity": 151
+      },
+      {
         "name": "Karin",
         "role": "Supporting",
         "popularity": 149
+      },
+      {
+        "name": "Ootsutsuki, Kaguya",
+        "role": "Supporting",
+        "popularity": 143
+      },
+      {
+        "name": "Terumi, Mei",
+        "role": "Supporting",
+        "popularity": 141
+      },
+      {
+        "name": "Tayuya",
+        "role": "Supporting",
+        "popularity": 136
+      },
+      {
+        "name": "Zetsu",
+        "role": "Supporting",
+        "popularity": 113
+      },
+      {
+        "name": "Sarutobi, Hiruzen",
+        "role": "Supporting",
+        "popularity": 109
+      },
+      {
+        "name": "Yuuhi, Kurenai",
+        "role": "Supporting",
+        "popularity": 102
+      },
+      {
+        "name": "Darui",
+        "role": "Supporting",
+        "popularity": 100
       }
     ],
-    "members": 48226,
-    "score": 7.16
+    "members": 407733,
+    "score": 8.07,
+    "url": "https://myanimelist.net/manga/11/Naruto"
   },
   {
-    "id": 287,
-    "title": "Black Cat",
+    "id": 11,
+    "title": "Bleach",
     "alternativeTitle": [
-      "Stray Cat",
-      "BLACK CAT",
-      "Black Cat"
+      "BLEACH",
+      "Bleach"
     ],
     "authors": [
-      "Yabuki, Kentarou"
+      "Kubo, Tite"
     ],
-    "description": "Train Heartnet is an amicable bounty hunter—known as a \"Sweeper\"—with a talent for sharpshooting. Working alongside his cool-headed partner Sven Vollfied, they hunt down wanted criminals. Unfortunately, however, despite their efforts, the dynamic duo always seems to be short on money, which forces them to accept a job from the beautiful Rinslet Walker, a sly thief for hire, and a mysterious girl named Eve.\n\nHowever, the motley crew soon discovers a terrible plot to revolutionize the world, and the mastermind is someone Train knows and loathes with a passion. As the plan is set into motion, it is soon made clear that behind the carefree sharpshooter's smiling face lies a tragic past and an insatiable desire for revenge.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 8: Stray Cat (pilot)",
-    "background": "'Black Cat' was published in English by VIZ Media under the Shonen Jump imprint from March 7, 2006 to May 5, 2009 and in Italian by Star Comics from February 3, 2004 to April 2, 2007.",
+    "description": "For as long as he can remember, high school student Ichigo Kurosaki has been able to see the spirits of the dead, but that has not stopped him from leading an ordinary life. One day, Ichigo returns home to find an intruder in his room who introduces herself as Rukia Kuchiki, a Soul Reaper tasked with helping souls pass over. Suddenly, the two are jolted from their conversation when a Hollow—an evil spirit known for consuming souls—attacks. As Ichigo makes a brash attempt to stop the Hollow, Rukia steps in and shields him from a counterattack. Injured and unable to keep fighting, Rukia suggests a risky plan—transfer half of her Soul Reaper powers to Ichigo. He accepts and, to Rukia's surprise, ends up absorbing her powers entirely, allowing him to easily dispatch the Hollow.\n\nNow a Soul Reaper himself, Ichigo must take up Rukia's duties of exterminating Hollows and protecting spirits, both living and dead. Along with his friends Orihime Inoue and Yasutora Sado—who later discover spiritual abilities of their own—Ichigo soon learns that the consequences of becoming a Soul Reaper and dealing with the world of spirits are far greater than he ever imagined.\n\n[Written by MAL Rewrite]",
+    "background": "'Bleach' has sold over 130 million copies worldwide as of 2022, making it one of the top 20 best selling manga series of all-time; North American sales have also been significant with 1.7 million copies sold in the region. In 2005, the series won the 50th Shogakukan Manga Award in the shounen demographic category. Many adaptations have also been made of the series, with a 2004 television anime series along with four feature length films, numerous video games, spin-off light novels, databooks, and even a musical.\n\nThe series was published in English by VIZ Media under the Shonen Jump imprint from July 6, 2004 to October 2, 2018, and as omnibus volumes from June 7, 2011 to March 5, 2019; a hardcover collector's edition for volume one was released by VIZ Media on August 5, 2008, a box set of volumes 1-21 was released on September 16, 2008 as well as volumes 22-48 on July 7, 2015, and the final box set containing volumes 49-72 on November 6, 2018. It has also been published in Portuguese (Brazil) by Panini Comics and Planet Manga since July 2007, and in Spanish by Glénat/EDT since June 2006, publishing 51 volumes before the publisher went defunct, and later was republished by Panini Comics from February 2013 to November 2017.\n\n'Bleach' was adapted into a live-action movie on July 20, 2018.",
     "genres": [
       "Action",
       "Adventure",
+      "Award Winning",
+      "Fantasy",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Kurosaki, Ichigo",
+        "role": "Main",
+        "popularity": 33200
+      },
+      {
+        "name": "Zaraki, Kenpachi",
+        "role": "Supporting",
+        "popularity": 13806
+      },
+      {
+        "name": "Urahara, Kisuke",
+        "role": "Supporting",
+        "popularity": 13236
+      },
+      {
+        "name": "Aizen, Sousuke",
+        "role": "Supporting",
+        "popularity": 11279
+      },
+      {
+        "name": "Hitsugaya, Toushirou",
+        "role": "Supporting",
+        "popularity": 9416
+      },
+      {
+        "name": "Cifer, Ulquiorra",
+        "role": "Supporting",
+        "popularity": 9268
+      },
+      {
+        "name": "Kuchiki, Rukia",
+        "role": "Main",
+        "popularity": 8592
+      },
+      {
+        "name": "Kuchiki, Byakuya",
+        "role": "Supporting",
+        "popularity": 6616
+      },
+      {
+        "name": "Jaegerjaquez, Grimmjow",
+        "role": "Supporting",
+        "popularity": 6310
+      },
+      {
+        "name": "Shihouin, Yoruichi",
+        "role": "Supporting",
+        "popularity": 5658
+      },
+      {
+        "name": "Ichimaru, Gin",
+        "role": "Supporting",
+        "popularity": 4091
+      },
+      {
+        "name": "Inoue, Orihime",
+        "role": "Main",
+        "popularity": 3009
+      },
+      {
+        "name": "Kyouraku, Jirou Souzousuke Shunsui",
+        "role": "Supporting",
+        "popularity": 2916
+      },
+      {
+        "name": "Abarai, Renji",
+        "role": "Main",
+        "popularity": 2911
+      },
+      {
+        "name": "Tu Oderschvank, Nelliel",
+        "role": "Supporting",
+        "popularity": 1748
+      },
+      {
+        "name": "Hirako, Shinji",
+        "role": "Supporting",
+        "popularity": 1728
+      },
+      {
+        "name": "Ishida, Uryuu",
+        "role": "Main",
+        "popularity": 1672
+      },
+      {
+        "name": "Kurotsuchi, Mayuri",
+        "role": "Supporting",
+        "popularity": 1152
+      },
+      {
+        "name": "Kon",
+        "role": "Supporting",
+        "popularity": 1052
+      },
+      {
+        "name": "Matsumoto, Rangiku",
+        "role": "Supporting",
+        "popularity": 1007
+      },
+      {
+        "name": "Soi Fon",
+        "role": "Supporting",
+        "popularity": 902
+      },
+      {
+        "name": "Sado, Yasutora",
+        "role": "Main",
+        "popularity": 870
+      },
+      {
+        "name": "Hisagi, Shuuhei",
+        "role": "Supporting",
+        "popularity": 821
+      },
+      {
+        "name": "Unohana, Retsu",
+        "role": "Supporting",
+        "popularity": 806
+      },
+      {
+        "name": "Starrk, Coyote",
+        "role": "Supporting",
+        "popularity": 709
+      },
+      {
+        "name": "Ukitake, Juushirou",
+        "role": "Supporting",
+        "popularity": 663
+      },
+      {
+        "name": "Madarame, Ikkaku",
+        "role": "Supporting",
+        "popularity": 646
+      },
+      {
+        "name": "Kusajishi, Yachiru",
+        "role": "Supporting",
+        "popularity": 638
+      },
+      {
+        "name": "Zangetsu",
+        "role": "Supporting",
+        "popularity": 585
+      },
+      {
+        "name": "Harribel, Tier",
+        "role": "Supporting",
+        "popularity": 545
+      },
+      {
+        "name": "Yamamoto-Genryuusai, Shigekuni",
+        "role": "Supporting",
+        "popularity": 506
+      },
+      {
+        "name": "Yhwach",
+        "role": "Supporting",
+        "popularity": 367
+      },
+      {
+        "name": "Kurosaki, Isshin",
+        "role": "Supporting",
+        "popularity": 365
+      },
+      {
+        "name": "Gilga, Nnoitra",
+        "role": "Supporting",
+        "popularity": 243
+      },
+      {
+        "name": "Ayasegawa, Yumichika",
+        "role": "Supporting",
+        "popularity": 233
+      },
+      {
+        "name": "Dokugamine, Riruka",
+        "role": "Supporting",
+        "popularity": 217
+      },
+      {
+        "name": "Grantz, Szayel Aporro",
+        "role": "Supporting",
+        "popularity": 212
+      },
+      {
+        "name": "Kira, Izuru",
+        "role": "Supporting",
+        "popularity": 210
+      },
+      {
+        "name": "Basterbine, Bambietta",
+        "role": "Supporting",
+        "popularity": 188
+      },
+      {
+        "name": "Hinamori, Momo",
+        "role": "Supporting",
+        "popularity": 178
+      },
+      {
+        "name": "Sarugaki, Hiyori",
+        "role": "Supporting",
+        "popularity": 174
+      },
+      {
+        "name": "Komamura, Sajin",
+        "role": "Supporting",
+        "popularity": 158
+      },
+      {
+        "name": "Yamada, Hanatarou",
+        "role": "Supporting",
+        "popularity": 145
+      },
+      {
+        "name": "Arisawa, Tatsuki",
+        "role": "Supporting",
+        "popularity": 137
+      },
+      {
+        "name": "Haschwalth, Jugram",
+        "role": "Supporting",
+        "popularity": 130
+      },
+      {
+        "name": "Muguruma, Kensei",
+        "role": "Supporting",
+        "popularity": 126
+      },
+      {
+        "name": "Shiba, Kuukaku",
+        "role": "Supporting",
+        "popularity": 118
+      },
+      {
+        "name": "Kurotsuchi, Nemu",
+        "role": "Supporting",
+        "popularity": 109
+      },
+      {
+        "name": "Tousen, Kaname",
+        "role": "Supporting",
+        "popularity": 104
+      }
+    ],
+    "members": 375909,
+    "score": 7.85,
+    "url": "https://myanimelist.net/manga/12/Bleach"
+  },
+  {
+    "id": 17,
+    "title": "Fullmetal Alchemist",
+    "alternativeTitle": [
+      "Full Metal Alchemist, Hagane no Renkinjutsushi, FMA, HagaRen, Fullmetal Alchemist Gaiden",
+      "鋼の錬金術師",
+      "Fullmetal Alchemist"
+    ],
+    "authors": [
+      "Arakawa, Hiromu"
+    ],
+    "description": "Alchemists are knowledgeable and naturally talented individuals who can manipulate and modify matter due to their art. Yet despite the wide range of possibilities, alchemy is not as all-powerful as most would believe. Human transmutation is strictly forbidden, and whoever attempts it risks severe consequences. Even so, siblings Edward and Alphonse Elric decide to ignore this great taboo and bring their mother back to life. Unfortunately, not only do they fail in resurrecting her, they also pay an extremely high price for their arrogance: Edward loses his left leg and Alphonse his entire body. Furthermore, Edward also gives up his right arm in order to seal his brother's soul into a suit of armor.\n\nYears later, the young alchemists travel across the country looking for the Philosopher's Stone, in the hopes of recovering their old bodies with its power. However, their quest for the fated stone also leads them to unravel far darker secrets than they could ever imagine.\n\n[Written by MAL Rewrite]",
+    "background": "'Hagane no Renkinjutsushi' won the 49th Shogakukan Manga Award for the shounen demographic in 2004. Hiromu Arakawa also won the 15th Tezuka Osamu Cultural Prize in the New Artist Prize category for the series in 2011. As of 2015, over 64 million copies of the series have been sold worldwide, making it one of Square Enix's most successful publications, according to Nielsen Bookscan. A live-action film is in development by Warner Bros. Japan and is scheduled for release in Winter 2017.\n\nThe series was published in English as'Fullmetal Alchemist' by VIZ Media from May 3, 2005 to December 20, 2011, and in eBook format by Yen Press on April 15, 2014. A 3-in-1 omnibus edition was released by VIZ from June 7, 2011 to November 11, 2014 as well as a complete box set in November 1, 2011 (which included the novel'Fullmetal Alchemist: The Ties That Bind' ). The manga was also published in Italian by Panini Comics under the Planet Manga imprint from July 13, 2006 to September 3, 2011, in Polish by J.P. Fantastica from January 2006 to to April 2012, in Brazilian Portuguese by Jbc from February 2007 to April 2011 and in Spanish by Ivrea Argentina starting December 12, 2016.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Award Winning",
+      "Drama",
+      "Fantasy",
+      "Military",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Elric, Edward",
+        "role": "Main",
+        "popularity": 86748
+      },
+      {
+        "name": "Mustang, Roy",
+        "role": "Supporting",
+        "popularity": 36788
+      },
+      {
+        "name": "Elric, Alphonse",
+        "role": "Main",
+        "popularity": 14592
+      },
+      {
+        "name": "Hughes, Maes",
+        "role": "Supporting",
+        "popularity": 6257
+      },
+      {
+        "name": "Greed",
+        "role": "Supporting",
+        "popularity": 5851
+      },
+      {
+        "name": "Hawkeye, Riza",
+        "role": "Supporting",
+        "popularity": 5510
+      },
+      {
+        "name": "Yao, Ling",
+        "role": "Supporting",
+        "popularity": 4672
+      },
+      {
+        "name": "Armstrong, Alex Louis",
+        "role": "Supporting",
+        "popularity": 3934
+      },
+      {
+        "name": "Rockbell, Winry",
+        "role": "Supporting",
+        "popularity": 3925
+      },
+      {
+        "name": "Armstrong, Olivier Mira",
+        "role": "Supporting",
+        "popularity": 3823
+      },
+      {
+        "name": "Envy",
+        "role": "Supporting",
+        "popularity": 3112
+      },
+      {
+        "name": "Hohenheim, Van",
+        "role": "Supporting",
+        "popularity": 2482
+      },
+      {
+        "name": "Bradley, King",
+        "role": "Supporting",
+        "popularity": 2117
+      },
+      {
+        "name": "Scar",
+        "role": "Supporting",
+        "popularity": 1940
+      },
+      {
+        "name": "Kimblee, Solf J.",
+        "role": "Supporting",
+        "popularity": 937
+      },
+      {
+        "name": "Curtis, Izumi",
+        "role": "Supporting",
+        "popularity": 922
+      },
+      {
+        "name": "Lust",
+        "role": "Supporting",
+        "popularity": 815
+      },
+      {
+        "name": "Lan Fan",
+        "role": "Supporting",
+        "popularity": 444
+      },
+      {
+        "name": "Bradley, Selim",
+        "role": "Supporting",
+        "popularity": 382
+      },
+      {
+        "name": "Truth",
+        "role": "Supporting",
+        "popularity": 275
+      },
+      {
+        "name": "Havoc, Jean",
+        "role": "Supporting",
+        "popularity": 225
+      },
+      {
+        "name": "Chang, Mei",
+        "role": "Supporting",
+        "popularity": 210
+      },
+      {
+        "name": "Barry the Chopper",
+        "role": "Supporting",
+        "popularity": 201
+      },
+      {
+        "name": "Gluttony",
+        "role": "Supporting",
+        "popularity": 193
+      },
+      {
+        "name": "May, Shao",
+        "role": "Supporting",
+        "popularity": 174
+      },
+      {
+        "name": "Homunculus",
+        "role": "Supporting",
+        "popularity": 170
+      },
+      {
+        "name": "Tucker, Shou",
+        "role": "Supporting",
+        "popularity": 160
+      },
+      {
+        "name": "Black Hayate",
+        "role": "Supporting",
+        "popularity": 133
+      }
+    ],
+    "members": 288114,
+    "score": 9.03,
+    "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist"
+  },
+  {
+    "id": 19,
+    "title": "Tokyo Ghoul:re",
+    "alternativeTitle": [
+      "Tokyo Kushu:re, Toukyou Kuushu:re, Tokyo Ghoul: \"Joker\"",
+      "東京喰種-トーキョーグール-:re",
+      "Tokyo Ghoul:re",
+      "Tokyo Ghoul : Re"
+    ],
+    "authors": [
+      "Ishida, Sui"
+    ],
+    "description": "Two years have passed since the CCG's raid on Anteiku. Although the atmosphere in Tokyo has changed drastically due to the increased influence of the CCG, ghouls continue to pose a problem as they have begun taking caution, especially the terrorist organization Aogiri Tree, who acknowledge the CCG's growing threat to their existence.\n\nThe creation of a special team, known as the Quinx Squad, may provide the CCG with the push they need to exterminate Tokyo's unwanted residents. As humans who have undergone surgery in order to make use of the special abilities of ghouls, they participate in operations to eradicate the dangerous creatures. The leader of this group, Haise Sasaki, is a half-ghoul, half-human who has been trained by famed special class investigator, Kishou Arima. However, there's more to this young man than meets the eye, as unknown memories claw at his mind, slowly reminding him of the person he used to be.\n\n[Written by MAL Rewrite]",
+    "background": "'Tokyo Ghoul:re' was the 10th best-selling manga series in Japan in 2015 with an estimated sales of 3,758,541 copies sold.\n\nThe series was published in English by VIZ Media from October 17, 2017 to April 21, 2020. It is also published in Spanish by Norma Editorial since June 23, 2016; in German by Kazé since September 1, 2016; in Polish by Waneko since August 14, 2017; and in Portuguese by Panini Editorial since December 15, 2017.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror",
+      "Gore",
+      "Psychological",
+      "Seinen"
+    ],
+    "characters": [
+      {
+        "name": "Kaneki, Ken",
+        "role": "Main",
+        "popularity": 50617
+      },
+      {
+        "name": "Suzuya, Juuzou",
+        "role": "Supporting",
+        "popularity": 13516
+      },
+      {
+        "name": "Kirishima, Touka",
+        "role": "Main",
+        "popularity": 11373
+      },
+      {
+        "name": "Uta",
+        "role": "Supporting",
+        "popularity": 3306
+      },
+      {
+        "name": "Tsukiyama, Shuu",
+        "role": "Supporting",
+        "popularity": 2550
+      },
+      {
+        "name": "Nagachika, Hideyoshi",
+        "role": "Supporting",
+        "popularity": 2526
+      },
+      {
+        "name": "Sasaki, Haise",
+        "role": "Main",
+        "popularity": 2331
+      },
+      {
+        "name": "Eto",
+        "role": "Supporting",
+        "popularity": 1437
+      },
+      {
+        "name": "Arima, Kishou",
+        "role": "Supporting",
+        "popularity": 1234
+      },
+      {
+        "name": "Kamishiro, Rize",
+        "role": "Supporting",
+        "popularity": 1234
+      },
+      {
+        "name": "Kirishima, Ayato",
+        "role": "Supporting",
+        "popularity": 1200
+      },
+      {
+        "name": "Furuta, Nimura",
+        "role": "Supporting",
+        "popularity": 725
+      },
+      {
+        "name": "Yonebayashi, Saiko",
+        "role": "Main",
+        "popularity": 698
+      },
+      {
+        "name": "Urie, Kuki",
+        "role": "Main",
+        "popularity": 536
+      },
+      {
+        "name": "Amon, Koutarou",
+        "role": "Supporting",
+        "popularity": 492
+      },
+      {
+        "name": "Fueguchi, Hinami",
+        "role": "Supporting",
+        "popularity": 419
+      },
+      {
+        "name": "Takizawa, Seidou",
+        "role": "Supporting",
+        "popularity": 359
+      },
+      {
+        "name": "Nishio, Nishiki",
+        "role": "Supporting",
+        "popularity": 314
+      },
+      {
+        "name": "Yomo, Renji",
+        "role": "Supporting",
+        "popularity": 312
+      },
+      {
+        "name": "Mutsuki, Tooru",
+        "role": "Main",
+        "popularity": 257
+      },
+      {
+        "name": "Takatsuki, Sen",
+        "role": "Supporting",
+        "popularity": 241
+      },
+      {
+        "name": "Yoshimura",
+        "role": "Supporting",
+        "popularity": 211
+      },
+      {
+        "name": "Mado, Akira",
+        "role": "Supporting",
+        "popularity": 209
+      },
+      {
+        "name": "Shirazu, Ginshi",
+        "role": "Main",
+        "popularity": 206
+      },
+      {
+        "name": "Noro",
+        "role": "Supporting",
+        "popularity": 121
+      },
+      {
+        "name": "Naki",
+        "role": "Supporting",
+        "popularity": 100
+      }
+    ],
+    "members": 277882,
+    "score": 8.27,
+    "url": "https://myanimelist.net/manga/81117/Tokyo_Ghoul_re"
+  },
+  {
+    "id": 20,
+    "title": "Fairy Tail",
+    "alternativeTitle": [
+      "FAIRY TAIL",
+      "Fairy Tail"
+    ],
+    "authors": [
+      "Mashima, Hiro"
+    ],
+    "description": "In the mystical realm of Earth Land, magic exists at the core of everyday life for its inhabitants, from transportation to utilities and everything in between. However, even with all its benefits, magic can also be used for great evil; therefore, to prevent dark forces from upsetting the natural order of things, there exists a system of magical guilds in the Kingdom of Fiore. Under the command of their respective guild masters, these guilds are made up of witches and wizards who take on various job requests to earn fame and fortune. One particular guild stands high above the rest in both strength and spirit, and its name is Fairy Tail.\n\nIn his quest to find his dragon foster father—Igneel—Natsu Dragneel, a fiery and reckless mage, and his partner Happy run into a young celestial mage by the name of Lucy Heartfilia, who reveals that it's her dream to become a full-fledged wizard and join the Fairy Tail guild. After rescuing her from an abduction attempt, Natsu offers her a home in Fairy Tail. Now a member of the guild, Lucy teams up with Natsu and befriends fellow wizards Gray Fullbuster and Erza \"Titania\" Scarlet. Together, this motley crew set out on their many adventures, gaining many faithful allies and deadly foes along the way.\n\n[Written by MAL Rewrite]",
+    "background": "In 2009,'Fairy Tail' won the 33rd Kodansha Manga Award in shounen manga category, the Japan Expo Awards for the same category, and the Society for the Promotion of Japanese Animation's Industry Award for best comedy manga.\n\nThe series was initially published in English by Del Rey Comics, who released the first 12 volumes from March 25, 2008 to September 28, 2010. Kodansha Comics USA picked up the license and released the rest of the series from May 10, 2011 to January 23, 2018. A large size 5-in-1 omnibus edition subtitled'Master's Edition' has been published since November 10, 2015. It has also been published in Spanish by Norma Editorial since October 30, 2008; in Italian by Star Comics since January 3, 2008; in Brazil by JBC since October 2010; in Polish by Studio JG since April 2016; and in Argentina by Editorial Ivrea since January 2017.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Award Winning",
+      "Fantasy",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Dragneel, Natsu",
+        "role": "Main",
+        "popularity": 22440
+      },
+      {
+        "name": "Scarlet, Erza",
+        "role": "Main",
+        "popularity": 18911
+      },
+      {
+        "name": "Heartfilia, Lucy",
+        "role": "Main",
+        "popularity": 7684
+      },
+      {
+        "name": "Fullbuster, Gray",
+        "role": "Main",
+        "popularity": 7627
+      },
+      {
+        "name": "Happy",
+        "role": "Main",
+        "popularity": 4194
+      },
+      {
+        "name": "Lockser, Juvia",
+        "role": "Supporting",
+        "popularity": 3554
+      },
+      {
+        "name": "Fernandes, Jellal",
+        "role": "Supporting",
+        "popularity": 2914
+      },
+      {
+        "name": "Redfox, Gajeel",
+        "role": "Supporting",
+        "popularity": 2653
+      },
+      {
+        "name": "Dreyar, Laxus",
+        "role": "Supporting",
+        "popularity": 2188
+      },
+      {
+        "name": "Zeref",
+        "role": "Supporting",
+        "popularity": 1944
+      },
+      {
+        "name": "Marvell, Wendy",
+        "role": "Main",
+        "popularity": 1715
+      },
+      {
+        "name": "Strauss, Mirajane",
+        "role": "Supporting",
+        "popularity": 1541
+      },
+      {
+        "name": "Vermillion, Mavis",
+        "role": "Supporting",
+        "popularity": 1484
+      },
+      {
+        "name": "Clive, Gildarts",
+        "role": "Supporting",
+        "popularity": 921
+      },
+      {
+        "name": "McGarden, Levy",
+        "role": "Supporting",
+        "popularity": 810
+      },
+      {
+        "name": "Mystogan",
+        "role": "Supporting",
+        "popularity": 805
+      },
+      {
+        "name": "Loki",
+        "role": "Supporting",
+        "popularity": 534
+      },
+      {
+        "name": "Eucliffe, Sting",
+        "role": "Supporting",
+        "popularity": 481
+      },
+      {
+        "name": "Frosch",
+        "role": "Supporting",
+        "popularity": 404
+      },
+      {
+        "name": "Milkovich, Ultear",
+        "role": "Supporting",
+        "popularity": 347
+      },
+      {
+        "name": "Cheney, Rogue",
+        "role": "Supporting",
+        "popularity": 336
+      },
+      {
+        "name": "Alberona, Cana",
+        "role": "Supporting",
+        "popularity": 313
+      },
+      {
+        "name": "Plue",
+        "role": "Supporting",
+        "popularity": 285
+      },
+      {
+        "name": "Knightwalker, Erza",
+        "role": "Supporting",
+        "popularity": 256
+      },
+      {
+        "name": "Acnologia",
+        "role": "Supporting",
+        "popularity": 236
+      },
+      {
+        "name": "Justine, Freed",
+        "role": "Supporting",
+        "popularity": 205
+      },
+      {
+        "name": "Dreyar, Makarov",
+        "role": "Supporting",
+        "popularity": 199
+      },
+      {
+        "name": "Mikazuchi, Kagura",
+        "role": "Supporting",
+        "popularity": 178
+      },
+      {
+        "name": "Strauss, Lisanna",
+        "role": "Supporting",
+        "popularity": 178
+      },
+      {
+        "name": "Vandalay Kotobuki, Ichiya",
+        "role": "Supporting",
+        "popularity": 163
+      },
+      {
+        "name": "Charlés",
+        "role": "Main",
+        "popularity": 155
+      },
+      {
+        "name": "Dragion, Natsu",
+        "role": "Supporting",
+        "popularity": 154
+      },
+      {
+        "name": "Virgo",
+        "role": "Supporting",
+        "popularity": 147
+      },
+      {
+        "name": "Cobra",
+        "role": "Supporting",
+        "popularity": 133
+      },
+      {
+        "name": "Brandish μ",
+        "role": "Supporting",
+        "popularity": 132
+      },
+      {
+        "name": "Aquarius",
+        "role": "Supporting",
+        "popularity": 119
+      }
+    ],
+    "members": 267223,
+    "score": 7.56,
+    "url": "https://myanimelist.net/manga/598/Fairy_Tail"
+  },
+  {
+    "id": 22,
+    "title": "Hunter x Hunter",
+    "alternativeTitle": [
+      "HxH",
+      "HUNTER×HUNTER",
+      "Hunter x Hunter",
+      "Hunter X Hunter",
+      "Hunter X Hunter"
+    ],
+    "authors": [
+      "Togashi, Yoshihiro"
+    ],
+    "description": "\"Secret treasure hoards, undiscovered wealth... mystical places, unexplored frontiers... 'The mysterious unknown.' There's magic in such words for those captivated by its spell. They are called 'Hunters'!\"\n\nGon Freecss wants to become a Hunter so he can find his father, a man who abandoned him to pursue a life of adventure. But it's not that simple: only one in one hundred thousand can pass the Hunter Exam, and that is just the first obstacle on his journey. During the Hunter Exam, Gon befriends many other potential Hunters, such as the mysterious Killua; the revenge-driven Kurapika; and Leorio, who aims to become a doctor. There's a world of adventure and peril awaiting, and those who embrace it with open arms can become the greatest Hunters of them all!\n\n[Written by MAL Rewrite]",
+    "background": "'Hunter x Hunter' has been published in English by VIZ Media under the Shonen Jump Advanced imprint since April 5, 2005; in Brazilian Portuguese by Jbc since January 2008; in Spanish by Panini Comics since October 2012; and in Italian by Panini Comics.\n\nThe series has been serialized irregularly since 2006 due to Yoshihiro Togashi's health problems.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Zoldyck, Killua",
+        "role": "Main",
+        "popularity": 94846
+      },
+      {
+        "name": "Morow, Hisoka",
+        "role": "Supporting",
+        "popularity": 35184
+      },
+      {
+        "name": "Kurapika",
+        "role": "Main",
+        "popularity": 23305
+      },
+      {
+        "name": "Freecss, Gon",
+        "role": "Main",
+        "popularity": 21360
+      },
+      {
+        "name": "Meruem",
+        "role": "Supporting",
+        "popularity": 16671
+      },
+      {
+        "name": "Lucilfer, Chrollo",
+        "role": "Supporting",
+        "popularity": 9151
+      },
+      {
+        "name": "Paladiknight, Leorio",
+        "role": "Main",
+        "popularity": 7080
+      },
+      {
+        "name": "Netero, Isaac",
+        "role": "Supporting",
+        "popularity": 4302
+      },
+      {
+        "name": "Neferpitou",
+        "role": "Supporting",
+        "popularity": 3672
+      },
+      {
+        "name": "Portor, Feitan",
+        "role": "Supporting",
+        "popularity": 3235
+      },
+      {
+        "name": "Kite",
+        "role": "Supporting",
+        "popularity": 2067
+      },
+      {
+        "name": "Zoldyck, Illumi",
+        "role": "Supporting",
+        "popularity": 1859
+      },
+      {
+        "name": "Zoldyck, Alluka",
+        "role": "Supporting",
+        "popularity": 1340
+      },
+      {
+        "name": "Komugi",
+        "role": "Supporting",
+        "popularity": 1182
+      },
+      {
+        "name": "Freecss, Ging",
+        "role": "Supporting",
+        "popularity": 1137
+      },
+      {
+        "name": "Murasaki, Shizuku",
+        "role": "Supporting",
+        "popularity": 796
+      },
+      {
+        "name": "Bine, Knuckle",
+        "role": "Supporting",
+        "popularity": 777
+      },
+      {
+        "name": "Krueger, Biscuit",
+        "role": "Supporting",
+        "popularity": 769
+      },
+      {
+        "name": "Ikalgo",
+        "role": "Supporting",
+        "popularity": 624
+      },
+      {
+        "name": "Shaiapouf",
+        "role": "Supporting",
+        "popularity": 597
+      },
+      {
+        "name": "Hill, Pariston",
+        "role": "Supporting",
+        "popularity": 572
+      },
+      {
+        "name": "Komachine, Machi",
+        "role": "Supporting",
+        "popularity": 510
+      },
+      {
+        "name": "Ki El Dogra, Baka",
+        "role": "Supporting",
+        "popularity": 423
+      },
+      {
+        "name": "McCarnathy, Morel",
+        "role": "Supporting",
+        "popularity": 405
+      },
+      {
+        "name": "Pakunoda",
+        "role": "Supporting",
+        "popularity": 290
+      },
+      {
+        "name": "Zoldyck, Zeno",
+        "role": "Supporting",
+        "popularity": 256
+      },
+      {
+        "name": "Uvogin",
+        "role": "Supporting",
+        "popularity": 175
+      },
+      {
+        "name": "Ryuseih, Shalnark",
+        "role": "Supporting",
+        "popularity": 160
+      },
+      {
+        "name": "Canary",
+        "role": "Supporting",
+        "popularity": 139
+      },
+      {
+        "name": "Hui Guo Rou, Tserriednich",
+        "role": "Supporting",
+        "popularity": 121
+      },
+      {
+        "name": "Zoldyck, Silva",
+        "role": "Supporting",
+        "popularity": 117
+      },
+      {
+        "name": "Beans",
+        "role": "Supporting",
+        "popularity": 113
+      },
+      {
+        "name": "Siberia, Palm",
+        "role": "Supporting",
+        "popularity": 112
+      },
+      {
+        "name": "Tonpa",
+        "role": "Supporting",
+        "popularity": 111
+      },
+      {
+        "name": "Senritsu",
+        "role": "Supporting",
+        "popularity": 106
+      },
+      {
+        "name": "Zoldyck, Kalluto",
+        "role": "Supporting",
+        "popularity": 101
+      }
+    ],
+    "members": 263589,
+    "score": 8.73,
+    "url": "https://myanimelist.net/manga/26/Hunter_x_Hunter"
+  },
+  {
+    "id": 32,
+    "title": "Black Clover",
+    "alternativeTitle": [
+      "ブラッククローバー",
+      "Black Clover"
+    ],
+    "authors": [
+      "Tabata, Yuuki"
+    ],
+    "description": "In a world full of magic, Asta—an orphan who is overly loud and energetic—possesses none whatsoever. Despite this, he dreams of becoming the Wizard King, a title bestowed upon the strongest mage in the Clover Kingdom. Possessing the same aspiration, Asta's childhood friend and rival Yuno has been blessed with the ability to control powerful wind magic. Even with this overwhelming gap between them, hoping to somehow awaken his magical abilities and catch up to Yuno, Asta trains his body relentlessly every day.\n\nIn the Clover Kingdom, once a person turns 15 years old, it is time for them to receive their Grimoire, an item allowing its wielder to use their magic to its full capacity. At the ceremony, Yuno obtains a Grimoire with a legendary four-leaf clover, indicating the exceptional strength of its wielder, while Asta pointlessly waits for his. Feeling dejected, yet unwilling to give up, Asta sees Yuno caught by a mage who is trying to steal Yuno's special Grimoire. Despite being completely overpowered by Yuno's captor, Asta's will to keep fighting rewards him with his very own Grimoire—one with an unheard-of black five-leaf clover.\n\n[Written by MAL Rewrite]",
+    "background": "'Black Clover' is simulpub in English as a part of VIZ Media's'Weekly Shonen Jump' lineup. The publisher has been physically releasing the series under their Shonen Jump imprint since June 7, 2016.",
+    "genres": [
+      "Action",
       "Comedy",
       "Fantasy",
       "Shounen"
     ],
     "characters": [
       {
-        "name": "Heartnet, Train",
-        "role": "Main",
-        "popularity": 2002
-      },
-      {
-        "name": "Eve",
-        "role": "Main",
-        "popularity": 430
-      },
-      {
-        "name": "Vollfied, Sven",
-        "role": "Main",
-        "popularity": 372
-      },
-      {
-        "name": "Minatsuki, Saya",
+        "name": "Sukehiro, Yami",
         "role": "Supporting",
-        "popularity": 140
+        "popularity": 14347
       },
       {
-        "name": "Diskenth, Creed",
+        "name": "Asta",
+        "role": "Main",
+        "popularity": 13822
+      },
+      {
+        "name": "Silva, Noelle",
+        "role": "Main",
+        "popularity": 3749
+      },
+      {
+        "name": "Vermillion, Mereoleona",
         "role": "Supporting",
-        "popularity": 126
+        "popularity": 2498
+      },
+      {
+        "name": "Yuno",
+        "role": "Main",
+        "popularity": 2158
+      },
+      {
+        "name": "Voltia, Luck",
+        "role": "Supporting",
+        "popularity": 1857
+      },
+      {
+        "name": "Nero",
+        "role": "Supporting",
+        "popularity": 1741
+      },
+      {
+        "name": "Novachrono, Julius",
+        "role": "Supporting",
+        "popularity": 1685
+      },
+      {
+        "name": "Pappitson, Charmy",
+        "role": "Supporting",
+        "popularity": 1256
+      },
+      {
+        "name": "Ideale, Zora",
+        "role": "Supporting",
+        "popularity": 1156
+      },
+      {
+        "name": "Faust, Nacht",
+        "role": "Supporting",
+        "popularity": 928
+      },
+      {
+        "name": "Vermillion, Mimosa",
+        "role": "Supporting",
+        "popularity": 435
+      },
+      {
+        "name": "Liebe",
+        "role": "Supporting",
+        "popularity": 432
+      },
+      {
+        "name": "Enoteca, Vanessa",
+        "role": "Supporting",
+        "popularity": 370
+      },
+      {
+        "name": "Roulacase, Finral",
+        "role": "Supporting",
+        "popularity": 370
+      },
+      {
+        "name": "Agrippa, Gordon",
+        "role": "Supporting",
+        "popularity": 227
+      },
+      {
+        "name": "Vermillion, Fuegoleon",
+        "role": "Supporting",
+        "popularity": 213
+      },
+      {
+        "name": "Swing, Magna",
+        "role": "Supporting",
+        "popularity": 172
+      },
+      {
+        "name": "Unsworth, Dorothy",
+        "role": "Supporting",
+        "popularity": 160
+      },
+      {
+        "name": "Silva, Nozel",
+        "role": "Supporting",
+        "popularity": 152
+      },
+      {
+        "name": "Roselei, Charlotte",
+        "role": "Supporting",
+        "popularity": 129
+      },
+      {
+        "name": "Zogratis, Vanica",
+        "role": "Supporting",
+        "popularity": 120
+      },
+      {
+        "name": "Vangeance, William",
+        "role": "Supporting",
+        "popularity": 119
       }
     ],
-    "members": 47894,
-    "score": 7.79
+    "members": 211507,
+    "score": 7.86,
+    "url": "https://myanimelist.net/manga/86337/Black_Clover"
   },
   {
-    "id": 289,
-    "title": "Sousei no Onmyouji",
+    "id": 36,
+    "title": "Claymore",
     "alternativeTitle": [
-      "Sousei no Onmyouji: Adashino Benio-hen",
-      "双星の陰陽師",
-      "Twin Star Exorcists"
+      "CLAYMORE",
+      "Claymore"
     ],
     "authors": [
-      "Sukeno, Yoshiaki"
+      "Yagi, Norihiro"
     ],
-    "description": "For centuries, terrifying creatures—known as \"Kegare\"—from the parallel realm Magano have wreaked havoc throughout Japan. The brave men and women resisting their onslaught are secretive exorcists whose one and only goal is to eradicate all the Kegare. \n\nIn the present day, 14-year-old Rokuro Enmadou is a talented and powerful exorcist. However, a tragic event in the past caused him to resent exorcists and give up his dream of becoming the strongest. In stark contrast to him, Benio Adashino is a beautiful and prodigious exorcist of the same age who carries the hopes and dreams of all people. \n\nThese two teenagers, despite their differences, are the prophesied \"Twin Star Exorcists\": the two people destined to give birth to the Miko—the exorcist who will vanquish the Kegare and cleanse the world of all impurities. But as the adolescents are both far from maturity, let alone adulthood, only hardships and trials await the unlikely heroes. \n\n[Written by MAL Rewrite]",
-    "background": "'Sousei no Onmyouji' has been published in English as'Twin Star Exorcists' by VIZ Media under the Shonen Jump imprint since July 7, 2015 and in Spanish by Norma Editorial since October 29, 2016.",
+    "description": "It is the Middle Ages, and the remnants of mankind are plagued by paranoia and death. Spoken in fearful whispers, the word \"Yoma\" cuts a clear image into the minds of all: monstrous beings with an insatiable hunger for human flesh. But fear of their gruesome appetite is dwarfed by that of their ability to shapeshift and steal the memories of their last meal. Forever vulnerable to attack, humans live in unease, even among family.\n\nThere are few means to kill a Yoma. The Organization, informally known as \"Claymore,\" is humanity's only line of defense, dispatching half-human, half-Yoma female warriors to purify villages of Yoma. A lonely and dangerous existence, death for these warriors comes with each new assignment. What time is found between trying battles and long, arduous travels is spent in ever-intensifying struggle to resist their Yoma blood and maintain their humanity. Villagers, knowing of this, pay for their security reluctantly and have only loathsome regard for their protectors.\n\nClaymore follows the stoic and low-ranking member Clare in her daunting trek as she searches for personal vengeance. Along the way, she encounters many unexpected things about the world, from the camaraderie and hope held fast by her sisters-in-arms to the sinister truth behind the Claymore Organization.\n\n[Written by MAL Rewrite]",
+    "background": "'Claymore' was published in English by VIZ Media under the Shonen Jump Advanced imprint from April 4, 2006 to October 6, 2015. A complete box set of the series was released October 20, 2015. It was also published in Spanish by Glenát España since December 2006, publishing 21 volumes until Glénat went bankrupt. The series was continued by Norma Editorial until its final volume in September 2015; and in Italian by Star Comics from June 9, 2005 to June 13, 2015.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Horror",
+      "Gore",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Teresa",
+        "role": "Supporting",
+        "popularity": 4536
+      },
+      {
+        "name": "Clare",
+        "role": "Main",
+        "popularity": 3898
+      },
+      {
+        "name": "Miria",
+        "role": "Main",
+        "popularity": 837
+      },
+      {
+        "name": "Galatea",
+        "role": "Supporting",
+        "popularity": 403
+      },
+      {
+        "name": "Irene",
+        "role": "Supporting",
+        "popularity": 240
+      },
+      {
+        "name": "Ophelia",
+        "role": "Supporting",
+        "popularity": 180
+      },
+      {
+        "name": "Jean",
+        "role": "Supporting",
+        "popularity": 170
+      },
+      {
+        "name": "Riful",
+        "role": "Supporting",
+        "popularity": 153
+      },
+      {
+        "name": "Helen",
+        "role": "Main",
+        "popularity": 141
+      },
+      {
+        "name": "Isley",
+        "role": "Supporting",
+        "popularity": 118
+      }
+    ],
+    "members": 194217,
+    "score": 8.29,
+    "url": "https://myanimelist.net/manga/583/Claymore"
+  },
+  {
+    "id": 37,
+    "title": "Soul Eater",
+    "alternativeTitle": [
+      "SOUL EATER",
+      "Soul Eater"
+    ],
+    "authors": [
+      "Ookubo, Atsushi"
+    ],
+    "description": "Death City is home to the Death Weapon Meister Academy, established by Shinigami—the grim reaper himself. Created to maintain peace, the academy trains Meisters and Demon Weapons—people who take on the form of a weapon—to defend humanity against evil. The ultimate goal of a Meister is to create a \"Death Scythe\" worthy of being wielded by Shinigami. To do this, their weapon partner must consume the souls of 99 wicked humans and one witch.\n \nMaka Albarn and her partner Soul Eater \"Soul\" Evans are two students who hope to make a Death Scythe. They are joined by the boisterous Black☆Star and his partner Tsubaki Nakatsukasa, as well as the perfectionist Death the Kid—simply known as Kid—and his partners, the twins Patricia \"Patty\" and Elizabeth \"Liz\" Thompson. These ambitious students all work towards becoming the ultimate Meister and Demon Weapon team, through misadventures, missions, and many class trials.\n \nHowever, many mysteries surround them, and as new enemies are discovered and secrets are revealed, Maka, Soul, and their friends must fight to protect the academy, Death City, and the world itself from enemies far worse than humans.\n \n[Written by MAL Rewrite]",
+    "background": "'Soul Eater' was published in English by Yen Press from October 27, 2009 to March 24, 2015, as well as in eBook format from April 8, 2014 to March 24, 2015, and as omnibus volumes by Square Enix since July 28, 2020. It was also published in Spain by Norma Editorial from September 1, 2010 to October 1, 2014, and in Brazil by Jbc from July 2012 to August 2014. It has been published in Argentina by Ovni Press since September 29, 2017.",
     "genres": [
       "Action",
       "Fantasy",
@@ -1218,32 +2340,557 @@
     ],
     "characters": [
       {
-        "name": "Adashino, Benio",
+        "name": "Death the Kid",
         "role": "Main",
-        "popularity": 751
+        "popularity": 11351
       },
       {
-        "name": "Enmadou, Rokuro",
+        "name": "Evans, Soul Eater",
         "role": "Main",
-        "popularity": 730
+        "popularity": 5610
       },
       {
-        "name": "Otomi, Mayura",
+        "name": "Albarn, Maka",
+        "role": "Main",
+        "popularity": 5244
+      },
+      {
+        "name": "Crona",
         "role": "Supporting",
-        "popularity": 425
+        "popularity": 4244
       },
       {
-        "name": "Amawaka, Seigen",
+        "name": "Black☆Star",
+        "role": "Main",
+        "popularity": 4113
+      },
+      {
+        "name": "Stein, Franken",
+        "role": "Supporting",
+        "popularity": 3436
+      },
+      {
+        "name": "Excalibur",
+        "role": "Supporting",
+        "popularity": 1550
+      },
+      {
+        "name": "Shinigami",
+        "role": "Supporting",
+        "popularity": 1091
+      },
+      {
+        "name": "Gorgon, Medusa",
+        "role": "Supporting",
+        "popularity": 737
+      },
+      {
+        "name": "Nakatsukasa, Tsubaki",
+        "role": "Main",
+        "popularity": 657
+      },
+      {
+        "name": "Blair",
+        "role": "Supporting",
+        "popularity": 571
+      },
+      {
+        "name": "Thompson, Patricia",
+        "role": "Main",
+        "popularity": 380
+      },
+      {
+        "name": "Albarn, Spirit",
+        "role": "Supporting",
+        "popularity": 298
+      },
+      {
+        "name": "Mifune",
+        "role": "Supporting",
+        "popularity": 295
+      },
+      {
+        "name": "Asura",
+        "role": "Supporting",
+        "popularity": 247
+      },
+      {
+        "name": "Law, Justin",
+        "role": "Supporting",
+        "popularity": 168
+      },
+      {
+        "name": "Thompson, Elizabeth",
+        "role": "Main",
+        "popularity": 144
+      },
+      {
+        "name": "Frog, Eruka",
+        "role": "Supporting",
+        "popularity": 141
+      }
+    ],
+    "members": 185111,
+    "score": 8.09,
+    "url": "https://myanimelist.net/manga/908/Soul_Eater"
+  },
+  {
+    "id": 40,
+    "title": "Nanatsu no Taizai",
+    "alternativeTitle": [
+      "七つの大罪",
+      "The Seven Deadly Sins",
+      "Seven Deadly Sins",
+      "The Seven Deadly Sins",
+      "Seven Deadly Sins"
+    ],
+    "authors": [
+      "Suzuki, Nakaba"
+    ],
+    "description": "In a world where injustice prevails, the Holy Knights of Britannia protect their homeland with their unparalleled magic and strength. Their most sought-after targets are \"The Seven Deadly Sins\": a group of criminals once regarded as the strongest of Britannia's Holy Knights. Their supposed conspiracy to overthrow the Kingdom of Liones led to their defeat at the hands of the Holy Knights, but rumors persist that the seven infamous knights still live. \n\nTen years later, the Holy Knights ironically stage a coup d'état themselves and capture the King of Liones, installing themselves as the new rulers of the kingdom. Elizabeth Liones, the third princess of the kingdom, sets out on a journey to find the Seven Deadly Sins and request their aid when she stumbles upon a bar owned by Meliodas, the Dragon's Sin of Wrath and the former leader of the disgraced knights. The pair sets out to find Meliodas' old comrades, but will it be hope or despair that awaits them in their travels?\n\n[Written by MAL Rewrite]",
+    "background": "'Nanatsu no Taizai' won the 39th Kodansha Manga Awards in the shounen manga demographic category, alongside'Yowamushi Pedal' .\n\nThe series was published in English as'The Seven Deadly Sins' by Kodansha Comics USA from March 25, 2014 to January 26, 2021; in Spanish by Norma Editorial since September 26, 2014; in French by Pika Edition since March 19, 2014; in Italian by Star Comics since March 29, 2014; in German by Carlsen Manga since March 17, 2015; and in Brazil by JBC since March 21, 2015.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Award Winning",
+      "Fantasy",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Ban",
+        "role": "Main",
+        "popularity": 12077
+      },
+      {
+        "name": "Meliodas",
+        "role": "Main",
+        "popularity": 9766
+      },
+      {
+        "name": "Escanor",
+        "role": "Supporting",
+        "popularity": 7568
+      },
+      {
+        "name": "King",
+        "role": "Main",
+        "popularity": 2229
+      },
+      {
+        "name": "Hawk",
+        "role": "Main",
+        "popularity": 1574
+      },
+      {
+        "name": "Gowther",
+        "role": "Main",
+        "popularity": 1470
+      },
+      {
+        "name": "Diane",
+        "role": "Main",
+        "popularity": 1368
+      },
+      {
+        "name": "Liones, Elizabeth",
+        "role": "Main",
+        "popularity": 1262
+      },
+      {
+        "name": "Merlin",
+        "role": "Main",
+        "popularity": 901
+      },
+      {
+        "name": "Zeldris",
+        "role": "Supporting",
+        "popularity": 291
+      },
+      {
+        "name": "Elaine",
+        "role": "Supporting",
+        "popularity": 240
+      },
+      {
+        "name": "Gilthunder",
+        "role": "Supporting",
+        "popularity": 203
+      },
+      {
+        "name": "Estarossa",
+        "role": "Supporting",
+        "popularity": 181
+      },
+      {
+        "name": "Jericho",
+        "role": "Supporting",
+        "popularity": 168
+      },
+      {
+        "name": "Pendragon, Arthur",
+        "role": "Supporting",
+        "popularity": 137
+      },
+      {
+        "name": "Derieri",
+        "role": "Supporting",
+        "popularity": 113
+      }
+    ],
+    "members": 177575,
+    "score": 7.48,
+    "url": "https://myanimelist.net/manga/44485/Nanatsu_no_Taizai"
+  },
+  {
+    "id": 42,
+    "title": "Noragami",
+    "alternativeTitle": [
+      "Stray Gods",
+      "ノラガミ",
+      "Noragami: Stray God"
+    ],
+    "authors": [
+      "Adachitoka"
+    ],
+    "description": "As a relatively unknown minor deity without any worshippers, Delivery God Yato takes on odd jobs for only five yen, with the goal of amassing a fortune large enough to buy himself a shrine. But in addition to obscurity, he has another problem: his \"Shinki,\" or weapon partner, has decided to resign, tired of being with a homeless god. Left with no weapon, Yato takes on more jobs, hoping to find a new partner soon.\n\nWhile out putting up fliers for a missing cat, Yato sees said cat and chases after him, right into the path of an oncoming vehicle. Hiyori Iki, a nearby girl, rushes to push Yato out of the way and ends up hurt herself. After waking up in the hospital, she discovers the incident has knocked her soul loose from her body. Realizing his actions caused this, Yato promises to help return Hiyori to normal—for five yen of course. But in order to return her to normal, he requires a new Shinki, which he finds in the rebellious spirit Yukine.\n\nNoragami tells the story of a girl walking the line between two worlds, and a stray deity's quest for a place to call his own.\n\n[Written by MAL Rewrite]",
+    "background": "'Noragami' has been published in English as'Noragami: Stray God' by Kodansha Comics USA since September 2, 2014. The series has also been simulpub through K Manga. It has been published in Polish by Studio JG since October 26, 2015; in Brazilian Portuguese by Panini Comics/Planet Manga since July 2016; in Spanish by Norma Editorial since October 2015; and in Russian since July 22, 2016.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mythology",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Yato",
+        "role": "Main",
+        "popularity": 39290
+      },
+      {
+        "name": "Yukine",
+        "role": "Main",
+        "popularity": 4346
+      },
+      {
+        "name": "Iki, Hiyori",
+        "role": "Main",
+        "popularity": 3036
+      },
+      {
+        "name": "Bishamon",
+        "role": "Supporting",
+        "popularity": 2414
+      },
+      {
+        "name": "Kofuku",
+        "role": "Supporting",
+        "popularity": 1340
+      },
+      {
+        "name": "Kazuma",
+        "role": "Supporting",
+        "popularity": 811
+      },
+      {
+        "name": "Nora",
+        "role": "Supporting",
+        "popularity": 328
+      },
+      {
+        "name": "Ebisu",
+        "role": "Supporting",
+        "popularity": 170
+      },
+      {
+        "name": "Daikoku",
+        "role": "Supporting",
+        "popularity": 137
+      }
+    ],
+    "members": 178030,
+    "score": 8.39,
+    "url": "https://myanimelist.net/manga/24692/Noragami"
+  },
+  {
+    "id": 43,
+    "title": "Akame ga Kill!",
+    "alternativeTitle": [
+      "Akame ga Kiru!",
+      "アカメが斬る!",
+      "Akame ga Kill!",
+      "Akame ga KILL!",
+      "Red Eyes Sword - Akame ga Kill !"
+    ],
+    "authors": [
+      "Tashiro, Tetsuya",
+      "Takahiro"
+    ],
+    "description": "The ruthless Minister Honest exploits the ignorance of a new young Emperor and deviously rules the country from the shadows with twisted morals and no regard for human life. As a result of this, an epidemic of crime and corruption has spread throughout the country's capital city, and a state of society ensues where the privileged have absolute domination over the lesser.\n\nHowever, there exists an organization to combat this rife abuse of power: Night Raid, a secret division of the oppositionary Revolutionary Army. It is composed of a small team of ruthless assassins who murder all those who partake in or turn a blind eye to the Empire's outrageous wrongdoings. \n\nTatsumi is a naïve, sword-wielding young man on a journey to save his impoverished village. Soon, he witnesses the bloody horrors and cruelty of the capital firsthand. Overcome with hatred, Tatsumi is swayed by Night Raid's profound cause and decides to join them, embarking on a painful and dangerous mission to exact revenge on Minister Honest. Tatsumi gains many invaluable experiences as he unravels the ethics of conflicting ideologies, life and death, all while working toward the restoration of a humane world.\n\n[Written by MAL Rewrite]",
+    "background": "'Akame ga Kill!' was published in English by Yen Press from January 20, 2015 to July 24, 2018; in Spanish by Norma Editorial since October 29, 2015; in Italian by Panini Comics since October 24, 2015; in French by Kurokawa edition since September 11, 2014; and in Polish by Waneko since August 6, 2017\n\nAuthor Takahiro stated in'Akame ga Kill! 1.5' that the series is heavily inspired by the historical drama series'Hissatsu' .",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Gore",
+      "Super Power",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Akame",
+        "role": "Main",
+        "popularity": 12446
+      },
+      {
+        "name": "Esdeath",
+        "role": "Supporting",
+        "popularity": 11487
+      },
+      {
+        "name": "Mine",
+        "role": "Main",
+        "popularity": 3977
+      },
+      {
+        "name": "Tatsumi",
+        "role": "Main",
+        "popularity": 2633
+      },
+      {
+        "name": "Lubbock",
+        "role": "Supporting",
+        "popularity": 2342
+      },
+      {
+        "name": "Leone",
+        "role": "Supporting",
+        "popularity": 1933
+      },
+      {
+        "name": "Chelsea",
+        "role": "Supporting",
+        "popularity": 1891
+      },
+      {
+        "name": "Bulat",
+        "role": "Supporting",
+        "popularity": 1198
+      },
+      {
+        "name": "Sheele",
+        "role": "Supporting",
+        "popularity": 802
+      },
+      {
+        "name": "Kurome",
+        "role": "Supporting",
+        "popularity": 657
+      },
+      {
+        "name": "Bols",
         "role": "Supporting",
         "popularity": 241
       },
       {
-        "name": "Ikaruga, Shimon",
+        "name": "Ubiquitous, Seryuu",
         "role": "Supporting",
-        "popularity": 154
+        "popularity": 219
+      },
+      {
+        "name": "Wave",
+        "role": "Supporting",
+        "popularity": 161
+      },
+      {
+        "name": "Najenda",
+        "role": "Supporting",
+        "popularity": 153
+      },
+      {
+        "name": "Susanoo",
+        "role": "Supporting",
+        "popularity": 145
       }
     ],
-    "members": 48379,
-    "score": 7.89
+    "members": 174705,
+    "score": 7.83,
+    "url": "https://myanimelist.net/manga/25132/Akame_ga_Kill"
+  },
+  {
+    "id": 45,
+    "title": "Pandora Hearts",
+    "alternativeTitle": [
+      "PandoraHearts",
+      "Pandora Hearts",
+      "PandoraHearts"
+    ],
+    "authors": [
+      "Mochizuki, Jun"
+    ],
+    "description": "Reminiscent of a broken toy box, the mystical Abyss is a terrifying realm home to monstrous creatures called Chains. Most believe it to be only a fairy tale, used to scare children who misbehave. Oz Vessalius, the cheerful and mischievous heir of the noble Vessalius family, is one such individual—until, at his coming-of-age ceremony, the mysterious Baskerville Clan arrives and condemns him to the Abyss for a sin he neither committed nor knows anything about. Oz then forms a contract with Alice, a unique Chain who can take on human form, in an attempt to escape from the Abyss.\n\nAs Oz struggles to unravel the mysteries behind his sin, the Abyss, and a tragedy from one hundred years ago, he and his companions find themselves confronted by the Baskervilles and ghosts from the past. Meanwhile, his journey back home is plagued by relentless despair.\n\n[Written by MAL Rewrite]\n\nIncluded one-shot:\nVolume 8: Pandora Hearts (pilot)",
+    "background": "'Pandora Hearts' was published in English by Yen Press from December 15, 2009 to March 22, 2016, and again in 12 omnibus volumes in a complete box set titled'PandoraBox' on November 21, 2017. It was also published in French by Ki Oon from July 1, 2010 to April 14, 2016; in German by Carlsen Manga from March 18, 2011 to June 2016; in Spanish by Norma Editorial from March 23, 2012 to June 23, 2016; in Polish by Waneko from October 1, 2012 to July 28, 2016; and in Italian by Star Comics from November 3, 2012 to March 2, 2016.",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Supernatural",
+      "Shounen"
+    ],
+    "characters": [
+      {
+        "name": "Break, Xerxes",
+        "role": "Main",
+        "popularity": 5245
+      },
+      {
+        "name": "Nightray, Gilbert",
+        "role": "Main",
+        "popularity": 3043
+      },
+      {
+        "name": "Alice",
+        "role": "Main",
+        "popularity": 2739
+      },
+      {
+        "name": "Vessalius, Oz",
+        "role": "Main",
+        "popularity": 2394
+      },
+      {
+        "name": "Nightray, Elliot",
+        "role": "Supporting",
+        "popularity": 1003
+      },
+      {
+        "name": "Vessalius, Jack",
+        "role": "Supporting",
+        "popularity": 686
+      },
+      {
+        "name": "Nightray, Vincent",
+        "role": "Supporting",
+        "popularity": 604
+      },
+      {
+        "name": "Will of the Abyss",
+        "role": "Supporting",
+        "popularity": 312
+      },
+      {
+        "name": "Echo",
+        "role": "Supporting",
+        "popularity": 291
+      },
+      {
+        "name": "Baskerville, Lacie",
+        "role": "Supporting",
+        "popularity": 255
+      },
+      {
+        "name": "Cheshire Cat",
+        "role": "Supporting",
+        "popularity": 249
+      },
+      {
+        "name": "Leo",
+        "role": "Supporting",
+        "popularity": 216
+      },
+      {
+        "name": "Rainsworth, Sharon",
+        "role": "Main",
+        "popularity": 130
+      }
+    ],
+    "members": 170738,
+    "score": 8.57,
+    "url": "https://myanimelist.net/manga/3031/Pandora_Hearts"
+  },
+  {
+    "id": 49,
+    "title": "Dorohedoro",
+    "alternativeTitle": [
+      "ドロヘドロ",
+      "Dorohedoro"
+    ],
+    "authors": [
+      "Hayashida, Q"
+    ],
+    "description": "Hole—a dark, decrepit, and disorderly district where the strong prey on the weak and death is an ordinary occurrence—is all but befitting of the name given to it. A realm separated from law and ethics, it is a testing ground to the magic users who dominate it. As a race occupying the highest rungs of their society, the magic users think of the denizens of Hole as no more than insects. Murdered, mutilated, and made experiments without a second thought, the powerless Hole dwellers litter the halls of Hole's hospital on a daily basis.\n\nPossessing free access to and from the cesspool, and with little challenge to their authority, the magic users appear indomitable to most—aside for a few. Caiman, more reptile than man, is one such individual. He hunts them on a heedless quest for answers with only a trusted pair of bayonets and his immunity to magic. Cursed by his appearance and tormented by nightmares, magic users are his only clue to restoring his life to normal. With his biggest obstacle being his stomach, his female companion Nikaidou, who runs the restaurant Hungry Bug, is his greatest ally.\n\nSet in a gritty world of hellish design, Dorohedoro manages a healthy blend of comedy and lightheartedness with death and carnage. Taking plenty of twists and turns while following the lives of Hole's residents, it weaves a unique world of unearthly origin and dreary appearance not for the squeamish or easily disturbed.\n\n[Written by MAL Rewrite]",
+    "background": "'Dorohedoro' has been published in English by VIZ Media under the SigIkki imprint since March 16, 2010.\n\nThe manga was first serialized in Ikki magazine until its discontinuance with the November 2014 issue. Serialization then moved to HiBaNa on March 6, 2015 (volume 1) and continued until its discontinuance on August 8, 2017, and then to shounen magazine Gessan starting with the December 2017 issue.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Gore",
+      "Seinen"
+    ],
+    "characters": [
+      {
+        "name": "Caiman",
+        "role": "Main",
+        "popularity": 2483
+      },
+      {
+        "name": "Noi",
+        "role": "Main",
+        "popularity": 2332
+      },
+      {
+        "name": "Nikaidou",
+        "role": "Main",
+        "popularity": 1907
+      },
+      {
+        "name": "Shin",
+        "role": "Main",
+        "popularity": 1776
+      },
+      {
+        "name": "Ebisu",
+        "role": "Main",
+        "popularity": 1119
+      },
+      {
+        "name": "En",
+        "role": "Main",
+        "popularity": 880
+      },
+      {
+        "name": "Johnson",
+        "role": "Supporting",
+        "popularity": 263
+      },
+      {
+        "name": "Kasukabe",
+        "role": "Supporting",
+        "popularity": 222
+      },
+      {
+        "name": "Fujita",
+        "role": "Main",
+        "popularity": 216
+      },
+      {
+        "name": "Risu",
+        "role": "Main",
+        "popularity": 175
+      },
+      {
+        "name": "Dokuga",
+        "role": "Supporting",
+        "popularity": 147
+      },
+      {
+        "name": "Aikawa",
+        "role": "Main",
+        "popularity": 146
+      }
+    ],
+    "members": 167510,
+    "score": 8.68,
+    "url": "https://myanimelist.net/manga/1133/Dorohedoro"
   }
 ]

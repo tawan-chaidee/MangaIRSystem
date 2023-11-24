@@ -8,8 +8,8 @@ dotenv.config({path: path.resolve("../.env")})
 import chalk from "chalk";
 
 const MAX_CONCURRENT_TASKS = 1; //GOING TOO FAST
-const START_INDEX = 200;
-const DATA_SIZE = 100;
+const START_INDEX = 0;
+const DATA_SIZE = 50;
 const DELAY = 0; // Delay for each manga in milisecond
 const WANTED_GENRE = 'Fantasy';
 const JSON_FILE_PATH = 'manga_data.json';
@@ -232,6 +232,7 @@ async function scrapeMangaData(browser: Browser, url: string, title: string, ind
       characters,
       members,
       score,
+      url,
     };
     // console.log(newManga)
     console.log(chalk.green(index + ': ' + title + ' finished'));

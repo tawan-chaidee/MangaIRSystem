@@ -10,7 +10,7 @@
     "add-to-elastic": "tsc && node ./dest/Tools/addToDb.js",
     "search-test": "tsc && node ./dest/Tools/searchTest.js"
   },
-  "workspaces": ["frontend","tools"],
+  "workspaces": ["frontend","backend","tools"],
   "author": "",
   "license": "ISC",
   "dependencies": {

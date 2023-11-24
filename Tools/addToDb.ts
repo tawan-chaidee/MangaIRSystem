@@ -54,13 +54,6 @@ async function main() {
           type: "text",
           analyzer: "custom_analyzer",
           search_analyzer: "standard",
-          fields: {
-            // for japanese titles
-            // standard: {
-            //   type: "text",
-            //   analyzer: "standard",
-            // }
-          }
         },
         authors: {
           type: "text",
@@ -87,6 +80,27 @@ async function main() {
         },
         score: {
           type: "float",
+        },
+        url: {
+          type: "keyword",
+        },
+        characters: {
+          type: "nested",
+          properties: {
+            name: {
+              type: "text",
+              analyzer: "custom_analyzer",
+              search_analyzer: "standard",
+            },
+            role: {
+              type: "text",
+              analyzer: "custom_analyzer",
+              search_analyzer: "standard",
+            },
+            popularity: {
+              type: "integer",
+            },
+          },
         },
       }
     }
