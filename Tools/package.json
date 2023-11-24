@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "scraper": "tsc && node dist/manga_scraper.js",
-    "db": "tsc && node dist/addToDb.js",
+    "scraper": "tsc && node dist/scraper_prep.js",
+    "db": "tsc && node dist/db.js",
     "searchTest": "tsc && node dist/searchTest.js"
   },
   "author": "",
