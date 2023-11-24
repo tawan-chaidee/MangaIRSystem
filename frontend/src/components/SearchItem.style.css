@@ -1,0 +1,15 @@
+.search-item {
+  display: flex;
+  flex-direction: column;
+  margin: 1em;
+  padding: 1em;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.search-item .top-info {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap:1em;
+}

@@ -1,14 +1,39 @@
-import { useState } from 'react'
+import { ChangeEvent, useEffect, useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import { searchElastic } from './search'
+import { MangaSearchHitsResponse } from './search'
+import SearchItem from './components/SearchItem'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [search, setSearch] = useState('')
+  const [searchResults, setSearchResults] = useState<MangaSearchHitsResponse[]>([])
+
+  const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
+    setSearch(e.target.value)
+  }
+
+  useEffect(() => {
+    searchElastic(search).then((res) => {
+      setSearchResults(res)
+    })
+
+  },[search])
 
   return (
     <>
-      <div>
+      <input type="text" value={search} onChange={handleChange} />
+      <h1>Result</h1>
+      {
+        searchResults.map((result) => {
+          return <SearchItem item={result} />
+        })
+      }
+      {/* {
+        JSON.stringify(searchResults)
+      } */}
+      {/* <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
@@ -27,7 +52,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-      </p>
+      </p> */}
     </>
   )
 }

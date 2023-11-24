@@ -9,7 +9,14 @@ const client = new Elastic.Client({
 
 const index = "test-index"
 
-let query = "Adventure"
+let query = "Adventur"
+let lol = {
+}
+
+client.search({
+  index,
+  body: lol
+})
 
 client.search({
   index,
