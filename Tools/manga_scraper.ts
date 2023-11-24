@@ -2,7 +2,9 @@ import puppeteer, { Browser } from "puppeteer";
 import fs from "fs";
 import * as csv from "fast-csv";
 import https from "https";
-import "dotenv/config";
+import path from "path"
+import dotenv from "dotenv"
+dotenv.config({path: path.resolve("../.env")})
 import chalk from "chalk";
 
 const MAX_CONCURRENT_TASKS = 1; //GOING TOO FAST

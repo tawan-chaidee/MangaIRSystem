@@ -1,7 +1,9 @@
 import Elastic from "@elastic/elasticsearch"
 import fs from "fs"
 import path from "path"
-import 'dotenv/config'
+import dotenv from "dotenv"
+dotenv.config({path: path.resolve("../.env")})
+// import 'dotenv/config'
 
 const mangaDataPath = path.resolve(process.env.MANGA_DATA_PATH)
 

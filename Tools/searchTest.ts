@@ -1,6 +1,7 @@
 import Elastic from "@elastic/elasticsearch"
 import path from "path"
-import "dotenv/config"
+import dotenv from "dotenv"
+dotenv.config({path: path.resolve("../.env")})
 
 const client = new Elastic.Client({
   node: process.env.ELASTICSEARCH_URL,
