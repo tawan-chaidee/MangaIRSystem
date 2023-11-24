@@ -80,7 +80,7 @@ async function scrapeMangaData(browser: Browser, url: string, title: string, id:
     let members = await page.$eval('.numbers.members', (element) => parseIntImproved(element.textContent));
 
     // download image
-    let imageUrl = await page.$eval('.leftside img', (element: { src: any; }) => element.src)
+    let imageUrl = await page.$eval('.leftside img', (element) => element.src)
     let imageLocation = process.env.MANGA_IMAGES_PATH + '/' + malId + '.jpg';
     let imageFile = fs.createWriteStream(imageLocation);
 

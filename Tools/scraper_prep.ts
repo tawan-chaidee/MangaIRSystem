@@ -6,7 +6,7 @@ import scrapeMangaData from "./scraper_func.js";
 // const url = "https://anilist.co/search/manga?genres=Romance&genres=Fantasy&format=MANGA&country%20of%20origin=JP"
 const apiUrl = "https://graphql.anilist.co"
 const delay = 1000
-const startIndex = 90
+const startIndex = 1
 const endIndex = 100
 
 async function main() {
@@ -40,15 +40,16 @@ async function main() {
       // Start scraping
       let browser = await puppeteer.launch({ headless: true })
       toBeScraped = toBeScraped.map((entry, index) => {
-        entry["index"] = index
+        entry["in"] = index
         return entry
       })
-      let scrapeTasks = toBeScraped.slice(startIndex,endIndex).map((entry) => {
-        let index = entry["index"]
+      toBeScraped = toBeScraped.slice(startIndex,endIndex)
+      let scrapeTasks = toBeScraped.map((entry) => {
+        let index = entry["in"]
         let title = entry.Title
         let url = entry.page_url
         let malId = url.match(/\/(\d+)\//)[1]
-        // let index = entry['']
+
         return () => scrapeMangaData(browser, url, title, index, malId)
       })
 
@@ -99,7 +100,7 @@ async function fetchManga(number: number, genre: string) {
   let reqNum = Math.ceil(number / 50)
   let mangaList: string[] = []
 
-  for (let i = 0; i < reqNum; i++) {
+  for (let i = 1; i <= reqNum; i++) {
     let query = `
     query($page: Int, $perPage: Int, $genre: String) {
       Page(page: $page, perPage: $perPage) {
