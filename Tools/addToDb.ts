@@ -30,8 +30,8 @@ async function main() {
           custom_analyzer: {
             type: "custom",
             tokenizer: "custom_edge_ngram",
-            filter: ["lowercase", "asciifolding"],
-          }
+            filter: ["lowercase", "asciifolding", "cjk_width", "cjk_bigram"],
+          },
         },
         tokenizer: {
           custom_edge_ngram: {
@@ -54,6 +54,13 @@ async function main() {
           type: "text",
           analyzer: "custom_analyzer",
           search_analyzer: "standard",
+          fields: {
+            // for japanese titles
+            // standard: {
+            //   type: "text",
+            //   analyzer: "standard",
+            // }
+          }
         },
         authors: {
           type: "text",

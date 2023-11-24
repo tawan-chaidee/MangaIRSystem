@@ -34,16 +34,24 @@ export async function searchElastic(query: string) {
           query: {
             bool: {
               should: [
+                // original search
+                {
+                  multi_match: {
+                    query: query,
+                    fields: ["title^6", "alternativeTitle^2", "authors^3"],
+                  }
+                },
+                // wildcard search, contributes less to score
                 {
                   query_string: {
-                    query: query,
-                    fields: ["title^3", "alternativeTitle^2", "authors^2", "description^1.2", "background^0.5", "genres^1.5"],
+                    query: '*'+query+'*',
+                    fields: ["title^3", "alternativeTitle^1", "authors^2", "description^1.2", "background^0.5", "genres^1.5"],
                   }
                 }]
             }
           },
           functions: [
-            { script_score: { script: "Math.log(doc['members'].value)" } },
+            { script_score: { script: "Math.log(doc['members'].value) * 1.5" } },
             { script_score: { script: "Math.log(doc['score'].value)" } }
           ],
           score_mode: "multiply",
