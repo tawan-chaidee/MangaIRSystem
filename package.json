@@ -6,9 +6,10 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run-scraper": "node ./WebScrapeTool/MyAnimeListScraper.js",
-    "add-to-elastic": "tsc && node ./dest/Tools/addToDb.js",
-    "search-test": "tsc && node ./dest/Tools/searchTest.js"
+    "tool:scraper": "cd tools && npm run scraper",
+    "tool:db": "cd tools && npm run db",
+    "server": "cd backend && npm start",
+    "client": "cd frontend && npm run dev"
   },
   "workspaces": ["frontend","backend","tools"],
   "author": "",
