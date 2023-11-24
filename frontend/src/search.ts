@@ -35,15 +35,15 @@ export async function searchElastic(query: string) {
             bool: {
               should: [
                 {
-                  multi_match: {
+                  query_string: {
                     query: query,
-                    fields: ["title^2", "alternativeTitle^1.5", "authors^1.5", "description^1.2", "background^0.5", "genres^1.5"],
+                    fields: ["title^3", "alternativeTitle^2", "authors^2", "description^1.2", "background^0.5", "genres^1.5"],
                   }
                 }]
             }
           },
           functions: [
-            { script_score: { script: "Math.log(doc['members'].value) * 2" } },
+            { script_score: { script: "Math.log(doc['members'].value)" } },
             { script_score: { script: "Math.log(doc['score'].value)" } }
           ],
           score_mode: "multiply",

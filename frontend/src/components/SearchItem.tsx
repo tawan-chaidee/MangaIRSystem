@@ -9,6 +9,9 @@ export default function SearchItem({ item, className, ...props }: SearchItemProp
 
   return (
     <div className={`search-item ${className}`}   {...props}>
+      <div className="score">
+        {item._score}
+      </div>
       <div className='top-info'>
         <h2>{item._source.title}</h2>
         <div>({item._source.alternativeTitle.join(', ')})</div>

@@ -5,6 +5,7 @@
   padding: 1em;
   border: 1px solid white;
   border-radius: 5px;
+  position: relative;
 }
 
 .search-item .top-info {
@@ -12,4 +13,13 @@
   align-items: center;
   justify-content: left;
   gap:1em;
+}
+
+.search-item .score {
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: 1px solid white;
+  margin: 1em;
+  padding: 0.25em 0.5em;
 }

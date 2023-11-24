@@ -15,7 +15,7 @@ function App() {
   }
 
   useEffect(() => {
-    searchElastic(search).then((res) => {
+    searchElastic(`*${search}*`).then((res) => {
       setSearchResults(res)
     })
 
