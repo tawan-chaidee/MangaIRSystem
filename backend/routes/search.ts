@@ -19,14 +19,14 @@ app.get('/', async (req: Request<{}, {}, {}, { q: string }>, res) => {
                 {
                   multi_match: {
                     query: query,
-                    fields: ["title^6", "alternativeTitle^2", "authors^3"],
+                    fields: ["title^6", "alternativeTitle^5", "authors^3"],
                   }
                 },
                 // wildcard search, contributes less to score
                 {
                   query_string: {
                     query: '*' + query + '*',
-                    fields: ["title^3", "alternativeTitle^1", "authors^2", "description^1.2", "background^0.5", "genres^1.5"],
+                    fields: ["title^4", "alternativeTitle^4", "authors^2", "description^5", "background^4", "genres^6"],
                   }
                 },
                 {
