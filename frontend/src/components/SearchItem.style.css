@@ -11,7 +11,7 @@ a.no-format:hover {
 .search-item {
   display: flex;
   width:80vw;
-  max-width: 800px;
+  max-width: 720px;
   margin: 1em;
   padding: 1.8em;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
@@ -43,6 +43,9 @@ a.no-format:hover {
   align-items: center;
   justify-content: left;
   gap:1em;
+
+  text-overflow: ellipsis;
+
 }
 
 .search-item .top-info h2 {

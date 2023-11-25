@@ -15,20 +15,26 @@ app.get('/', async (req: Request<{}, {}, {}, { q: string }>, res) => {
           query: {
             bool: {
               should: [
-                // original search
                 {
                   multi_match: {
                     query: query,
-                    fields: ["title^6", "alternativeTitle^5", "authors^3"],
+                    fields: ["title^6", "alternativeTitle^3", "authors^3", "genres^5"],
+                    fuzziness: "auto", // Add fuzziness to support misspellings
+                  }
+                },
+                {
+                  multi_match: {
+                    query: query,
+                    fields: ["description^4", "background^3"],
                   }
                 },
                 // wildcard search, contributes less to score
-                {
-                  query_string: {
-                    query: '*' + query + '*',
-                    fields: ["title^4", "alternativeTitle^4", "authors^2", "description^5", "background^4", "genres^6"],
-                  }
-                },
+                // {
+                //   query_string: {
+                //     query: '*' + query + '*',
+                //     fields: ["title^4", "alternativeTitle^3", "authors^3", "description^4", "background^3", "genres^4"],
+                //   }
+                // },
                 {
                   nested: {
                     path: "characters",
@@ -45,12 +51,12 @@ app.get('/', async (req: Request<{}, {}, {}, { q: string }>, res) => {
                           { script_score: { script: "Math.log(doc['characters.popularity'].value)" } },
                         ],
                         score_mode: "sum",
-                        boost: 0.1,
+                        boost: 0.5,
                       },
                     },
                   }
                 },
-                {"match_all": {}}, // to make sure that's not empty
+                { "match_all": {} }, // to make sure that's not empty
               ]
             }
           },
