@@ -17,9 +17,15 @@ export default function SearchBar() {
 
     useEffect(() => {
         searchElastic(search).then((res) => {
-            setSearchResults(res)
+            const modifiedHits = res.map(hit => ({
+                ...hit,
+                _source: {
+                    ...hit._source,
+                    description: hit._source.description.replace('[Written by MAL Rewrite]', ''),
+                },
+            }));
+            setSearchResults(modifiedHits);
         })
-
     }, [search])
 
     return (
