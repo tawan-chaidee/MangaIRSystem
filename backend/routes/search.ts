@@ -51,7 +51,7 @@ app.get('/', async (req: Request<{}, {}, {}, { q: string }>, res) => {
                           { script_score: { script: "Math.log(doc['characters.popularity'].value)" } },
                         ],
                         score_mode: "sum",
-                        boost: 0.5,
+                        boost: 2,
                       },
                     },
                   }
