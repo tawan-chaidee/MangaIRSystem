@@ -26,11 +26,22 @@ async function main() {
     index,
     settings: {
       analysis: {
+        filter: {
+          custom_stemmer: {
+            type: "stemmer",
+            name: "english", // You can choose a different stemmer based on your language requirements
+          },
+        },
         analyzer: {
           custom_analyzer: {
             type: "custom",
             tokenizer: "custom_edge_ngram",
             filter: ["lowercase", "asciifolding", "cjk_width", "cjk_bigram"],
+          },
+          stemmer_analyzer: {
+            type: "custom",
+            tokenizer: "standard",
+            filter: ["lowercase", "asciifolding", "cjk_width", "cjk_bigram", "custom_stemmer"],
           },
         },
         tokenizer: {
@@ -62,12 +73,12 @@ async function main() {
         },
         description: {
           type: "text",
-          analyzer: "custom_analyzer",
+          analyzer: "stemmer_analyzer",
           search_analyzer: "standard",
         },
         background: {
           type: "text",
-          analyzer: "custom_analyzer",
+          analyzer: "stemmer_analyzer",
           search_analyzer: "standard",
         },
         genres: {
