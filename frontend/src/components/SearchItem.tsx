@@ -10,7 +10,7 @@ export default function SearchItem({ item, className, ...props }: SearchItemProp
   return (
     <a className='no-format' href={item._source.url}>
     <div className={`search-item ${className}`}   {...props}>
-      <img src={'http://localhost:3000' + '/image/' + item._id + '.jpg'} alt={item._source.title} />
+      <img src={import.meta.env.VITE_BACKEND_URL + '/image/' + item._id + '.jpg'} alt={item._source.title} />
       <div className='right-content'>
         <div className="score">
           {item._score}
