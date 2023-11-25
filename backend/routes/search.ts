@@ -18,7 +18,7 @@ app.get('/', async (req: Request<{}, {}, {}, { q: string }>, res) => {
                 {
                   multi_match: {
                     query: query,
-                    fields: ["title^6", "alternativeTitle^3", "authors^3", "genres^5"],
+                    fields: ["title^6", "alternativeTitle^3", "authors^6", "genres^5"],
                     fuzziness: "auto", // Add fuzziness to support misspellings
                   }
                 },
