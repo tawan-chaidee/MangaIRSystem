@@ -10,9 +10,12 @@ a.no-format:hover {
 
 .search-item {
   display: flex;
-  width:80vw;
-  max-width: 720px;
-  margin: 1em;
+  width: 100%;
+  box-sizing: border-box;
+  /* width:80vw; */
+  /* max-width: 720px; */
+  /* margin: 1em; */
+  margin-bottom: 1.8em;
   padding: 1.8em;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   position: relative;

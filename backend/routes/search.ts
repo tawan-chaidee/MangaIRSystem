@@ -56,7 +56,7 @@ app.get('/', async (req: Request<{}, {}, {}, { q: string }>, res) => {
                     },
                   }
                 },
-                { "match_all": {} }, // to make sure that's not empty
+                // { "match_all": {} }, // to make sure that's not empty
               ]
             }
           },

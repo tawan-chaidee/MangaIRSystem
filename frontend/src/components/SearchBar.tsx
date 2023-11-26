@@ -44,6 +44,12 @@ export default function SearchBar() {
 
             <div className="result-box">
                 {
+                    searchResults.length == 0 && search != '' && <p>No Matched Result</p>
+                }
+                {
+                    searchResults.length == 0 && search == '' && <p>Start typing your search</p>
+                }
+                {
                     searchResults.map((result) => {
                         return <SearchItem item={result} />
                     })
