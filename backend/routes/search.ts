@@ -8,6 +8,38 @@ app.get('/', async (req: Request<{}, {}, {}, { q: string }>, res) => {
   let query = req.query.q || ""
 
   try {
+    if (query == "") {
+      let result = await client.search<MangaSearchResult>({
+        index,
+        query: {
+          function_score: {
+            query: {
+              bool: {
+                should: [
+                  { "match_all": {} },
+                ]
+              }
+            },
+            functions: [
+              {
+                filter: { match_all: {} },
+                script_score: { script: "Math.log(doc['members'].value) * 1.5" }
+              },
+              {
+                filter: { match_all: {} },
+                script_score: { script: "Math.log(doc['score'].value)" }
+              }
+            ],
+            score_mode: "multiply",
+            boost_mode: "sum",
+          },
+        },
+        size: 25,
+      })
+  
+     return res.send(result.hits.hits)
+    }
+
     let result = await client.search<MangaSearchResult>({
       index,
       query: {
@@ -20,6 +52,14 @@ app.get('/', async (req: Request<{}, {}, {}, { q: string }>, res) => {
                     query: query,
                     fields: ["title^10", "alternativeTitle^6", "authors^6", "genres^6"],
                     // fuzziness: "auto", // Add fuzziness to support misspellings
+                  }
+                },
+                {
+                  multi_match: {
+                    query: query,
+                    fields: ["title^10", "alternativeTitle^6", "authors^6", "genres^6"],
+                    fuzziness: "auto", // Add fuzziness to support misspellings
+                    boost: 0.3, // Contributes less to score
                   }
                 },
                 {
@@ -51,7 +91,7 @@ app.get('/', async (req: Request<{}, {}, {}, { q: string }>, res) => {
                           { script_score: { script: "Math.log(doc['characters.popularity'].value)" } },
                         ],
                         score_mode: "sum",
-                        boost: 2,
+                        boost: 1,
                       },
                     },
                   }
